@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: Centreon web 2.x\n"
+"Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-03 07:36+0300\n"
+"PO-Revision-Date: 2017-05-03 07:58+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+"Language: ru\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.8.7.1\n"
 
@@ -1280,13 +1280,13 @@ msgid "Could not find configuration directory '%s' for monitoring engine '%s'. P
 msgstr "Не удалось найти каталог конфигурации '%s' для ядра мониторинга '%s'. Проверьте путь или создайте его."
 
 msgid "Could not find database user. Session probably expired."
-msgstr "Impossible de trouver l'utilisateur ayant accès aux bases de données. La session a probablement expirée"
+msgstr "Не удалось найти пользователя базы данных. Вероятно, сессия истекла."
 
 msgid "Could not find macro "
 msgstr "Не могу найти макрос"
 
 msgid "Could not find storage database. Session probably expired."
-msgstr "Base de données de stockage non trouvée. La session a probablement expirée."
+msgstr "Не удалось найти базу данных хранилища. Вероятно, сессия истекла."
 
 msgid "Could not find utils database. Session probably expired."
 msgstr "Impossible de trouver la base de données du broker. La session a probablement expirée"
@@ -5076,10 +5076,10 @@ msgid "Service category"
 msgstr "Категория службы"
 
 msgid "Service check latency"
-msgstr "Latence du contrôle du service"
+msgstr "Задержка проверки службы"
 
 msgid "Service dependency"
-msgstr "Dépendance de service"
+msgstr "Зависимости служб"
 
 msgid "Service escalations"
 msgstr "Эскалации служб"
@@ -5088,7 +5088,7 @@ msgid "Service group state"
 msgstr "Статус группы служб"
 
 msgid "Service groups"
-msgstr "Groupes de services"
+msgstr "Группы служб"
 
 msgid "Service is currently on Downtime"
 msgstr "Le service est actuellement en période d'arrêt"
@@ -5097,19 +5097,19 @@ msgid "Service links (service template links)"
 msgstr "Modèles de services liés"
 
 msgid "Service list"
-msgstr "Liste des services"
+msgstr "Список служб"
 
 msgid "Service notifications"
 msgstr "Оповещения служб"
 
 msgid "Service state"
-msgstr "Etat du service"
+msgstr "Состояние службы"
 
 msgid "Service status"
-msgstr "Etat du service"
+msgstr "Состояние службы"
 
 msgid "Service template"
-msgstr "Modèle de service"
+msgstr "Шаблон службы"
 
 msgid "ServiceGroup"
 msgstr "Группа служб"
@@ -5118,7 +5118,7 @@ msgid "Servicegroup"
 msgstr "Группа служб"
 
 msgid "Servicegroup dependency"
-msgstr "Dépendance de groupe de services"
+msgstr "Зависимости группы служб"
 
 msgid "Servicegroups / Hosts"
 msgstr "Группа служб / узлы сети"
@@ -5154,10 +5154,10 @@ msgid "Services Actively Checked"
 msgstr "Services actuellement contrôlés"
 
 msgid "Services Comments"
-msgstr "Commentaires sur les services"
+msgstr "Комментарии служб"
 
 msgid "Services Downtimes"
-msgstr "Temps d'arrêt des services"
+msgstr "Время простоев служб"
 
 msgid "Services Escalation"
 msgstr "Escalades des services"
@@ -5175,7 +5175,7 @@ msgid "Services Notification Period"
 msgstr "Период оповещений служб"
 
 msgid "Services Resources"
-msgstr "Gestion des services"
+msgstr "Ресурсы служб"
 
 msgid "Services Status"
 msgstr "État des services"
@@ -5232,25 +5232,25 @@ msgid "Set default"
 msgstr "Установить по умолчанию"
 
 msgid "Set downtime"
-msgstr "Configurer un temps d'arrêt"
+msgstr "Установить время простоя"
 
 msgid "Set downtime for hosts services"
 msgstr "Установить время простоя для служб узлов сети"
 
 msgid "Set downtimes"
-msgstr "Configurer des temps d'arrêt"
+msgstr "Установить время простоев"
 
 msgid "Set downtimes on services attached to hosts"
-msgstr "Установить время простоя для служб, прикрепленных к узлам сети"
+msgstr "Установить время простоев для служб, прикрепленных к узлам сети"
 
 msgid "Set the default timezone in php.ini file"
-msgstr "Définir le fuseau horaire par défaut dans le fichier php.ini"
+msgstr "Установите зону времени по умолчанию в файле php.ini"
 
 msgid "Set this view as your default view"
-msgstr "Configurer cette vue comme celle par défaut ?"
+msgstr "Установить этот вид, как ваш вид по умолчанию?"
 
 msgid "Set this view as your default view?"
-msgstr "Configurer cette vue comme celle par défaut?"
+msgstr "Установить этот вид, как ваш вид по умолчанию?"
 
 msgid "Setting up basic configuration"
 msgstr "Installation de la configuration basique"
@@ -5259,7 +5259,7 @@ msgid "Setting up configuration file"
 msgstr "Installation des fichiers de configurations"
 
 msgid "Setup"
-msgstr "Configuration"
+msgstr "Конфигурация"
 
 msgid "Severity"
 msgstr "Важность"
@@ -5271,7 +5271,7 @@ msgid "Severity type"
 msgstr "Тип важности"
 
 msgid "Share"
-msgstr "Partage"
+msgstr "Поделится"
 
 msgid "Share view"
 msgstr "Общий экран"
@@ -5280,7 +5280,7 @@ msgid "Shared Resources"
 msgstr "Общие ресурсы"
 
 msgid "Shared views list"
-msgstr "Liste des vues partagées"
+msgstr "Список общих экранов"
 
 msgid "Show Critical status"
 msgstr "Показывать статус Критический"
@@ -5304,7 +5304,7 @@ msgid "Show Warning status"
 msgstr "Показывать статус Предупреждение"
 
 msgid "Show/Hide edit mode"
-msgstr "Afficher/Cacher le mode édition"
+msgstr "Показать/скрыть режим редактирования"
 
 msgid "Shutdown Monitoring Engine"
 msgstr "Выключение ядра мониторинга"
@@ -5313,10 +5313,10 @@ msgid "Simple poller"
 msgstr "Collecteur uniquement"
 
 msgid "Size to max"
-msgstr "Taille max"
+msgstr "Максимальный размер"
 
 msgid "Skin Menu Selection"
-msgstr "Sélection de l'apparence des menus"
+msgstr "Выберите внешний вид меню"
 
 msgid "Snmp Traps"
 msgstr "Traps SNMP"
