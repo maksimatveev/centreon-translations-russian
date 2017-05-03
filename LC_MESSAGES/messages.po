@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 2.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2016-12-06 02:16+0300\n"
+"PO-Revision-Date: 2017-05-03 07:36+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -110,7 +110,7 @@ msgid "About"
 msgstr "О проекте"
 
 msgid "Accepted events type"
-msgstr "Type d'évènements accepté"
+msgstr "Тип принятых событий"
 
 msgid "Access"
 msgstr "Доступ"
@@ -170,7 +170,7 @@ msgid "Acknowledged"
 msgstr "Подтержденный"
 
 msgid "Acknowledged by %s"
-msgstr "Acquitté par %s"
+msgstr "Подтвержден %s"
 
 msgid "Action"
 msgstr "Действие"
@@ -422,7 +422,7 @@ msgid "Additional Information"
 msgstr "Дополнительная информация"
 
 msgid "Additional daemon"
-msgstr "Démon supplémentaire"
+msgstr "Дополнительный демон (процесс)"
 
 msgid "Additional freshness latency"
 msgstr "Latence additionnelle du contrôle de fraicheur"
@@ -452,7 +452,7 @@ msgid "Admin"
 msgstr "Администратор"
 
 msgid "Admin information"
-msgstr "Informations de l'administrateur"
+msgstr "Информация администратора"
 
 msgid "Administration"
 msgstr "Администрирование"
@@ -614,7 +614,7 @@ msgid "Auto"
 msgstr "Автоматический"
 
 msgid "Auto Discovery"
-msgstr "Découverte automatisée"
+msgstr "Автоматическое обнаружение"
 
 msgid "Auto Rescheduling"
 msgstr "Ré-ordonnancement automatique"
@@ -671,7 +671,7 @@ msgid "Base"
 msgstr "База"
 
 msgid "Base release"
-msgstr "Version de base"
+msgstr "Базовая версия"
 
 msgid "Basic Settings"
 msgstr "Базовые настройки"
@@ -695,13 +695,13 @@ msgid "Boolean Rules"
 msgstr "Логические правила"
 
 msgid "Broker Module"
-msgstr "Commande de lancement du module"
+msgstr "Centreon Broker Module"
 
 msgid "Broker Module Options"
-msgstr "Option de lancement du module"
+msgstr "Опции Centreon Broker Module"
 
 msgid "Broker Module information"
-msgstr "Information du module broker"
+msgstr "Информация о Centreon Broker Module"
 
 msgid "Broker Statistics"
 msgstr "Статистика Centreon Broker"
@@ -710,10 +710,10 @@ msgid "Broker configuration"
 msgstr "Конфигурация Centreon Broker"
 
 msgid "Broker module information"
-msgstr "Information du module broker"
+msgstr "Информация о Centreon Broker Module"
 
 msgid "Broker need options to be loaded"
-msgstr "Le broker a besoin d'options pour être lancé"
+msgstr "Параметры Centreon Broker должны быть загружены"
 
 msgid "Buffering timeout"
 msgstr "Temps avant activation du processus de basculement (failover)"
@@ -842,7 +842,7 @@ msgid "Centreon Broker"
 msgstr "Centreon Broker"
 
 msgid "Centreon Broker configuration"
-msgstr "Configuration de Centreon Broker"
+msgstr "Конфигурация Centreon Broker"
 
 msgid "Centreon Broker configuration path"
 msgstr "Путь к конфигурации Centreon Broker"
@@ -1118,7 +1118,7 @@ msgid "Config file name"
 msgstr "Название файла конфигурации"
 
 msgid "Config information"
-msgstr "Informations sur la configuration"
+msgstr "Информация о конфигурации"
 
 msgid "Configuration"
 msgstr "Конфигурация"
@@ -1139,7 +1139,7 @@ msgid "Configuration file not found."
 msgstr "Файл конфигурации не найден"
 
 msgid "Configuration messages"
-msgstr "Événements concernant la configuration"
+msgstr "Конфигурационные сообщения"
 
 msgid "Configuration name"
 msgstr "Название конфигурации"
@@ -1169,7 +1169,7 @@ msgid "Congratulations, you have successfully upgraded to Centreon version <b>%s
 msgstr "Félicitations, vous avez mis à jour avec succès Centreon en version <b>%s</b>."
 
 msgid "Connect"
-msgstr "Se connecter"
+msgstr "Подключиться"
 
 msgid "Connected Users"
 msgstr "Подключенные пользователи"
@@ -1184,7 +1184,7 @@ msgid "Connection failed, please contact your administrator"
 msgstr "Не удалось установить соединение, обратитесь к администратору"
 
 msgid "Connection port"
-msgstr "Port de connexion"
+msgstr "Порт подключения"
 
 msgid "Connector Description"
 msgstr "Описание соединителя"
@@ -1220,7 +1220,7 @@ msgid "Contact additive inheritance"
 msgstr "Добавить наследование контакта"
 
 msgid "Contact already exists"
-msgstr "Le contact existe déjà"
+msgstr "Контакт уже существует"
 
 msgid "Contact group"
 msgstr "Группа контакта"
@@ -1241,7 +1241,7 @@ msgid "Contact template used"
 msgstr "Используемый шаблон контакта"
 
 msgid "Contactgroups exists. If you try to use a LDAP contactgroup, please verified if a Centreon contactgroup has the same name."
-msgstr "Ce groupe de contacts existe. Si vous utiliser un group de contact LDAP, vérifier qu'un groupe de contact local à Centreon n'utilise pas le même nom."
+msgstr "Эта группа контактов уже существует. Если вы используете группы контактов из LDAP убедитесь, что локальная группа Centreon не использует такое же название."
 
 msgid "Contacts"
 msgstr "Контакты"
@@ -1262,28 +1262,28 @@ msgid "Convert Trap information"
 msgstr "Преобразование информации ловушки"
 
 msgid "Convert gd2 -> png :"
-msgstr "Convertir gd2 -> png :"
+msgstr "Конвертировать gd2 -> png :"
 
 msgid "Correlation"
-msgstr "Activer la corrélation"
+msgstr "Включить корреляцию"
 
 msgid "Correlation file"
-msgstr "Fichier de corrélation"
+msgstr "Файл корреляции"
 
 msgid "Could not find CENTREON_ETC. Session probably expired."
-msgstr "Variable CENTREON_ETC non trouvée. La session a probablement expirée."
+msgstr "Не удалось найти переменную CENTREON_ETC. Вероятно, сессия истекла."
 
 msgid "Could not find configuration database. Session probably expired."
-msgstr "Impossible de trouver la base de données de configuration. La session a probablement expirée"
+msgstr "Не удалось найти базу данных конфигурации. Вероятно, сессия истекла."
 
 msgid "Could not find configuration directory '%s' for monitoring engine '%s'. Please check it's path or create it"
-msgstr "Impossible de trouver le répertoire de configuration '%s' du moteur de supervision '%s'. Merci de le chemin du répertoire ou de le créer"
+msgstr "Не удалось найти каталог конфигурации '%s' для ядра мониторинга '%s'. Проверьте путь или создайте его."
 
 msgid "Could not find database user. Session probably expired."
 msgstr "Impossible de trouver l'utilisateur ayant accès aux bases de données. La session a probablement expirée"
 
 msgid "Could not find macro "
-msgstr "Ne peut pas trouver la macro "
+msgstr "Не могу найти макрос"
 
 msgid "Could not find storage database. Session probably expired."
 msgstr "Base de données de stockage non trouvée. La session a probablement expirée."
