@@ -1,0 +1,6576 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Centreon web 2.x\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-15 16:32+0000\n"
+"PO-Revision-Date: 2016-12-06 02:16+0300\n"
+"Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
+"Language-Team: Centreon team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+
+msgid " + Add a new entry"
+msgstr "+ Добавить новую запись"
+
+msgid " Required fields"
+msgstr "Обязательные поля"
+
+msgid "$HOSTADDRESS$"
+msgstr "$HOSTADDRESS$"
+
+msgid "1 Column"
+msgstr "1 столбец"
+
+msgid "2 Columns"
+msgstr "2 столбца"
+
+msgid "2d Coords"
+msgstr "Coordonnées 2D"
+
+msgid "3 Columns"
+msgstr "3 столбца"
+
+msgid "3d Coords"
+msgstr "Coordonnées 3D"
+
+msgid "<b><i>Help :</i></b> Select hosts and hostgroups that can be seen by associated users. You also have the possibility to exclude host(s) from selected hostgroup(s)."
+msgstr "<b><i>Aide :</i></b> Sélectionner les hôtes et les groupes d'hôtes qui peuvent être vus par les utilisateurs associés. Vous pouvez aussi exclure des hôtes des groupes d'hôtes sélectionnés."
+
+msgid "<b><i>Help :</i></b> Select meta services that can be seen by associated users."
+msgstr "<b><i>Aide :</i></b> Sélectionner les meta-services qui peuvent êtres vus par les utilisateurs associés."
+
+msgid "<b><i>Help :</i></b> Select services that can be seen by associated users."
+msgstr "<b><i>Aide :</i></b> Sélectionner les services qui peuvent être vus par les utilisateurs associés."
+
+msgid "<b><i>Help :</i></b> Select the filter(s) you want to apply to the resource definition for a more restrictive view."
+msgstr "<b><i>Aide :</i></b> Sélectionner le(s) filtre(s) que vous voulez appliquer à la définition des ressources pour une vue plus restreinte."
+
+msgid "<br><b>Centreon : </b>A force-reload signal has been sent to "
+msgstr "<br><b>Centreon : </b>Une commande de redémarrage forcée a été envoyée vers"
+
+msgid "<br><b>Centreon : </b>A reload signal has been sent to "
+msgstr "<br><b>Centreon : </b>Une commande de rechargement a été envoyée vers "
+
+msgid "<br><b>Centreon : </b>A restart signal has been sent to "
+msgstr "<br><b>Centreon : </b>Une commande de redémarrage a été envoyée vers "
+
+msgid "<br><b>Centreon : </b>All configuration will be send to "
+msgstr "<br><b>Centreon : </b>Toute la configuration sera envoyée vers "
+
+msgid "<br><b>Centreon : </b>Cannot send signal to "
+msgstr "<br><b>Centreon : </b>Impossible d'envoyer le signal vers "
+
+msgid "<br><i><b><font color=\"#B22222\">Notes </font>:</b></i><br>&nbsp;&nbsp;&nbsp;- Do not mix metrics of different sources.<br>&nbsp;&nbsp;&nbsp;- Only aggregation functions work in VDEF rpn expressions."
+msgstr "<br><i><b><font color=\"#B22222\">Notes </font>:</b></i><br>&nbsp;&nbsp;&nbsp;- Не следует смешивать показатели различных источников.<br>&nbsp;&nbsp;&nbsp;- Только агрегирование функций работает в выражениях RPN VDEF."
+
+msgid "<p>Currently upgrading database... please do not interrupt this process.</p>"
+msgstr "<p>En cours de mise à jour de la base de données... Merci de ne pas interrompre ce processus.</p>"
+
+msgid "A host can have multiple templates, their orders have a significant importance"
+msgstr "Узел сети может иметь несколько шаблонов, их порядок имеет важное значение"
+
+msgid "ACKNOWLEDGED"
+msgstr "ПОДТВЕРЖДЕННЫЙ"
+
+msgid "ACL"
+msgstr "ACL"
+
+msgid "ACL Actions"
+msgstr "Groupe d'accès aux actions"
+
+msgid "ACL Definition"
+msgstr "Nom de l'ACL"
+
+msgid "ACL Group"
+msgstr "Groupe de contrôle d'accès"
+
+msgid "ACL Menu"
+msgstr "Groupe d'accès aux menus"
+
+msgid "ACL Resource"
+msgstr "Groupe d'accès aux ressources"
+
+msgid "ACL Resource Groups"
+msgstr "Groupe d'accès aux ressources"
+
+msgid "ACL reloaded"
+msgstr "ACL rechargées"
+
+msgid "ALL"
+msgstr "Все"
+
+msgid "Aborted."
+msgstr "Прервано."
+
+msgid "About"
+msgstr "О проекте"
+
+msgid "Accepted events type"
+msgstr "Type d'évènements accepté"
+
+msgid "Access"
+msgstr "Доступ"
+
+msgid "Access Groups"
+msgstr "Группы Доступа"
+
+msgid "Access List"
+msgstr "Список доступа"
+
+msgid "Access groups"
+msgstr "Группы доступа"
+
+msgid "Access list groups"
+msgstr "Список групп доступа"
+
+msgid "Access list name"
+msgstr "Название списка доступа"
+
+msgid "Access lists"
+msgstr "Списки доступа"
+
+msgid "Accessible Pages"
+msgstr "Доступные страницы"
+
+msgid "Acknowledge"
+msgstr "Подтверждено"
+
+msgid "Acknowledge Host Problem"
+msgstr "Подтвердить проблему с узлом сети"
+
+msgid "Acknowledge Service Problem"
+msgstr "Подтвердить проблему с службой"
+
+msgid "Acknowledge a Service"
+msgstr "Подтверждения для службы"
+
+msgid "Acknowledge a host"
+msgstr "Подтверждение для узла сети"
+
+msgid "Acknowledge a service"
+msgstr "Подтверждение для службы"
+
+msgid "Acknowledge problem"
+msgstr "Подтвердить проблему"
+
+msgid "Acknowledge problems"
+msgstr "Подтвердить проблемы"
+
+msgid "Acknowledge selected problems"
+msgstr "Подтвердить выбранные проблемы"
+
+msgid "Acknowledge services attached to hosts"
+msgstr "Подтверждение для служб, прикрепленных к узлам сети"
+
+msgid "Acknowledged"
+msgstr "Подтержденный"
+
+msgid "Acknowledged by %s"
+msgstr "Acquitté par %s"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Action 1 : Submit result to Monitoring Engine"
+msgstr "Действие 1: Отправить результат ядру мониторинга"
+
+msgid "Action 2 : Force rescheduling of service check"
+msgstr "Действие 2: Принудительное изменение расписания проверки службы"
+
+msgid "Action 3 : Execute a Command"
+msgstr "Действие 3: Выполнить команду"
+
+msgid "Action Name"
+msgstr "Название действия"
+
+msgid "Action URL"
+msgstr "URL действия"
+
+msgid "Action access list link"
+msgstr "Liens vers les actions autorisées"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Actions Access"
+msgstr "Доступ к действиям"
+
+msgid "Actions access"
+msgstr "Доступ к действиям"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid "Active Check"
+msgstr "Активная проверка"
+
+msgid "Active Checks"
+msgstr "Активные проверки"
+
+msgid "Active Checks Enabled"
+msgstr "Включение активных проверок"
+
+msgid "Active Color"
+msgstr "Активный цвет"
+
+msgid "Active Directory"
+msgstr "Active Directory"
+
+msgid "Active Directory :"
+msgstr "Active Directory :"
+
+msgid "Actual"
+msgstr "Актуальный"
+
+msgid "Actual End"
+msgstr "Актуальное завершение"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add Comment for this host"
+msgstr "Добавление комментария для этого узла сети"
+
+msgid "Add Data Processing"
+msgstr "Добавление обработчика данных"
+
+msgid "Add Group"
+msgstr "Добавление группы"
+
+msgid "Add Image(s)"
+msgstr "Добавление изображения(-й)"
+
+msgid "Add Vendor"
+msgstr "Добавление производителя"
+
+msgid "Add Widget"
+msgstr "Добавление виджета"
+
+msgid "Add a Centreon-Broker Configuration"
+msgstr "Добавление конфигурации Centreon-Broker"
+
+msgid "Add a Command"
+msgstr "Добавление команды"
+
+msgid "Add a Connector"
+msgstr "Добавление соединителя"
+
+msgid "Add a Contact Group"
+msgstr "Добавление группы контактов"
+
+msgid "Add a Data Source Template"
+msgstr "Добавление шаблона источника данных"
+
+msgid "Add a Dependency"
+msgstr "Добавить зависимость"
+
+msgid "Add a Graph Template"
+msgstr "Добавление шаблона графика"
+
+msgid "Add a Group"
+msgstr "Добавление группы"
+
+msgid "Add a Host"
+msgstr "Добавление узла сети"
+
+msgid "Add a Host Extended Info"
+msgstr "Добавление к узлу сети дополнительной информации"
+
+msgid "Add a Host Group"
+msgstr "Добавление группы узлов сети"
+
+msgid "Add a Host Template"
+msgstr "Добавление шаблона узла сети"
+
+msgid "Add a Host comment"
+msgstr "Добавление комментария к узлу сети"
+
+msgid "Add a Host downtime"
+msgstr "Добавление временя простоя узлу сети"
+
+msgid "Add a LDAP server"
+msgstr "Добавление LDAP сервера"
+
+msgid "Add a Meta Service"
+msgstr "Добавление метаслужбы"
+
+msgid "Add a Meta Service indicator"
+msgstr "Добавление индикатора Метаслужбе"
+
+msgid "Add a Monitoring Engine Configuration File"
+msgstr "Добавление файла конфигурации ядра мониторинга"
+
+msgid "Add a Resource"
+msgstr "Добавление ресурса"
+
+msgid "Add a Service"
+msgstr "Добавление службы"
+
+msgid "Add a Service Category"
+msgstr "Добавление категории службы"
+
+msgid "Add a Service Group"
+msgstr "Добавление группы службы"
+
+msgid "Add a Service Template Model"
+msgstr "Добавление модели шаблона службы"
+
+msgid "Add a Service comment"
+msgstr "Добавление комментария к службе"
+
+msgid "Add a Service downtime"
+msgstr "Добавление времени простоя службы"
+
+msgid "Add a Time Period"
+msgstr "Добавление периода времени"
+
+msgid "Add a Trap definition"
+msgstr "Добавление определения SNMP ловушки"
+
+msgid "Add a User"
+msgstr "Добавление пользователя"
+
+msgid "Add a Virtual Metric"
+msgstr "Добавление виртуальной метрики"
+
+msgid "Add a comment for Host"
+msgstr "Добавление комментария для узла сети"
+
+msgid "Add a comment for Service"
+msgstr "Добавление комментария для службы"
+
+msgid "Add a comment for this service"
+msgstr "Добавление комментария для этой службы"
+
+msgid "Add a downtime"
+msgstr "Добавление времени простоя"
+
+msgid "Add a host category"
+msgstr "Добавление категории узла сети"
+
+msgid "Add a host downtime"
+msgstr "Добавление времени простоя узлу сети"
+
+msgid "Add a new macro"
+msgstr "Добавление нового макроса"
+
+msgid "Add a poller"
+msgstr "Добавление сборщика"
+
+msgid "Add a service downtime"
+msgstr "Добавление времени простоя службы"
+
+msgid "Add a template"
+msgstr "Добавление шаблона"
+
+msgid "Add a widget"
+msgstr "Добавление виджета"
+
+msgid "Add an ACL"
+msgstr "Добавление ACL"
+
+msgid "Add an Action"
+msgstr "Добавление действия"
+
+msgid "Add an Escalation"
+msgstr "Добавление эскалации"
+
+msgid "Add an Extended Info"
+msgstr "Добавление расширенной информации"
+
+msgid "Add innodb_file_per_table=1 in my.cnf file under the [mysqld] section and restart MySQL Server."
+msgstr "Добавить innodb_file_per_table=1 в файл my.cnf в секцию [mysql] и перезапустить сервер MySQL."
+
+msgid "Add macros"
+msgstr "Добавить макрос"
+
+msgid "Add new period"
+msgstr "Добавить новый период"
+
+msgid "Add relations"
+msgstr "Добавить отношения"
+
+msgid "Add view"
+msgstr "Добавить экран"
+
+msgid "Add viewer / viewer group"
+msgstr "Ajouter utilisateurs / groupes d'utilisateurs"
+
+msgid "Add widget"
+msgstr "Добавить виджет"
+
+msgid "Add with wizard"
+msgstr "Добавить через помощника настройки"
+
+msgid "Add/Delete a comment for a host"
+msgstr "Добавить/удалить комментарий для узла сети"
+
+msgid "Add/Delete a comment for a service"
+msgstr "Добавление/Удаление комментариев для службы"
+
+msgid "Added"
+msgstr "Добавленный"
+
+msgid "Additional Addresses"
+msgstr "Дополнительные адреса"
+
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+msgid "Additional daemon"
+msgstr "Démon supplémentaire"
+
+msgid "Additional freshness latency"
+msgstr "Latence additionnelle du contrôle de fraicheur"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address1"
+msgstr "Адрес n°1"
+
+msgid "Address2"
+msgstr "Адрес n°2"
+
+msgid "Address3"
+msgstr "Адрес n°3"
+
+msgid "Address4"
+msgstr "Адрес n°4"
+
+msgid "Address5"
+msgstr "Адрес n°5"
+
+msgid "Address6"
+msgstr "Адрес n°6"
+
+msgid "Admin"
+msgstr "Администратор"
+
+msgid "Admin information"
+msgstr "Informations de l'administrateur"
+
+msgid "Administration"
+msgstr "Администрирование"
+
+msgid "Administrator Email Address"
+msgstr "Email администратора"
+
+msgid "Administrator Pager"
+msgstr "Телефон/пейджер администратора"
+
+msgid "Advanced"
+msgstr "Расширенный"
+
+msgid "Advanced Logs"
+msgstr "Расширенные журналы"
+
+msgid "Advanced matching mode"
+msgstr "Расширенный режим соответствия"
+
+msgid "Advanced matching rules"
+msgstr "Расширенные правила соответствия"
+
+msgid "Advanced options"
+msgstr "Расширенные опции"
+
+msgid "After"
+msgstr "После"
+
+msgid "Aggressive Host Checks"
+msgstr "Агрессивные проверки узла сети"
+
+msgid "Alert"
+msgstr "Тревога"
+
+msgid "Alerts"
+msgstr "Оповещения"
+
+msgid "Alias"
+msgstr "Псевдоним"
+
+msgid "Alias / Login"
+msgstr "Псевдоним / Логин"
+
+msgid "Alias already exists"
+msgstr "Псевдоним уже существует"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Comments for this service"
+msgstr "Все комментарии для этой службы"
+
+msgid "All Hostgroups"
+msgstr "Все группы узлов сети"
+
+msgid "All Hosts"
+msgstr "Все узлы сети"
+
+msgid "All Pollers"
+msgstr "Все сборщики"
+
+msgid "All Servicegroups"
+msgstr "Все группы служб"
+
+msgid "All Services"
+msgstr "Все службы"
+
+msgid "Already exists"
+msgstr "Уже существует"
+
+msgid "Alt icon"
+msgstr "Альт. иконка"
+
+msgid "Alternative domain for ldap"
+msgstr "Альтернативный домен для LDAP"
+
+msgid "An error occurred"
+msgstr "Произошла ошибка"
+
+msgid "And many others..."
+msgstr "И многие другие..."
+
+msgid "Animation effects"
+msgstr "Эффекты анимации"
+
+msgid "Append"
+msgstr "Присоединять"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Apply Period"
+msgstr "Применить период"
+
+msgid "Apply configurations"
+msgstr "Применить конфигурации"
+
+msgid "Apply period"
+msgstr "Применить период"
+
+msgid "Archives"
+msgstr "Архивы"
+
+msgid "Are you sure you want to detach the service ?"
+msgstr "Вы уверены, что хотите снять службу?"
+
+msgid "Are you sure you want to uninstall this widget?"
+msgstr "Вы уверены, что хотите удалить виджет?"
+
+msgid "Area color"
+msgstr "Цвет области"
+
+msgid "Args"
+msgstr "Аргументы"
+
+msgid "Argument"
+msgstr "Аргумент"
+
+msgid "Argument Descriptions"
+msgstr "Описания аргумента"
+
+msgid "Argument Example"
+msgstr "Пример аргумента"
+
+msgid "Arguments"
+msgstr "Аргументы"
+
+msgid "Ascending"
+msgstr "Восходящий"
+
+msgid "Associated pollers"
+msgstr "Ассоциированные сборщики"
+
+msgid "Attempt"
+msgstr "Попытка"
+
+msgid "Audit log activation"
+msgstr "Активация журнала аудита"
+
+msgid "Authentication Source"
+msgstr "Источник аутентификации"
+
+msgid "Authentication debug"
+msgstr "Отладка аутентификации"
+
+msgid "Authentication properties"
+msgstr "Параметры аутентификации"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Authorizations information"
+msgstr "Информация о авторизациях"
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid "Auto"
+msgstr "Автоматический"
+
+msgid "Auto Discovery"
+msgstr "Découverte automatisée"
+
+msgid "Auto Rescheduling"
+msgstr "Ré-ordonnancement automatique"
+
+msgid "Auto import users"
+msgstr "Автоматический импорт пользователей"
+
+msgid "Auto-Rescheduling Interval"
+msgstr "Intervalle de ré-ordonnancement automatique"
+
+msgid "Auto-Rescheduling Option"
+msgstr "Ré-ordonnancement automatique"
+
+msgid "Auto-Rescheduling Window"
+msgstr "Fenêtre de ré-ordonnancement automatique"
+
+msgid "Autologin Key"
+msgstr "Ключ автовхода"
+
+msgid "Automatic State Retention Update Interval"
+msgstr "Интервал автоматической задержки обновления статуса"
+
+msgid "Available"
+msgstr "Доступные"
+
+msgid "Average"
+msgstr "Среднее"
+
+msgid "Axis Properties"
+msgstr "Параметры осей"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Back to Centreon Broker configuration menu"
+msgstr "Назад к меню конфигурации Centreon Broker"
+
+msgid "Bad Format: start color by #"
+msgstr "Неверный формат: цвет должен начинаться с символа #"
+
+msgid "Bad arguments for wizard."
+msgstr "Неверные аргументы для помошника"
+
+msgid "Bad configuration type"
+msgstr "Неверный тип конфигурации"
+
+msgid "Bad ldap filter: missing %s pattern. Check user or group filter"
+msgstr "Неверный фильтр LDAP: отсутствует %s шаблон. Проверьте фильтр пользователя или группы."
+
+msgid "Bad picture alias detected :"
+msgstr "Обнаружен плохой псевдоним изображения :"
+
+msgid "Base"
+msgstr "База"
+
+msgid "Base release"
+msgstr "Version de base"
+
+msgid "Basic Settings"
+msgstr "Базовые настройки"
+
+msgid "Basic information"
+msgstr "Базова информация"
+
+msgid "Before"
+msgstr "До"
+
+msgid "Begin date"
+msgstr "Начало даты"
+
+msgid "Bind password"
+msgstr "Привязать пароль"
+
+msgid "Bind user"
+msgstr "Привязать пользователя"
+
+msgid "Boolean Rules"
+msgstr "Логические правила"
+
+msgid "Broker Module"
+msgstr "Commande de lancement du module"
+
+msgid "Broker Module Options"
+msgstr "Option de lancement du module"
+
+msgid "Broker Module information"
+msgstr "Information du module broker"
+
+msgid "Broker Statistics"
+msgstr "Статистика Centreon Broker"
+
+msgid "Broker configuration"
+msgstr "Конфигурация Centreon Broker"
+
+msgid "Broker module information"
+msgstr "Information du module broker"
+
+msgid "Broker need options to be loaded"
+msgstr "Le broker a besoin d'options pour être lancé"
+
+msgid "Buffering timeout"
+msgstr "Temps avant activation du processus de basculement (failover)"
+
+msgid "Bug Tracker"
+msgstr "Багтрекер"
+
+msgid "Business Activity"
+msgstr "Activités métiers"
+
+msgid "Business Views"
+msgstr "Vues métiers"
+
+msgid "But do not edit the SQL files unless you know what you are doing. Refresh this page when the problem is fixed."
+msgstr "Не редактируйте файлы SQL, если вы не знаете, что делаете. Обновите эту страницу после решения проблемы."
+
+msgid "By Host"
+msgstr "По узлам сети"
+
+msgid "By Host Group"
+msgstr "По группе узлов сети"
+
+msgid "By OID"
+msgstr "По OID"
+
+msgid "By OID and Host"
+msgstr "По OID и узлу сети"
+
+msgid "By Service Group"
+msgstr "По группе службы"
+
+msgid "By Status"
+msgstr "По статусу"
+
+msgid "CRITICAL"
+msgstr "КРИТИЧЕСКИЙ"
+
+msgid "CRITICAL Alerts"
+msgstr "Alertes CRITICAL"
+
+msgid "CRITICAL Mean Time"
+msgstr "CRITICAL (Temps connu)"
+
+msgid "CRITICAL Time"
+msgstr "Temps état CRITICAL"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CSS File"
+msgstr "Файл CSS"
+
+msgid "CSS configuration"
+msgstr "Настройка CSS"
+
+msgid "Cached Check"
+msgstr "Кэшированная проверка"
+
+msgid "Cached Host Check"
+msgstr "Кэшированная проверка узла сети"
+
+msgid "Cached Service Check"
+msgstr "Кэшированная проверка службы"
+
+msgid "Calculation Type"
+msgstr "Тип вычисления"
+
+msgid "Can't Use This Virtual Metric '"
+msgstr "Нельзя использовать эту виртуальную метрику '"
+
+msgid "Can't be equal to 0"
+msgstr "Не может быть равно 0"
+
+msgid "Can't execute binary"
+msgstr "Не удается выполнить программу"
+
+msgid "Can't read in directory"
+msgstr "Не удается прочитать в каталоге"
+
+msgid "Can't write in directory"
+msgstr "Не удается записать в каталог"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancelled"
+msgstr "Отмененный"
+
+msgid "Cannot open statistics file"
+msgstr "Не удается открыть файл статистики"
+
+msgid "Categories"
+msgstr "Категории"
+
+msgid "CentCore"
+msgstr "Centcore"
+
+msgid "Centcore Engine debug"
+msgstr "Отладка ядра CentCore"
+
+msgid "Centcore Options"
+msgstr "Опции CentСore"
+
+msgid "Centcore commands"
+msgstr "Команды CentСore"
+
+msgid "Centcore properties"
+msgstr "Настройки CentСore"
+
+msgid "Central"
+msgstr "Central"
+
+msgid "Central address"
+msgstr "Адрес Central"
+
+msgid "Central configuration"
+msgstr "Конфигурация Central"
+
+msgid "Centreon"
+msgstr "Centreon"
+
+msgid "Centreon Authentication"
+msgstr "Аутентификация Centreon"
+
+msgid "Centreon Broker"
+msgstr "Centreon Broker"
+
+msgid "Centreon Broker configuration"
+msgstr "Configuration de Centreon Broker"
+
+msgid "Centreon Broker configuration path"
+msgstr "Путь к конфигурации Centreon Broker"
+
+msgid "Centreon Broker modules path"
+msgstr "Путь к модулям Centreon Broker"
+
+msgid "Centreon Broker socket path"
+msgstr "Путь к сокету Centreon Broker"
+
+msgid "Centreon Broker's configuration directory '%s' does not exist and could not be created for monitoring engine '%s'. Please check it's path or create it"
+msgstr "Каталог '%s' конфигурации Centreon Broker не существует и не может быть создан для ядра мониторинга '%s'. Проверьте путь к каталогу или создайте его."
+
+msgid "Centreon Connector"
+msgstr "Connecteur Centreon"
+
+msgid "Centreon Connector path"
+msgstr "Путь к соединителю Centreon"
+
+msgid "Centreon DataBase Statistics"
+msgstr "Статистика баз данных Centreon"
+
+msgid "Centreon Installation"
+msgstr "Установка Centreon"
+
+msgid "Centreon Map"
+msgstr "Centreon Map"
+
+msgid "Centreon Map Client (admin)"
+msgstr "Клиент Centreon Map (Администратор)"
+
+msgid "Centreon Map Client (user)"
+msgstr "Клиент Centreon Map (пользователь)"
+
+msgid "Centreon Support Email"
+msgstr "Электронная почта техподдержки Centreon"
+
+msgid "Centreon Trap Collector"
+msgstr "Centreon коллектор ловушек SNMP"
+
+msgid "Centreon UI"
+msgstr "Centreon UI"
+
+msgid "Centreon Upgrade"
+msgstr "Обновление Centreon"
+
+msgid "Centreon Users"
+msgstr "Пользователи Centreon"
+
+msgid "Centreon Web Directory"
+msgstr "Каталог Centreon Web"
+
+msgid "Centreon information"
+msgstr "Информация о Centreon"
+
+msgid "Centreon-Broker "
+msgstr "Centreon Broker"
+
+msgid "Centreontrapd debug"
+msgstr "Отладка centreontrapd"
+
+msgid "Centreontrapd init script path"
+msgstr "Путь к скрипту инициализации centreontrapd"
+
+msgid "Centstorage debug"
+msgstr "Отладка Centstorage"
+
+msgid "Change my settings"
+msgstr "Изменить мои настройки"
+
+msgid "Changed"
+msgstr "Изменено"
+
+msgid "Check"
+msgstr "Проверка"
+
+msgid "Check Command"
+msgstr "Команда проверки"
+
+msgid "Check Downtime"
+msgstr "Проверка времени простоя"
+
+msgid "Check Duration"
+msgstr "Длительность проверки"
+
+msgid "Check Freshness"
+msgstr "Contrôler la fraicheur du résultat"
+
+msgid "Check Options"
+msgstr "Опции проверки"
+
+msgid "Check Period"
+msgstr "Период проверки"
+
+msgid "Check Result Reaper Frequency"
+msgstr "Fréquence de consolidation des résultats de contrôle"
+
+msgid "Check User View"
+msgstr "Vérifier la vue de l'utilisateur"
+
+msgid "Check command"
+msgstr "Команда проверки"
+
+msgid "Check information"
+msgstr "Проверить информацию"
+
+msgid "Check output"
+msgstr "Вывод проверки"
+
+msgid "Check result"
+msgstr "Результат проверки"
+
+msgid "Check result directory"
+msgstr "Каталог результатов проверки"
+
+msgid "Checks"
+msgstr "Проверки"
+
+msgid "Checks Enabled"
+msgstr "Проверки включены"
+
+msgid "Checks for this service"
+msgstr "Проверить для этой службы"
+
+msgid "Child Hosts"
+msgstr "Дочерние узлы сети"
+
+msgid "Child processes fork twice"
+msgstr "Création de deux processus enfants pour chaque contrôle"
+
+msgid "Choose a configuration template:"
+msgstr "Выберите шаблон конфигурации:"
+
+msgid "Choose a service if you want a specific curve for it."
+msgstr "Выберите услугу, если вы хотите конкретную кривую для нее."
+
+msgid "Choose a service if you want a specific virtual metric for it."
+msgstr "Выберите службу, если вы хотите определенный виртуальнуюметрику для нее."
+
+msgid "Choose the source"
+msgstr "Выберите источник"
+
+msgid "Choose the source to graph"
+msgstr "Выберите источник для графика"
+
+msgid "Circular Definition"
+msgstr "Définition circulaire"
+
+msgid "Clear arguments"
+msgstr "Очистить аргументы"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Cmd"
+msgstr "Команда"
+
+msgid "Color line mode"
+msgstr "Режим цвета линии"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "Command Line"
+msgstr "Командная строка"
+
+msgid "Command Name"
+msgstr "Название команды"
+
+msgid "Command Options"
+msgstr "Опции команды"
+
+msgid "Command Type"
+msgstr "Тип команды"
+
+msgid "Command execution problem"
+msgstr "Проблема при выполнении команды"
+
+msgid "Command file"
+msgstr "Файл команды"
+
+msgid "Command inheritance"
+msgstr "Наследование от команды проверки"
+
+msgid "Command sent"
+msgstr "Commande envoyée"
+
+msgid "Commands"
+msgstr "Команды"
+
+msgid "Commands definitions can contain Macros but they have to be valid."
+msgstr "Les définitions de commandes peuvent contenir des macros mais ces dernières doivent être valides."
+
+msgid "Commands in buffer"
+msgstr "Команды в буфере"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Comment is required"
+msgstr "Требуется комментарий"
+
+msgid "Comments"
+msgstr "Комментарии"
+
+msgid "Communication port"
+msgstr "Порт соединения"
+
+msgid "Compression (zlib)"
+msgstr "Сжатие (zlib)"
+
+msgid "Compression buffer size"
+msgstr "Размер сжатия буфера"
+
+msgid "Compression level"
+msgstr "Уровень сжатия"
+
+msgid "Compulsory Address"
+msgstr "Обязательный адрес"
+
+msgid "Compulsory Alias"
+msgstr "Обязательный псевдоним"
+
+msgid "Compulsory Command"
+msgstr "Обязательная команда"
+
+msgid "Compulsory Command Line"
+msgstr "Обязательная командная строка"
+
+msgid "Compulsory Contact Group"
+msgstr "Обязательная группа контактов"
+
+msgid "Compulsory Description"
+msgstr "Обязательное описание"
+
+msgid "Compulsory Field"
+msgstr "Обязательное поле"
+
+msgid "Compulsory Groups"
+msgstr "Обязательные группы"
+
+msgid "Compulsory Instance"
+msgstr "Обязательный экземпляр"
+
+msgid "Compulsory Name"
+msgstr "Обязательное название"
+
+msgid "Compulsory Option"
+msgstr "Обязательная опция"
+
+msgid "Compulsory Period"
+msgstr "Обязательный период"
+
+msgid "Compulsory alias"
+msgstr "Обязательный псевдоним"
+
+msgid "Compulsory field"
+msgstr "Обязательное поле"
+
+msgid "Compulsory image name"
+msgstr "Обязательное название изображения"
+
+msgid "Compulsory name"
+msgstr "Обязательное название"
+
+msgid "Conf Changed"
+msgstr "Конфигурация изменена?"
+
+msgid "Config file name"
+msgstr "Название файла конфигурации"
+
+msgid "Config information"
+msgstr "Informations sur la configuration"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Configuration Files Export"
+msgstr "Экспорт файлов конфигурации"
+
+msgid "Configuration Name"
+msgstr "Название конфигурации"
+
+msgid "Configuration database"
+msgstr "База данных конфигурации"
+
+msgid "Configuration database name"
+msgstr "Название базы данных конфигурации"
+
+msgid "Configuration file not found."
+msgstr "Файл конфигурации не найден"
+
+msgid "Configuration messages"
+msgstr "Événements concernant la configuration"
+
+msgid "Configuration name"
+msgstr "Название конфигурации"
+
+msgid "Configuration saved."
+msgstr "Конфигурация сохранена."
+
+msgid "Configure host"
+msgstr "Настройка узла сети"
+
+msgid "Configure host %s"
+msgstr "Настройка узла сети %s"
+
+msgid "Configure service"
+msgstr "Настройка службы"
+
+msgid "Confirm Password"
+msgstr "Подтвердить пароль"
+
+msgid "Confirm password"
+msgstr "Подтвердить пароль"
+
+msgid "Confirm user password"
+msgstr "Подтвердить пароль пользователя"
+
+msgid "Congratulations, you have successfully upgraded to Centreon version <b>%s</b>."
+msgstr "Félicitations, vous avez mis à jour avec succès Centreon en version <b>%s</b>."
+
+msgid "Connect"
+msgstr "Se connecter"
+
+msgid "Connected Users"
+msgstr "Подключенные пользователи"
+
+msgid "Connected users"
+msgstr "Подключенные пользователи"
+
+msgid "Connection Error to NDO DataBase ! \n"
+msgstr "Ошибка подключения к базе данных NDO ! \n"
+
+msgid "Connection failed, please contact your administrator"
+msgstr "Не удалось установить соединение, обратитесь к администратору"
+
+msgid "Connection port"
+msgstr "Port de connexion"
+
+msgid "Connector Description"
+msgstr "Описание соединителя"
+
+msgid "Connector Name"
+msgstr "Название соединителя"
+
+msgid "Connector Status"
+msgstr "Статус соединителя"
+
+msgid "Connectors"
+msgstr "Соединители"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Contact"
+msgstr "Контакт"
+
+msgid "Contact Group Name"
+msgstr "Название группы контактов"
+
+msgid "Contact Groups"
+msgstr "Группы контакта"
+
+msgid "Contact Name"
+msgstr "Имя контакта"
+
+msgid "Contact Templates"
+msgstr "Шаблоны контакта"
+
+msgid "Contact additive inheritance"
+msgstr "Добавить наследование контакта"
+
+msgid "Contact already exists"
+msgstr "Le contact existe déjà"
+
+msgid "Contact group"
+msgstr "Группа контакта"
+
+msgid "Contact group additive inheritance"
+msgstr "Добавить наследование группы контактов"
+
+msgid "Contact groups notified for this host"
+msgstr "Группы контактов оповещений для этого узла сети"
+
+msgid "Contact groups notified for this service"
+msgstr "Группы контактов оповещений для этой службы"
+
+msgid "Contact template"
+msgstr "Шаблон контакта"
+
+msgid "Contact template used"
+msgstr "Используемый шаблон контакта"
+
+msgid "Contactgroups exists. If you try to use a LDAP contactgroup, please verified if a Centreon contactgroup has the same name."
+msgstr "Ce groupe de contacts existe. Si vous utiliser un group de contact LDAP, vérifier qu'un groupe de contact local à Centreon n'utilise pas le même nom."
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Contacts / Users"
+msgstr "Контакты / Пользователи"
+
+msgid "Contacts notified for this host"
+msgstr "Контакты оповещений для этого узла сети"
+
+msgid "Contacts notified for this service"
+msgstr "Контакты оповещений для этой службы"
+
+msgid "Contributors"
+msgstr "Участники проекта"
+
+msgid "Convert Trap information"
+msgstr "Преобразование информации ловушки"
+
+msgid "Convert gd2 -> png :"
+msgstr "Convertir gd2 -> png :"
+
+msgid "Correlation"
+msgstr "Activer la corrélation"
+
+msgid "Correlation file"
+msgstr "Fichier de corrélation"
+
+msgid "Could not find CENTREON_ETC. Session probably expired."
+msgstr "Variable CENTREON_ETC non trouvée. La session a probablement expirée."
+
+msgid "Could not find configuration database. Session probably expired."
+msgstr "Impossible de trouver la base de données de configuration. La session a probablement expirée"
+
+msgid "Could not find configuration directory '%s' for monitoring engine '%s'. Please check it's path or create it"
+msgstr "Impossible de trouver le répertoire de configuration '%s' du moteur de supervision '%s'. Merci de le chemin du répertoire ou de le créer"
+
+msgid "Could not find database user. Session probably expired."
+msgstr "Impossible de trouver l'utilisateur ayant accès aux bases de données. La session a probablement expirée"
+
+msgid "Could not find macro "
+msgstr "Ne peut pas trouver la macro "
+
+msgid "Could not find storage database. Session probably expired."
+msgstr "Base de données de stockage non trouvée. La session a probablement expirée."
+
+msgid "Could not find utils database. Session probably expired."
+msgstr "Impossible de trouver la base de données du broker. La session a probablement expirée"
+
+msgid "Could not write into centcore.cmd. Please check file permissions."
+msgstr "Impossible d'écrire dans le fichier centcore.cmd. Vérifier les permissions sur ce fichier."
+
+msgid "Could not write to Centreon Broker's configuration file '%s' for monitoring engine '%s'. Please add writing permissions for the webserver's user"
+msgstr "Le fichier '%s' de configuration de Centreon Broker n'est pas accessible en écriture pour le moteur de supervision '%s'. Merci de le chemin du répertoire ou de le créer"
+
+msgid "Could not write to file '%s' for monitoring engine '%s'. Please add writing permissions for the webserver's user"
+msgstr "Impossible d'écrire dans le fichier '%s' du moteur de supervision '%s'. Merci de vérifier les permissions d'écriture pour l'utilisateur du serveur Wev"
+
+msgid "Create Services linked to the Template too"
+msgstr "Также создать связанные службы из шаблона"
+
+msgid "Create a view"
+msgstr "Créer une vue"
+
+msgid "Create new view "
+msgstr "Créer une nouvelle vue"
+
+msgid "Creating database user"
+msgstr "Création de l'utilisation accédant aux bases de données"
+
+msgid "Critical"
+msgstr "Критический"
+
+msgid "Critical Alert"
+msgstr "Alerte Critique"
+
+msgid "Critical Area color"
+msgstr "Couleur de la surface Critique"
+
+msgid "Critical Level"
+msgstr "Уровень \"Критический\""
+
+msgid "Critical Mean Time"
+msgstr "Critique (Temps connu)"
+
+msgid "Critical Threshold"
+msgstr "Niveau critique"
+
+msgid "Criticality"
+msgstr "Criticité"
+
+msgid "Current Activation"
+msgstr "Activation actuelle"
+
+msgid "Current Attempt"
+msgstr "Текущая попытка"
+
+msgid "Current Notification Number"
+msgstr "Число текущих оповещений"
+
+msgid "Current State Duration"
+msgstr "Длительность текущего статуса"
+
+msgid "Currently installing database... please do not interrupt this process.<br/><br/>"
+msgstr "Installation des bases de données en cours... ne pas interrompre le processus.<br/><br/>"
+
+msgid "Curve"
+msgstr "Courbes"
+
+msgid "Curves"
+msgstr "Кривые графиков"
+
+msgid "Custom Views"
+msgstr "Пользовательские экраны"
+
+msgid "Custom code"
+msgstr "Пользовательский код"
+
+msgid "Custom macros"
+msgstr "Пользовательские макросы"
+
+msgid "DB host"
+msgstr "Adresse de la base de données"
+
+msgid "DB name"
+msgstr "Nom de la base de données"
+
+msgid "DB password"
+msgstr "Mot de passe de l'utilisateur"
+
+msgid "DB port"
+msgstr "Port de connexion à la base de données"
+
+msgid "DB type"
+msgstr "Type de base de données"
+
+msgid "DB user"
+msgstr "Utilisateur pour se connecter à la base de données"
+
+msgid "DEF Type"
+msgstr "Тип DEF"
+
+msgid "DOWN"
+msgstr "НЕ РАБОТАЕТ"
+
+msgid "Daemon core dumps"
+msgstr "Activer la possibilité de réaliser un 'core dump' (non compatible avec Centreon Engine)"
+
+msgid "Daily"
+msgstr "Quotidienne"
+
+msgid "Dashboard"
+msgstr "Информационная панель"
+
+msgid "Dashboard Integration Properties"
+msgstr "Propriétés d'intégration du tableau de bord"
+
+msgid "Data"
+msgstr "Données"
+
+msgid "Data Count"
+msgstr "Количество данных"
+
+msgid "Data Processing"
+msgstr "Обработка данных"
+
+msgid "Data Source Name"
+msgstr "Название источника данных"
+
+msgid "Data Source Type"
+msgstr "Тип источника данных"
+
+msgid "Data Source already in use for this Host/Service"
+msgstr "Source de données déjà utilisée pour cet Hôte/Service"
+
+msgid "Data Sources"
+msgstr "Sources de données"
+
+msgid "Data source type"
+msgstr "Type de source de données"
+
+msgid "Database Host Address (default: localhost)"
+msgstr "Adresse de l'hôte de la base de données (par défaut : localhost)"
+
+msgid "Database Port (default: 3306)"
+msgstr "Port d'accès à la base de données (par défaut : 3306)"
+
+msgid "Database generation"
+msgstr "Génération de la base de données"
+
+msgid "Database information"
+msgstr "Information de la base de données"
+
+msgid "Database user name"
+msgstr "Nom de l'utilisateur ayant accès à la base de données"
+
+msgid "Database user password"
+msgstr "Mot de passe de l'utilisateur de la base de données"
+
+msgid "Databases"
+msgstr "Базы данных"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Date Format"
+msgstr "Format de date"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Days"
+msgstr "Дни"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Debug Configuration"
+msgstr "Configuration de débogage"
+
+msgid "Debug Level"
+msgstr "уровень отладки"
+
+msgid "Debug Properties"
+msgstr "Propriétés du débogage"
+
+msgid "Debug Verbosity"
+msgstr "Niveau de détail du débogage"
+
+msgid "Debug file (Directory + File)"
+msgstr "Fichier de débogage (répertoire + fichier)"
+
+msgid "Debug file Maximum Size"
+msgstr "Taille maximale du fichier de débogage"
+
+msgid "Debug messages"
+msgstr "Сообщения отладки"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default Centreon Graph Template"
+msgstr "Шаблон графика по умолчанию"
+
+msgid "Default Language"
+msgstr "Язык по умолчанию"
+
+msgid "Default Settings"
+msgstr "Настройки по умолчанию"
+
+msgid "Default Severity"
+msgstr "Важность по умолчанию"
+
+msgid "Default Status"
+msgstr "Статус по умолчанию"
+
+msgid "Default acknowledgement settings"
+msgstr "Параметры подтверждений по умолчанию"
+
+msgid "Default downtime settings"
+msgstr "Параметры времени простоя по умолчанию"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete Problem Acknowledgement"
+msgstr "Удалить подтверждение проблемы"
+
+msgid "Delete graphs"
+msgstr "Удалить графики"
+
+msgid "Delete view"
+msgstr "Удалить экран"
+
+msgid "Deleted"
+msgstr "Удаленный"
+
+msgid "Deleting this view might impact other users. Are you sure you want to do it?"
+msgstr "Supprimer cette vue pourrait impacter les autres utilisateurs. Êtes-vous sûr de vouloir faire cela ?"
+
+msgid "Deleting this widget might impact users with whom you are sharing this view. Are you sure you want to do it?"
+msgstr "Supprimer ce widget pourrait impacter les utilisateurs avec lesquels vous partagez cette vue. Êtes-vous sûr de vouloir faire cela?"
+
+msgid "Dependencies"
+msgstr "Зависимости"
+
+msgid "Dependencies Management"
+msgstr "Gestion des dépendances"
+
+msgid "Dependency check up"
+msgstr "Vérification des dépendances"
+
+msgid "Dependent Host Groups Name"
+msgstr "Названия зависимых групп узлов сети"
+
+msgid "Dependent Host Names"
+msgstr "Названия зависимых узлов сети"
+
+msgid "Dependent Hosts"
+msgstr "Зависимые узлы сети"
+
+msgid "Dependent Meta Service Names"
+msgstr "Названия зависимых метаслужб"
+
+msgid "Dependent Services"
+msgstr "Зависимые службы"
+
+msgid "Deploy Service"
+msgstr "Развернуть службы"
+
+msgid "Descending"
+msgstr "Décroissant"
+
+msgid "Describe arguments"
+msgstr "Décrire les arguments"
+
+msgid "Describe macros"
+msgstr "Décrire les marcros"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Destination directory"
+msgstr "Répertoire de destination"
+
+msgid "Detach"
+msgstr "Détacher"
+
+msgid "Detach host group services"
+msgstr "Détacher les services du groupe d'hôtes"
+
+msgid "Detailed Graph"
+msgstr "Подробный график"
+
+msgid "Details"
+msgstr "Детали"
+
+msgid "Detection by browser"
+msgstr "Определен веб-браузером"
+
+msgid "Developers"
+msgstr "Разработчики"
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Directory + Mailer Binary"
+msgstr "Каталог почтовой программы"
+
+msgid "Directory + RRDTOOL Binary"
+msgstr "Каталог программы RRDTOOL"
+
+msgid "Directory name"
+msgstr "Название каталога"
+
+msgid "Directory of light database for traps"
+msgstr "Каталог базы данных для ловушек SNMP"
+
+msgid "Directory of traps configuration files"
+msgstr "Каталог к файлам конфигурации ловушек SNMP"
+
+msgid "Directory traversal detected"
+msgstr "Détection d'un changement de répertoire non autorisé"
+
+msgid "Disable"
+msgstr "Отключить"
+
+msgid "Disable Active Checks"
+msgstr "Отключить активные проверки"
+
+msgid "Disable Check"
+msgstr "Отключить проверку"
+
+msgid "Disable Event Handler"
+msgstr "Désactiver le gestionnaire d'évènements"
+
+msgid "Disable Flap Detection"
+msgstr "Désactiver la détection de bagotage des statuts"
+
+msgid "Disable Host Notifications"
+msgstr "Отключить оповещения для узла сети"
+
+msgid "Disable Notification"
+msgstr "Отключить оповещения"
+
+msgid "Disable Obsess Over Host"
+msgstr "Désactiver le suivi précis de l'hôte"
+
+msgid "Disable Obsess Over Service"
+msgstr "Désactiver la commande post contrôle"
+
+msgid "Disable Passive Checks"
+msgstr "Отключить пассивне проверки"
+
+msgid "Disable Service Notifications"
+msgstr "Отключить оповещения для службы"
+
+msgid "Disable all service checks on this host"
+msgstr "Отключить все проверки служб на этом узле сети"
+
+msgid "Disable all service notifications on this host"
+msgstr "Отключить все оповещения служб для этого узла сети"
+
+msgid "Disable submit result if no matched rules"
+msgstr "Désactiver la mise à jour du service si aucune règle n'est valide"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Disabled HostGroups"
+msgstr "Désactiver le groupe d'hôtes"
+
+msgid "Disabled Hosts"
+msgstr "Отключенные узлы сети"
+
+msgid "Disacknowledge"
+msgstr "Désacquittement"
+
+msgid "Disacknowledge a service"
+msgstr "Снятие подтверждения для службы"
+
+msgid "Disaknowledge a host"
+msgstr "Supprimer l'acquittement de l'incident de l'hôte"
+
+msgid "Discovery"
+msgstr "Обнаружение"
+
+msgid "Display"
+msgstr "Показать"
+
+msgid "Display "
+msgstr "Показать"
+
+msgid "Display Autologin shortcut"
+msgstr "Показывать ярлык автовхода"
+
+msgid "Display Downtime Cycle"
+msgstr "Показать циклические простои"
+
+msgid "Display Finished Downtime"
+msgstr "Показать завершенные простои"
+
+msgid "Display Only The Legend"
+msgstr "Показывать только легенду"
+
+msgid "Display Optional Modifier"
+msgstr "Параметры отображения модификаторов"
+
+msgid "Display Poller Listing"
+msgstr "Afficher la liste des collecteurs"
+
+msgid "Display Status"
+msgstr "Показать статус"
+
+msgid "Display Template"
+msgstr "Utiliser le modèle"
+
+msgid "Display Top Counter"
+msgstr "Afficher les statistiques des hôtes et services dans le bandeau"
+
+msgid "Display Top Counter pollers statistics"
+msgstr "Afficher les statistiques des collecteurs dans le bandeau"
+
+msgid "Display all Services fo this host"
+msgstr "Afficher tous les services de cet hôte"
+
+msgid "Display details"
+msgstr "Показать детально"
+
+msgid "Display properties"
+msgstr "Параметры отображения"
+
+msgid "Do you confirm  the duplication ?"
+msgstr "Вы подтверждаете дублирование?"
+
+msgid "Do you confirm the cancellation ?"
+msgstr "Вы подтверждаете отмену?"
+
+msgid "Do you confirm the change of the RRD data source type ? If yes, you must rebuild the RRD Database"
+msgstr "Вы подтверждаете изменение типа источника данных для RRD? Если да, Вам потребуется пересобрать базу данных RRD."
+
+msgid "Do you confirm the deletion ?"
+msgstr "Вы подтверждаете удаление?"
+
+msgid "Do you confirm the duplication ?"
+msgstr "Вы подтверждаете дублирование?"
+
+msgid "Do you confirm this deletion?"
+msgstr "Вы подтверждаете это удаление?"
+
+msgid "Do you really wish to remove this entry?"
+msgstr "Вы действительно хотите удалить эту запись?"
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Down"
+msgstr "Не работает"
+
+msgid "Down Alert"
+msgstr "Alerte Indisponible"
+
+msgid "Down Alerts"
+msgstr "Alertes Indisponible"
+
+msgid "Down Mean Time"
+msgstr "Indisponible (Temps connu)"
+
+msgid "Down Time"
+msgstr "Время простоя"
+
+msgid "Downtime"
+msgstr "Время простоя"
+
+msgid "Downtime Configuration"
+msgstr "Настройка времени простоя"
+
+msgid "Downtime Scheduled"
+msgstr "Простой по расписанию"
+
+msgid "Downtime set by %s"
+msgstr "Temps d'arrêt fixé par %s"
+
+msgid "Downtime type"
+msgstr "Тип времени простоя"
+
+msgid "Downtimes"
+msgstr "Время простоев"
+
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Duration"
+msgstr "Длительность"
+
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit a view"
+msgstr "Изменение экрана"
+
+msgid "Edit view"
+msgstr "Изменить экран"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Embedded Perl initialisation file"
+msgstr "Interpréteur Perl intégré"
+
+msgid "Empty Line After This Legend"
+msgstr "Пустая строка после этой легенды"
+
+msgid "Empty directory"
+msgstr "Répertoire vide"
+
+msgid "Enable"
+msgstr "Включить"
+
+msgid "Enable Active Checks"
+msgstr "Включить активне проверки"
+
+msgid "Enable Autologin"
+msgstr "Включить автовход"
+
+msgid "Enable Broker Statistics Collection"
+msgstr "Включить сбор статистики для Centreon Broker"
+
+msgid "Enable Check"
+msgstr "Включить проверку"
+
+msgid "Enable Event Handler"
+msgstr "Activer le gestionnaire d'évènements"
+
+msgid "Enable Flap Detection"
+msgstr "Activer la détection de bagotage des statuts"
+
+msgid "Enable Host Notifications"
+msgstr "Включить оповещения для узла сети"
+
+msgid "Enable LDAP authentication"
+msgstr "Включить аутентификацию LDAP"
+
+msgid "Enable Notification"
+msgstr "Включить оповещение"
+
+msgid "Enable Notifications"
+msgstr "Включить оповещения"
+
+msgid "Enable Obsess Over Host"
+msgstr "Activer le suivi précis de l'hôte"
+
+msgid "Enable Obsess Over Service"
+msgstr "Activer la commande post contrôle"
+
+msgid "Enable Passive Checks"
+msgstr "Включить пассивне проверки"
+
+msgid "Enable RRDCached"
+msgstr "Включить RRDCached"
+
+msgid "Enable SSO authentication"
+msgstr "Включить аутентификацию SSO"
+
+msgid "Enable Service Notifications"
+msgstr "Включить оповещения для службы"
+
+msgid "Enable TLS encryption"
+msgstr "Включить шифрование TLS"
+
+msgid "Enable Timezone management"
+msgstr "Activer la gestion des décalages horaire"
+
+msgid "Enable all service checks on this host"
+msgstr "Включить все проверки служб на этом узле сети"
+
+msgid "Enable all service notifications on this host"
+msgstr "Включить все оповещения служб для этого узла сети"
+
+msgid "Enable embedded Perl"
+msgstr "Utilisation de l'interpréteur Perl intégré"
+
+msgid "Enable environment macros"
+msgstr "Activer les macros d'environnement"
+
+msgid "Enable logging pid information"
+msgstr "Activer l'enregistrement des informations du pid"
+
+msgid "Enable negotiation"
+msgstr "Activer la négociation du protocole"
+
+msgid "Enable routing"
+msgstr "Включить маршрутизацию"
+
+msgid "Enable shell"
+msgstr "Включение shell"
+
+msgid "Enable/Disable Checks for a host"
+msgstr "Activer/Désactiver les vérifications pour un hôte"
+
+msgid "Enable/Disable Checks for a service"
+msgstr "Включать/Выключать проверки для службы"
+
+msgid "Enable/Disable Checks services of a host"
+msgstr "Activer/Désactiver les contrôles des services de l'hôte"
+
+msgid "Enable/Disable Event Handler for a host"
+msgstr "Activer/Désactiver le gestionnaire d'événements pour un hôte"
+
+msgid "Enable/Disable Event Handler for a service"
+msgstr "Activer/Désactiver le gestionnaire d'événements pour un service"
+
+msgid "Enable/Disable Event Handlers"
+msgstr "Включать/Выключать обработчики событий"
+
+msgid "Enable/Disable Flap Detection"
+msgstr "Включать/Выключать определение частого изменения статуса"
+
+msgid "Enable/Disable Flap Detection for a host"
+msgstr "Activer/Désactiver la détection de bagotage pour un hôte"
+
+msgid "Enable/Disable Flap Detection of a service"
+msgstr "Activer/Désactiver la détection de bagotage d'un service"
+
+msgid "Enable/Disable Notifications for a host"
+msgstr "Включить/Выключить оповещения для узла сети"
+
+msgid "Enable/Disable Notifications for a service"
+msgstr "Включать/Выключать оповещения для службы"
+
+msgid "Enable/Disable Notifications services of a host"
+msgstr "Включить/Выключить оповещения для служб на узле сети"
+
+msgid "Enable/Disable Obsessive host checks"
+msgstr "Activer/Désactiver la commande post contrôle des hôtes"
+
+msgid "Enable/Disable Obsessive service checks"
+msgstr "Activer/Désactiver la commande post contrôle des services"
+
+msgid "Enable/Disable Performance Data"
+msgstr "Activer/Désactiver les données de performance"
+
+msgid "Enable/Disable audit logs"
+msgstr "Activer/Désactiver les journaux d'audit"
+
+msgid "Enable/Disable host checks"
+msgstr "Включать/Выключать проверки узла сети"
+
+msgid "Enable/Disable notifications"
+msgstr "Включать/Выключать оповещения"
+
+msgid "Enable/Disable passive checks of a service"
+msgstr "Включение/Выключение пассивной проверки службы"
+
+msgid "Enable/Disable passive host checks"
+msgstr "Включать/Выключать пассивные проверки узла сети"
+
+msgid "Enable/Disable passive service checks"
+msgstr "Включать/Выключать пассивные проверки служб"
+
+msgid "Enable/Disable service checks"
+msgstr "Включать/Выключать проверки служб"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Enabled HostGroups"
+msgstr "Включить группы узлов"
+
+msgid "Enabled Hosts"
+msgstr "Включенные узлы сети"
+
+msgid "End Hour"
+msgstr "Конец часа"
+
+msgid "End Minute"
+msgstr "Конец минуты"
+
+msgid "End Time"
+msgstr "Fin"
+
+msgid "End date"
+msgstr "Конец даты"
+
+msgid "Engine Directories"
+msgstr "Каталог ядра"
+
+msgid "Engine Status"
+msgstr "Статус ядра"
+
+msgid "Engine configuration"
+msgstr "Configuration du moteur de collecte"
+
+msgid "Entry Time"
+msgstr "Date de saisie"
+
+msgid "Entry time"
+msgstr "Date de génération"
+
+msgid "Error in getting stats filename"
+msgstr "Erreur dans la récupération du nom de fichier des stats"
+
+msgid "Error in hour definition"
+msgstr "Erreur dans la définition de l'heure"
+
+msgid "Error messages"
+msgstr "Сообщения об ошибках"
+
+msgid "Error while getting the local requester."
+msgstr "Erreur durant la récupération du poller central"
+
+msgid "Error while inserting central-broker configuration"
+msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker Master"
+
+msgid "Error while inserting central-module configuration"
+msgstr "Erreur durant l'insertion des configurations de central-module"
+
+msgid "Error while inserting central-rrd configuration"
+msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker RRD"
+
+msgid "Error while inserting poller-module configuration"
+msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker du collecteur"
+
+msgid "Error while saving configuration."
+msgstr "Erreur durant l'enregistrement de la configuration."
+
+msgid "Error: Cannot Execute this command due to a path security problem."
+msgstr "Erreur: Impossible d'exécuter cette commande en raison d'un problème de sécurité sur le chemin."
+
+msgid "Errors"
+msgstr "Ошибки"
+
+msgid "Escalated Hosts"
+msgstr "Hôtes escaladés"
+
+msgid "Escalated Services"
+msgstr "Services escaladés"
+
+msgid "Escalation"
+msgstr "Эскалация"
+
+msgid "Escalation Name"
+msgstr "Название эскалации"
+
+msgid "Escalation Period"
+msgstr "Période d'escalade"
+
+msgid "Escalations"
+msgstr "Escalades"
+
+msgid "Escalations View"
+msgstr "Visualisation des escalades"
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Event Handler"
+msgstr "Обработчик событий"
+
+msgid "Event Handler Enabled"
+msgstr "Включение обработчика событий"
+
+msgid "Event Handler Logging Option"
+msgstr "Параметры журналирования обработчика событий"
+
+msgid "Event Handler Option"
+msgstr "Параметры обработчика событий"
+
+msgid "Event Handler Timeout"
+msgstr "Задержка обработчика событий"
+
+msgid "Event Logs"
+msgstr "Журналы событий"
+
+msgid "Event Type"
+msgstr "Тип события"
+
+msgid "Event broker directive"
+msgstr "Directive du module broker"
+
+msgid "Event broker information"
+msgstr "Informations sur le module"
+
+msgid "Event processing speed"
+msgstr "Vitesse de traitement des évènements"
+
+msgid "Event queue max size"
+msgstr "Taille maximale de la queue d'évènements"
+
+msgid "Example"
+msgstr "Пример"
+
+msgid "Exception List"
+msgstr "Liste d'exceptions"
+
+msgid "Exceptions"
+msgstr "Исключения"
+
+msgid "Exclude hosts from selected host groups"
+msgstr "Исключить узлы сети из выбранных групп узлов"
+
+msgid "Excluded Timerange"
+msgstr "Périodes temporelles exclues"
+
+msgid "Execute special command"
+msgstr "Выполнить особую команду"
+
+msgid "Executing command"
+msgstr "Exécution de la commande"
+
+msgid "Execution Failure Criteria"
+msgstr "Критерии выполнения при отказах"
+
+msgid "Execution Time"
+msgstr "Temps d'exécution"
+
+msgid "Execution interval"
+msgstr "Интервал выполнения"
+
+msgid "Execution method"
+msgstr "Метод выполнения"
+
+msgid "Execution type"
+msgstr "Тип выполнения"
+
+msgid "Existing or new directory"
+msgstr "Использовать каталог или создать новый"
+
+msgid "Expiration date"
+msgstr "Дата окончания срока"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export CSV"
+msgstr "Экспорт в CSV"
+
+msgid "Export Options"
+msgstr "Параметры экспорта"
+
+msgid "Export XML"
+msgstr "Экспорт в XML"
+
+msgid "Export configuration files"
+msgstr "Exporter les fichiers de configuration"
+
+msgid "Export in CSV format"
+msgstr "Exporter au format CSV"
+
+msgid "Export in XML too"
+msgstr "Exporter également en XML"
+
+msgid "Extended Information"
+msgstr "Informations additionnelles"
+
+msgid "Extended Settings"
+msgstr "Options avancées"
+
+msgid "Extended information"
+msgstr "Informations supplémentaires"
+
+msgid "Extended status information"
+msgstr "Расширенная информация о статусе"
+
+msgid "Extensions"
+msgstr "Расширения"
+
+msgid "External Command"
+msgstr "Внешняя команда"
+
+msgid "External Command Buffer Slots"
+msgstr "Буферные слоты внешней команды"
+
+msgid "External Command Check Interval"
+msgstr "Интервал внешней команды проверки"
+
+msgid "External Command Check Option"
+msgstr "Параметры внешней команды проверки"
+
+msgid "External Command File"
+msgstr "Внешний файл команды"
+
+msgid "External Command Logging Option"
+msgstr "Параметры журналирования внешней команды"
+
+msgid "External Commands"
+msgstr "Внешние команды"
+
+msgid "Failed to execute command"
+msgstr "Impossible d'exécuter la commande"
+
+msgid "Failover"
+msgstr "Failover"
+
+msgid "Failover name"
+msgstr "Nom du processus de bascule (failover)"
+
+msgid "Field Name"
+msgstr "Nom du champ"
+
+msgid "Field Value"
+msgstr "Valeur du champ"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File (.mib)"
+msgstr "Файл (.mib)"
+
+msgid "File for Centreon Broker statistics"
+msgstr "Localisation du fichier de statistiques de Centreon Broker"
+
+msgid "File max size"
+msgstr "Макс. размер файла"
+
+msgid "File not found"
+msgstr "Файл не найден"
+
+msgid "File path"
+msgstr "Путь к файлу"
+
+msgid "File read offset"
+msgstr "Indice de lecture du fichier"
+
+msgid "File read path"
+msgstr "Chemin du fichier en cours de lecture"
+
+msgid "File write offset"
+msgstr "Indice d'écriture du fichier"
+
+msgid "File write path"
+msgstr "Chemin du fichier en cours d'écriture"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Filling"
+msgstr "Заполнение области"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Filter Examples"
+msgstr "Фильтр примеров"
+
+msgid "Filter category"
+msgstr "Фильтр категории"
+
+msgid "Filter services"
+msgstr "Фильтр служб"
+
+msgid "Filters"
+msgstr "Фильтры"
+
+msgid "Final release"
+msgstr "Version finale"
+
+msgid "Finish"
+msgstr "Terminer"
+
+msgid "First Notification"
+msgstr "Première notification"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "First notification delay"
+msgstr "Задержка перед первым оповещением"
+
+msgid "First of month"
+msgstr "Premier du mois"
+
+msgid "First page"
+msgstr "Первая страница"
+
+msgid "Fixed"
+msgstr "Фиксированный"
+
+msgid "Flap Detection"
+msgstr "Обнаружение частых изменений статуса"
+
+msgid "Flap Detection Enabled"
+msgstr "Включить обнаружение изменяемости состояния"
+
+msgid "Flap Detection Option"
+msgstr "Опции обнаружения изменяемости состояния"
+
+msgid "Flapping"
+msgstr "Изменчивый"
+
+msgid "Flapping Options"
+msgstr "Параметры изменчивости состояния узла сети"
+
+msgid "Flapping options"
+msgstr "Опции изменяемости состояния"
+
+msgid "Flexible"
+msgstr "Гибкий"
+
+msgid "Folders"
+msgstr "Папки"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font size"
+msgstr "Размер шрифта"
+
+msgid "For professional support subscription please contact the <a href=\"http://support.centreon.com\">Centreon Support Center</a>."
+msgstr "Для получения подписки на профессиональную поддержку обращайтесь в <a href=\"http://support.centreon.com\">Центр поддержки Centreon</a>."
+
+msgid "Force Active Checks"
+msgstr "Принудительный запуск активных проверок"
+
+msgid "Force active check"
+msgstr "Принудительный запуск активной проверки"
+
+msgid "Force active checks"
+msgstr "Принудительный запуск активных проверок"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Forum"
+msgstr "Форум"
+
+msgid "Free child process memory"
+msgstr "Libérer la mémoire des processus enfants"
+
+msgid "Freshness"
+msgstr "Свежесть"
+
+msgid "Freshness Control options"
+msgstr "Опции контроля свежести"
+
+msgid "Freshness Threshold"
+msgstr "Порог свежести"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "From"
+msgstr "От"
+
+msgid "Full Name"
+msgstr "Полное имя"
+
+msgid "Function"
+msgstr "Функция"
+
+msgid "Function enter/exit information"
+msgstr "Функция ввода/вывода информации из Nagios"
+
+msgid "GMT is activated on your system. Exceptions will not be generated."
+msgstr "В Вашей системе активен GMT. Исключения создаваться не будут."
+
+msgid "General"
+msgstr "Основной"
+
+msgid "General Access"
+msgstr "Управление глобальным доступом"
+
+msgid "General Information"
+msgstr "Общая информация"
+
+msgid "General information"
+msgstr "Общая информация"
+
+msgid "Generate"
+msgstr "Генерировать"
+
+msgid "Generate Configuration Files"
+msgstr "Генерировать конфигурационные файлы"
+
+msgid "Generate Files"
+msgstr "Генерировать файлы"
+
+msgid "Generate trap database "
+msgstr "Формирование базы данных для ловушек SNMP"
+
+msgid "Generated in "
+msgstr "Генерировать в"
+
+msgid "Generating files"
+msgstr "Генерирование файлов"
+
+msgid "Geolocation"
+msgstr "Геолокация"
+
+msgid "Global Community"
+msgstr "Communauté globale"
+
+msgid "Global Functionalities Access"
+msgstr "Глобальный доступ к функционалу"
+
+msgid "Global Host Event Handler"
+msgstr "Gestionnaire global d’évènements d'hôte"
+
+msgid "Global Monitoring Engine Actions (External Process Commands)"
+msgstr "Глобальные действия с ядром мониторинга (Внешние команды процесса)"
+
+msgid "Global Service Event Handler"
+msgstr "Gestionnaire global d’évènements de service"
+
+msgid "Go"
+msgstr "Go"
+
+msgid "Graph"
+msgstr "График"
+
+msgid "Graph Choice"
+msgstr "Выбор графика"
+
+msgid "Graph Period"
+msgstr "Период графика"
+
+msgid "Graph Template"
+msgstr "Шаблон графика"
+
+msgid "Graph per page for Performances"
+msgstr "Графиков на страницу для Производительность"
+
+msgid "Graph template"
+msgstr "Шаблон графика"
+
+msgid "Graphs"
+msgstr "Графики"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Group Information"
+msgstr "Информация о группе"
+
+msgid "Group Ldap"
+msgstr "Группа LDAP"
+
+msgid "Group Name"
+msgstr "Название группы"
+
+msgid "Group Relations"
+msgstr "Связи группы"
+
+msgid "Group attribute"
+msgstr "Атрибуты группы"
+
+msgid "Group filter"
+msgstr "Фильтр по группе"
+
+msgid "Group member attribute"
+msgstr "Атрибуты члена группы"
+
+msgid "H:i:s"
+msgstr "H:i:s"
+
+msgid "HARD"
+msgstr "HARD"
+
+msgid "HTTP Action Link"
+msgstr "Lien HTTP externe"
+
+msgid "HTTP Link"
+msgstr "Ссылка HTTP"
+
+msgid "Hard Only"
+msgstr "Только жесткий статус"
+
+msgid "Hard State Duration"
+msgstr "Длительность жесткого статуса"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Help"
+msgstr "Помощь"
+
+msgid "Help Desk"
+msgstr "Centre des services"
+
+msgid "Here is a self-explanatory image."
+msgstr "Здесь вы можете увидеть поясняющее изображение"
+
+msgid "Hidden"
+msgstr "Скрытый"
+
+msgid "Hidden Graph And Legend"
+msgstr "Скрыть график и легенду условных обозначений"
+
+msgid "Hide graphs of selected Services"
+msgstr "Cacher les graphiques des services sélectionnés"
+
+msgid "High Flap Threshold"
+msgstr "Верхний порог изменяемости состояния"
+
+msgid "High Host Flap Threshold"
+msgstr "Seuil haut dedétection de bagotage des statuts d'hôte"
+
+msgid "High Service Flap Threshold"
+msgstr "Seuil haut de détection de bagotage des statuts de service"
+
+msgid "Highly detailed information"
+msgstr "Informations très détaillées"
+
+msgid "History"
+msgstr "История"
+
+msgid "History Options"
+msgstr "Параметры истории"
+
+msgid "Home"
+msgstr "Главная"
+
+msgid "Host"
+msgstr "Узел сети"
+
+msgid "Host Categories"
+msgstr "Категории узлов сети"
+
+msgid "Host Categories Relations"
+msgstr "Отношения категорий узлов сети"
+
+msgid "Host Category Filter"
+msgstr "Фильтр категорий узлов ести"
+
+msgid "Host Category Name"
+msgstr "Название категории узлов сети"
+
+msgid "Host Check Execution Option"
+msgstr "Contrôle actif des hôtes"
+
+msgid "Host Check Execution Time"
+msgstr "Durée de contrôle de l'hôte"
+
+msgid "Host Check Options"
+msgstr "Параметры проверки узла сети"
+
+msgid "Host Check Properties"
+msgstr "Propriétés du contrôle de l'hôte"
+
+msgid "Host Check Scheduling Options"
+msgstr "Options d'ordonnancement des hôtes"
+
+msgid "Host Check Timeout"
+msgstr "Temps maximum d'exécution d'un contrôle d'hôte"
+
+msgid "Host Commands"
+msgstr "Комманды узла сети"
+
+msgid "Host Configuration"
+msgstr "Конфигурация узла сети"
+
+msgid "Host Extended Infos"
+msgstr "Расширенная информация об узле сети"
+
+msgid "Host Freshness Check Interval"
+msgstr "Intervalle contrôle de la fraicheur du résultat de l'hôte"
+
+msgid "Host Freshness Check Option"
+msgstr "Option de contrôle de la fraicheur du résultat de l'hôte"
+
+msgid "Host Group"
+msgstr "Группа узлов сети"
+
+msgid "Host Group Name"
+msgstr "Название группы узлов сети"
+
+msgid "Host Groups"
+msgstr "Группы узлов сети"
+
+msgid "Host Groups Name"
+msgstr "Названия групп узлов сети"
+
+msgid "Host Informations"
+msgstr "Информация об узле сети"
+
+msgid "Host Inter-Check Delay Method"
+msgstr "Méthode du délai inter-contrôles des hôtes"
+
+msgid "Host Name"
+msgstr "Название узла сети"
+
+msgid "Host Names"
+msgstr "Названия узла сети"
+
+msgid "Host Notification Commands"
+msgstr "Команды оповещений узлов сети"
+
+msgid "Host Notification Options"
+msgstr "Опции оповещений узлов сети"
+
+msgid "Host Notification Period"
+msgstr "Период оповещений узлов сети"
+
+msgid "Host Parallel Templates"
+msgstr "Параллельные шаблоны узла сети"
+
+msgid "Host Performance Data File"
+msgstr "Fichier de données de performance d'hôte"
+
+msgid "Host Performance Data File Mode"
+msgstr "Mode du fichier de données de performance d'hôte"
+
+msgid "Host Performance Data File Processing Command"
+msgstr "Commande de traitement du fichier des données de performance d'hôte"
+
+msgid "Host Performance Data File Processing Interval"
+msgstr "Intervalle de traitement des données de performance d'hôte"
+
+msgid "Host Performance Data File Template"
+msgstr "Modèle de fichier de données de performance d'hôte"
+
+msgid "Host Performance Data Processing Command"
+msgstr "Commande de traitement des données de performance d'hôte"
+
+msgid "Host Problems"
+msgstr "Узлы сети с проблемами"
+
+msgid "Host Retry Logging Option"
+msgstr "Journalisation des tests de confirmation d'hôte"
+
+msgid "Host Shortcuts"
+msgstr "Ярлыки узла сети"
+
+msgid "Host Status"
+msgstr "Статус узла сети"
+
+msgid "Host Template"
+msgstr "Шаблон узла сети"
+
+msgid "Host Template Name"
+msgstr "Название шаблона узла сети"
+
+msgid "Host Templates"
+msgstr "Шаблоны узла сети"
+
+msgid "Host Templates name"
+msgstr "Nom des modèles d'hôtes"
+
+msgid "Host Uses"
+msgstr "Hôtes utilisés"
+
+msgid "Host address"
+msgstr "Адрес узла сети"
+
+msgid "Host basic information"
+msgstr "Базовая информация об узле сети"
+
+msgid "Host category"
+msgstr "Категория узла сети"
+
+msgid "Host check latency"
+msgstr "Latence du contrôle de l'hôte"
+
+msgid "Host check options"
+msgstr "Параметры проверки узла сети"
+
+msgid "Host commands and shortcuts"
+msgstr "Команды и ярлыки узла сети"
+
+msgid "Host dependency"
+msgstr "Dépendance d'hôte"
+
+msgid "Host escalations"
+msgstr "Эскалации узлов сети"
+
+msgid "Host is currently on downtime"
+msgstr "L'hôte est actuellement en période d'arrêt"
+
+msgid "Host links (host template links)"
+msgstr "Liés aux modèles d'hôtes"
+
+msgid "Host list"
+msgstr "Список узлов сети"
+
+msgid "Host name"
+msgstr "Название узла сети"
+
+msgid "Host name is already in use"
+msgstr "Le nom de l'hôte existe déjà"
+
+msgid "Host notifications"
+msgstr "Оповещения узла сети"
+
+msgid "Host state"
+msgstr "Статус узла сети"
+
+msgid "Host status"
+msgstr "Статус узла сети"
+
+msgid "Host template"
+msgstr "Шаблон узла сети"
+
+msgid "Host to connect to"
+msgstr "Hôte distant"
+
+msgid "Host/service check information"
+msgstr "Informations sur le contrôle des Hôtes/Services"
+
+msgid "HostGroup"
+msgstr "Группа узлов сети"
+
+msgid "HostGroup or Host Required"
+msgstr "Groupe d'hôtes ou hôte requis"
+
+msgid "HostGroups"
+msgstr "Группы узла сети"
+
+msgid "Hostgroup"
+msgstr "Группа узлов сети"
+
+msgid "Hostgroup Relations"
+msgstr "Отношения групп узлов сети"
+
+msgid "Hostgroup dependency"
+msgstr "Dépendance de groupe d'hôtes"
+
+msgid "Hostgroups / Hosts"
+msgstr "Groupes d'hôtes / Hôtes"
+
+msgid "Hostgroups Escalation"
+msgstr "Escalades des groupes d'hôtes"
+
+msgid "Hostgroups Summary"
+msgstr "Сводка по группам узлов сети"
+
+msgid "Hostname"
+msgstr "Название узла сети"
+
+msgid "Hosts"
+msgstr "Узлы сети"
+
+msgid "Hosts : Acknowledge"
+msgstr "Узлы сети: Подтверждение"
+
+msgid "Hosts : Disable Check"
+msgstr "Узлы сети : Отключить проверки"
+
+msgid "Hosts : Disable Notification"
+msgstr "Узлы сети : Отключить оповещения"
+
+msgid "Hosts : Disacknowledge"
+msgstr "Узлы сети : Снять подтверждение"
+
+msgid "Hosts : Enable Check"
+msgstr "Узлы сети : Включить проверки"
+
+msgid "Hosts : Enable Notification"
+msgstr "Узлы сети : Включить оповещения"
+
+msgid "Hosts : Set Downtime"
+msgstr "Узлы сети : Установить время простоя"
+
+msgid "Hosts Actions Access"
+msgstr "Accès aux actions sur les hôtes"
+
+msgid "Hosts Actively Checked"
+msgstr "Hôtes actuellement contrôlés"
+
+msgid "Hosts Escalation"
+msgstr "Эскалации узлов"
+
+msgid "Hosts Escalation Options"
+msgstr "Параметры эскалации для узлов сети"
+
+msgid "Hosts Group"
+msgstr "Группа узлов сети"
+
+msgid "Hosts Groups"
+msgstr "Группы узлов сети"
+
+msgid "Hosts Groups Shared"
+msgstr "Groupes d'hôtes partagés"
+
+msgid "Hosts Resources"
+msgstr "Ресурсы узлов сети"
+
+msgid "Hosts Status"
+msgstr "État des hôtes"
+
+msgid "Hosts group state"
+msgstr "Статус группы узлов сети"
+
+msgid "Hosts: Set Downtime"
+msgstr "Узел сети: установить время простоя"
+
+msgid "Hourly"
+msgstr "Почасовой"
+
+msgid "Hours"
+msgstr "Часы"
+
+msgid "Hover on timeline to see more information"
+msgstr "Survoler la chronologie pour obtenir plus d'informations"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP Address"
+msgstr "IP адрес"
+
+msgid "IP Address / DNS"
+msgstr "IP адрес / DNS"
+
+msgid "Icon"
+msgstr "Иконка"
+
+msgid "Illegal Macro Output Characters"
+msgstr "Charactères illégaux dans la valeur des macros"
+
+msgid "Illegal Object Name Characters"
+msgstr "Caractères illégaux dans le nom de l'objet"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image Name"
+msgstr "Название изображения"
+
+msgid "Image Type"
+msgstr "Тип изображения"
+
+msgid "Image or archive"
+msgstr "Изображение или архив"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Images Directory"
+msgstr "Каталог изображений"
+
+msgid "Impacted Resources"
+msgstr "Ressources impactées"
+
+msgid "Implied Contact Groups"
+msgstr "Предлагаемые группы контактов"
+
+msgid "Implied Contacts"
+msgstr "Предлагаемые контакты"
+
+msgid "Implied Resources"
+msgstr "Предлагаемые ресурсы"
+
+msgid "Implied Server"
+msgstr "Предлагаемый сервер"
+
+msgid "Implied page"
+msgstr "Pages Impliquées"
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Import SNMP traps from MIB file"
+msgstr "Импорт ловушек SNMP из файла MIB"
+
+msgid "Import from LDAP servers"
+msgstr "Importer à partir d'un serveur LDAP"
+
+msgid "Import users manually"
+msgstr "Importer les utilisateurs manuellement"
+
+msgid "Impossible"
+msgstr "Impossible"
+
+msgid "Impossible to change server due to parentship with other hosts"
+msgstr "Impossible de changer le serveur à cause d'une relation avec d'autres hôtes"
+
+msgid "Impossible to validate, one or more field is incorrect"
+msgstr "Impossible de valider, un ou plusieurs champs sont incorrects"
+
+msgid "In Scheduled Downtime?"
+msgstr "В запланированном времени простоя?"
+
+msgid "Include Comments"
+msgstr "Включить комментарии"
+
+msgid "Include Host Groups -> Hosts"
+msgstr "Inclus groupes d'hôtes -> hôtes"
+
+msgid "Include Timeperiods"
+msgstr "Включенные периоды времени"
+
+msgid "Include all hostgroups"
+msgstr "Включить все группы узлов сети"
+
+msgid "Include all hosts"
+msgstr "Включить все узлы сети"
+
+msgid "Include all servicegroups"
+msgstr "Inclure tous les groupes de services"
+
+msgid "Included Timerange"
+msgstr "Périodes temporelles inclues"
+
+msgid "Inclusion"
+msgstr "Включения"
+
+msgid "Incremental"
+msgstr "Incrémentale"
+
+msgid "Indicators"
+msgstr "Indicateurs (KPI)"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Information command"
+msgstr "Information sur la commande"
+
+msgid "Informational messages"
+msgstr "Événements de type information"
+
+msgid "Informations"
+msgstr "Информации"
+
+msgid "Inherit contacts from host"
+msgstr "Наследование контактов узла связи"
+
+msgid "Initial State Logging Option"
+msgstr "Journalisation des états initaux"
+
+msgid "Input"
+msgstr "Ввод"
+
+msgid "Input treatment options"
+msgstr "Options de traitement des données de performance"
+
+msgid "Inputs"
+msgstr "Вводы"
+
+msgid "Insert in index data"
+msgstr "Insertion dans la table index_data"
+
+msgid "Insert trap's information into database"
+msgstr "Вставить информацию ловушки SNMP в базу данных"
+
+msgid "Install Module"
+msgstr "Installer le module"
+
+msgid "Installation"
+msgstr "Installation"
+
+msgid "Installation finished"
+msgstr "Installation terminée"
+
+msgid "Installed"
+msgstr "Установлен"
+
+msgid "Inter-Check Sleep Time"
+msgstr "Temps de sommeil entre les contrôles"
+
+msgid "Interval Length"
+msgstr "Длительность отсчета"
+
+msgid "Interval length"
+msgstr "Unité de temps de référence (en secondes)"
+
+msgid "Invalid LDAP Host parameters"
+msgstr "Paramètres du serveur LDAP invalides"
+
+msgid "Invalid information entered"
+msgstr "Informations saisies invalides"
+
+msgid "Invert"
+msgstr "Инвертировать"
+
+msgid "Is This Host Flapping?"
+msgstr "Часто изменяется статус узла сети?"
+
+msgid "Is This Service Flapping?"
+msgstr "Часто изменяется статус службы?"
+
+msgid "Is Volatile"
+msgstr "Непостоянная?"
+
+msgid "Is default poller ?"
+msgstr "Сборщик по умолчанию?"
+
+msgid "Is running ?"
+msgstr "Запущен?"
+
+msgid "Is volatile"
+msgstr "Est volatile"
+
+msgid "It is strongly recommended to make a backup of your databases before going any further."
+msgstr "Il est fortement recommandé de faire une sauvegarde de vos bases de données avant d'aller plus loin."
+
+msgid "Kick User"
+msgstr "Отключить пользователя"
+
+msgid "Knowledge Base"
+msgstr "Base de connaissance"
+
+msgid "LDAP"
+msgstr "LDAP"
+
+msgid "LDAP DN (Distinguished Name)"
+msgstr "LDAP DN (Distinguished Name)"
+
+msgid "LDAP Import"
+msgstr "Импорт LDAP"
+
+msgid "LDAP Information"
+msgstr "Информация LDAP"
+
+msgid "LDAP Properties"
+msgstr "Propriétés LDAP"
+
+msgid "LDAP Server"
+msgstr "Сервер LDAP"
+
+msgid "LDAP Servers"
+msgstr "Серверы LDAP"
+
+msgid "LDAP User Import debug"
+msgstr "Отладка импорта пользователей из LDAP"
+
+msgid "LDAP search size limit"
+msgstr "Ограничение размера поиска LDAP"
+
+msgid "LDAP search timeout"
+msgstr "Время ожидания поиска LDAP"
+
+msgid "LDAP servers"
+msgstr "Серверы LDAP"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Last 12 Hours"
+msgstr "За последние 12 часов"
+
+msgid "Last 14 Days"
+msgstr "За последние 14 дней"
+
+msgid "Last 2 Days"
+msgstr "За последние 2 дня"
+
+msgid "Last 2 Months"
+msgstr "За последние 2 месяца"
+
+msgid "Last 24 Hours"
+msgstr "За последние 24 часа"
+
+msgid "Last 28 Days"
+msgstr "За последние 28 дней"
+
+msgid "Last 3 Days"
+msgstr "За последние 3 дня"
+
+msgid "Last 3 Hours"
+msgstr "За последние 3 часа"
+
+msgid "Last 3 hours"
+msgstr "За последние 3 часа"
+
+msgid "Last 30 Days"
+msgstr "За последние 30 дней"
+
+msgid "Last 31 Days"
+msgstr "За последний 31 день"
+
+msgid "Last 4 Days"
+msgstr "За последние 4 дня"
+
+msgid "Last 4 Months"
+msgstr "За последние 4 месяца"
+
+msgid "Last 4 days"
+msgstr "За последние 4 дня"
+
+msgid "Last 5 Days"
+msgstr "За последние 5 дней"
+
+msgid "Last 6 Hours"
+msgstr "За последние 6 часов"
+
+msgid "Last 6 Months"
+msgstr "За последние 6 месяцев"
+
+msgid "Last 6 months"
+msgstr "За последние 6 месяцев"
+
+msgid "Last 7 Days"
+msgstr "За последние 7 дней"
+
+msgid "Last Check"
+msgstr "Последняя проверка"
+
+msgid "Last Check Type"
+msgstr "Тип последней проверки"
+
+msgid "Last Month"
+msgstr "Прошлый месяц"
+
+msgid "Last Notification"
+msgstr "Последнее оповещение"
+
+msgid "Last Service Notification"
+msgstr "Последнее оповещение для службы"
+
+msgid "Last State Change"
+msgstr "Последнее изменение статуса"
+
+msgid "Last Status Change"
+msgstr "Последнее изменение статуса"
+
+msgid "Last Update"
+msgstr "Последнее обновление"
+
+msgid "Last Year"
+msgstr "За последний год"
+
+msgid "Last check"
+msgstr "Dernier contrôle"
+
+msgid "Last connection attempt"
+msgstr "Dernier essai de connxion"
+
+msgid "Last connection success"
+msgstr "Dernière connexion réalisée"
+
+msgid "Last critical time"
+msgstr "Dernière fois dans un état critique"
+
+msgid "Last event at"
+msgstr "Dernier évènement à"
+
+msgid "Last month"
+msgstr "За последний месяц"
+
+msgid "Last name"
+msgstr "Nom usuel"
+
+msgid "Last of month"
+msgstr "Dernier du mois"
+
+msgid "Last ok time"
+msgstr "Dernière fois dans un état ok"
+
+msgid "Last page"
+msgstr "Последняя страница"
+
+msgid "Last request"
+msgstr "Последний запрос"
+
+msgid "Last time down"
+msgstr "Dernière fois dans un état indisponible"
+
+msgid "Last time unreachable"
+msgstr "Dernière fois dans un état injoignable"
+
+msgid "Last time up"
+msgstr "Dernière fois dans un état up"
+
+msgid "Last unknown time"
+msgstr "Dernière fois dans un état inconnu"
+
+msgid "Last update"
+msgstr "Последнее обновление"
+
+msgid "Last warning time"
+msgstr "Derniere fois dans un état warning"
+
+msgid "Last week"
+msgstr "За последнюю неделю"
+
+msgid "Last year"
+msgstr "За последний год"
+
+msgid "Latency"
+msgstr "Задержка проверки"
+
+msgid "Latency detected on %s; check configuration for better optimisation"
+msgstr "Latence détecté pour %s, contrôler la configuration pour améliorer les performances"
+
+msgid "Layout"
+msgstr "Mise en page"
+
+msgid "Legend"
+msgstr "Легенда условных обозначений"
+
+msgid "Legend Name"
+msgstr "Название легенды"
+
+msgid "Legend Properties"
+msgstr "Параметры легенды условных обозначений"
+
+msgid "Length"
+msgstr "Taille"
+
+msgid "Level"
+msgstr "Уровень"
+
+msgid ""
+"License upload has failed.\n"
+"Destination directory doesn't exist or your webserver's user don't have the right to access it"
+msgstr ""
+"Échec de la mise à jour de la licence.\n"
+"Le répertoire de destination n'existe pas ou les droits d'accès sont incorrects"
+
+msgid "Limit per page (default)"
+msgstr "Лимит на странице (по умолчанию)"
+
+msgid "Limit per page for Monitoring"
+msgstr "Лимит на странице Наблюдение"
+
+msgid "Line color"
+msgstr "Цвет линии"
+
+msgid "Linked ACL groups"
+msgstr "Связанные ACL группы"
+
+msgid "Linked Contact Groups"
+msgstr "Связанные группы контактов"
+
+msgid "Linked Contacts"
+msgstr "Связанные контакты"
+
+msgid "Linked Groups"
+msgstr "Связанные группы"
+
+msgid "Linked Host Group Services"
+msgstr "Связанные службы групп узлов сети"
+
+msgid "Linked Host Groups"
+msgstr "Groupes d'hôtes liés"
+
+msgid "Linked Host Services"
+msgstr "Связанные службы узлов сети"
+
+msgid "Linked Host Template"
+msgstr "Связанные шаблоны узлов сети"
+
+msgid "Linked Hosts"
+msgstr "Связанные узлы сети"
+
+msgid "Linked Instances"
+msgstr "Lié au collecteur"
+
+msgid "Linked Service Templates"
+msgstr "Связанные шаблоне служб"
+
+msgid "Linked Services"
+msgstr "Связанные службы"
+
+msgid "Linked Services Templates"
+msgstr "Связанные шаблоны служб"
+
+msgid "Linked poller"
+msgstr "Связанный сборщик"
+
+msgid "Linked service templates"
+msgstr "Связанные шаблоны служб"
+
+msgid "Linked services"
+msgstr "Связанные службы"
+
+msgid "Linked to Contact Groups"
+msgstr "Связанный с группами контактов"
+
+msgid "Linked to host templates"
+msgstr "Связанный с шаблонами узлов сети"
+
+msgid "Linked with Host Groups"
+msgstr "Связанный с группами узлов сети"
+
+msgid "Linked with Hosts"
+msgstr "Связанный с узлами сети"
+
+msgid "Linked with Service Groups"
+msgstr "Связанный с группами служб"
+
+msgid "Linked with Servicegroups"
+msgstr "Связанный с группами служб"
+
+msgid "Linked with Services"
+msgstr "Связанный с службами"
+
+msgid "Links"
+msgstr "Связи"
+
+msgid "Links Management"
+msgstr "Управление связями"
+
+msgid "List"
+msgstr "Список"
+
+msgid "List of known metrics"
+msgstr "Liste des métriques connues"
+
+msgid "Load a public view"
+msgstr "Charger une vue publique"
+
+msgid "Load from existing view"
+msgstr "A partir d'une vue existante"
+
+msgid "Loaded"
+msgstr "Загрузка"
+
+msgid "Localhost"
+msgstr "Localhost"
+
+msgid "Localhost ?"
+msgstr "Localhost?"
+
+msgid "Lock File"
+msgstr "Файл блокирования"
+
+msgid "Lock Services"
+msgstr "Verrouiller les services"
+
+msgid "Locked"
+msgstr "Заблокированный"
+
+msgid "Locked?"
+msgstr "Заблокированный?"
+
+msgid "Log Archive Path"
+msgstr "Путь к архиву журнала"
+
+msgid "Log Options"
+msgstr "Опции журнала"
+
+msgid "Log Period"
+msgstr "Период журналирования"
+
+msgid "Log Rotation Method"
+msgstr "Méthode de rotation des logs"
+
+msgid "Log everything"
+msgstr "Enregistrer tous les logs"
+
+msgid "Log file"
+msgstr "Журнальный файл"
+
+msgid "Log nothing (default)"
+msgstr "Не журналировать (по умолчанию)"
+
+msgid "Log options"
+msgstr "Опции журнала"
+
+msgid "Loggers"
+msgstr "Traceurs"
+
+msgid "Logging Options"
+msgstr "Опции журналирования"
+
+msgid "Logging level"
+msgstr "Уровень журналирования"
+
+msgid "Login"
+msgstr "Логин"
+
+msgid "Login attribute"
+msgstr "Атрибуты логина"
+
+msgid "Login:"
+msgstr "Логин:"
+
+msgid "Logout"
+msgstr "Выход"
+
+msgid "Logs"
+msgstr "Журналы"
+
+msgid "Logs Directory"
+msgstr "Каталог журналов"
+
+msgid "Logs for "
+msgstr "Журнал для"
+
+msgid "Logs retention duration"
+msgstr "Длительность хранения журналов"
+
+msgid "Lotus Domino :"
+msgstr "Lotus Domino :"
+
+msgid "Low Flap Threshold"
+msgstr "Нижний порог изменяемости состояния"
+
+msgid "Low Host Flap Threshold"
+msgstr "Seuil bas de détection de bagotage des statuts d'hôte"
+
+msgid "Low Service Flap Threshold"
+msgstr "Seuil bas de détection de bagotage des statuts de service"
+
+msgid "Lower Limit"
+msgstr "Нижнее ограничение"
+
+msgid "MACRO Expression"
+msgstr "Valeur de la ressource"
+
+msgid "MIBs"
+msgstr "MIBs"
+
+msgid "Macro Descriptions"
+msgstr "Description des macros"
+
+msgid "Macro name"
+msgstr "Nom de la macro"
+
+msgid "Macro value"
+msgstr "Valeur de la macro"
+
+msgid "Macros"
+msgstr "Macros"
+
+msgid "Macros Descriptions"
+msgstr "Описания макросов"
+
+msgid "Mail Type"
+msgstr "Type de courrier"
+
+msgid "Mailer path"
+msgstr "Путь к почтовой программе"
+
+msgid "Main"
+msgstr "Options générales"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Main information"
+msgstr "Informations principales"
+
+msgid "Main options"
+msgstr "Options générales"
+
+msgid "Management"
+msgstr "Administration"
+
+msgid "Mandatory field for ACL purpose."
+msgstr "Ce champs est obligatoire pour l'utilisation des ACL"
+
+msgid "Mandatory filename"
+msgstr "Nom du fichier obligatoire"
+
+msgid "Mandatory name"
+msgstr "Nom obligatoire"
+
+msgid "Mandatory retention path"
+msgstr "Chemin d'accès du fichier de rétention obligatoire"
+
+msgid "Manual"
+msgstr "Définie"
+
+msgid "Manufacturer"
+msgstr "Constructeur"
+
+msgid "Map"
+msgstr "Map"
+
+msgid "Map Icon"
+msgstr "Иконка на карте"
+
+msgid "Massive Change"
+msgstr "Изменить отмеченные"
+
+msgid "Max"
+msgstr "Maximum"
+
+msgid "Max Check Attempts"
+msgstr "Максимальное число попыток проверки"
+
+msgid "Max Check Result File Age"
+msgstr "Максимальный возраст файла результирующей проверки"
+
+msgid "Max file size in bytes"
+msgstr "Taille maximale en octets (Bytes)"
+
+msgid "Maximum Check Result Reaper Time"
+msgstr "Temp du contrôle des résultats maximal"
+
+msgid "Maximum Concurrent Service Checks"
+msgstr "Nombre maximum de contrôles de service simultanés"
+
+msgid "Maximum Host Check Spread"
+msgstr "Délai maximum de répartition des contrôles initiaux d'hôtes"
+
+msgid "Maximum Service Check Spread"
+msgstr "Délai maximum de répartition des contrôles initiaux de services"
+
+msgid "Maximum number of hosts to show"
+msgstr "Максимальное количество отображаемых узлов сети"
+
+msgid "Maximum number of services to show"
+msgstr "Максимальное количество отображаемых служб"
+
+msgid "Maximum page size"
+msgstr "Максимальный размер страницы"
+
+msgid "Maximum queries per transaction"
+msgstr "Nombre maximum de requêtes par transaction"
+
+msgid "Maximum size of file"
+msgstr "Taille maximale du fichier"
+
+msgid "Mean Time"
+msgstr "Среднее время"
+
+msgid "Media"
+msgstr "Médias"
+
+msgid "Media Detection"
+msgstr "Détection des images"
+
+msgid "Member of Host Groups"
+msgstr "Член групп узлов сети"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Menu access"
+msgstr "Доступ к меню"
+
+msgid "Menu access list link"
+msgstr "Liens vers les accès aux menus"
+
+msgid "Menus Access"
+msgstr "Gestion des accès aux menus"
+
+msgid "Message Type"
+msgstr "Тип сообщения"
+
+msgid "Message truncated (exceeded %s characters)"
+msgstr "Сообщение обрезано (превышено %s символов)"
+
+msgid "Meta Service"
+msgstr "Метаслужба"
+
+msgid "Meta Service Name"
+msgstr "Название метаслужбы"
+
+msgid "Meta Service Names"
+msgstr "Названия метаслужб"
+
+msgid "Meta Service State"
+msgstr "Статус метаслужбы"
+
+msgid "Meta Services"
+msgstr "Метаслужбы"
+
+msgid "Meta service"
+msgstr "Метаслужба"
+
+msgid "Meta-service dependency"
+msgstr "Dépendance de méta-services"
+
+msgid "Metaservices"
+msgstr "Метаслужбы"
+
+msgid "Method"
+msgstr "Метод"
+
+msgid "Metric"
+msgstr "Метрика"
+
+msgid "Metric Name"
+msgstr "Название метрики"
+
+msgid "Metric Unit"
+msgstr "Ед. изм метрики"
+
+msgid "Metrics"
+msgstr "Метрики"
+
+msgid "Min"
+msgstr "Мин."
+
+msgid "Minutes"
+msgstr "Минуты"
+
+msgid "Misc"
+msgstr "Разн."
+
+msgid "Misc Options"
+msgstr "Разные опции"
+
+msgid "Miscellaneous"
+msgstr "Разное"
+
+msgid "Miscelleneous"
+msgstr "Разное"
+
+msgid "Mixed"
+msgstr "Смешанный"
+
+msgid "Mminutes"
+msgstr "Минуты"
+
+msgid "Modification type"
+msgstr "Тип изменения"
+
+msgid "Modify"
+msgstr "Изменить"
+
+msgid "Modify Centcore options"
+msgstr "Изменить опции Centcore"
+
+msgid "Modify Data Processing"
+msgstr "Modifier le traitement des données"
+
+msgid "Modify General Options"
+msgstr "Изменить основные опции"
+
+msgid "Modify Group"
+msgstr "Изменить группу"
+
+msgid "Modify Image"
+msgstr "Изменить изображение"
+
+msgid "Modify Vendor"
+msgstr "Изменить производителя"
+
+msgid "Modify a  host category"
+msgstr "Изменение категории узла сети"
+
+msgid "Modify a Centreon-Broker Configuration"
+msgstr "Изменение конфигурации Centreon-Broker "
+
+msgid "Modify a Command"
+msgstr "Изменение команды"
+
+msgid "Modify a Connector"
+msgstr "Изменение соединителя"
+
+msgid "Modify a Contact Group"
+msgstr "Изменение группы контактов"
+
+msgid "Modify a Data Source Template"
+msgstr "Изменение шаблона источника данных"
+
+msgid "Modify a Dependency"
+msgstr "Изменение зависимость"
+
+msgid "Modify a Graph Template"
+msgstr "Изменение шаблона графика"
+
+msgid "Modify a Group"
+msgstr "Изменение группы"
+
+msgid "Modify a Host"
+msgstr "Изменение узла сети"
+
+msgid "Modify a Host Extended Info"
+msgstr "Изменение расширенной информации узла сети"
+
+msgid "Modify a Host Group"
+msgstr "Изменение группы узла сети"
+
+msgid "Modify a Host Template"
+msgstr "Изменение шаблона узла сети"
+
+msgid "Modify a Meta Service"
+msgstr "Изменение метаслужбы"
+
+msgid "Modify a Meta Service indicator"
+msgstr "Modifier un indicateur de Méta-Service"
+
+msgid "Modify a Monitoring Engine Configuration File"
+msgstr "Modifier le fichier de configuration du moteur de supervision"
+
+msgid "Modify a Resource"
+msgstr "Изменение ресурса"
+
+msgid "Modify a Service"
+msgstr "Изменение службы"
+
+msgid "Modify a Service Category"
+msgstr "Изменение категории службы"
+
+msgid "Modify a Service Group"
+msgstr "Изменение группы службы"
+
+msgid "Modify a Service Template Model"
+msgstr "Изменить модель шаблона службы"
+
+msgid "Modify a Time Period"
+msgstr "Изменение периода времени"
+
+msgid "Modify a Trap definition"
+msgstr "Modifier une définition de Trap"
+
+msgid "Modify a User"
+msgstr "Изменение пользователя"
+
+msgid "Modify a Virtual Metric"
+msgstr "Изменение виртуальной метрики"
+
+msgid "Modify a downtime"
+msgstr "Изменение времени простоя"
+
+msgid "Modify a poller Configuration"
+msgstr "Изменение конфигурации сборщика"
+
+msgid "Modify an ACL"
+msgstr "Изменение ACL"
+
+msgid "Modify an Action"
+msgstr "Изменение действия"
+
+msgid "Modify an Escalation"
+msgstr "Изменение эскалации"
+
+msgid "Modify an Extended Info"
+msgstr "Modifier une information supplémentaire"
+
+msgid "Modify directory"
+msgstr "Изменить каталог"
+
+msgid "Modify macros"
+msgstr "Изменить макрос"
+
+msgid "Modify relations"
+msgstr "Изменить отношения"
+
+msgid "Module Information"
+msgstr "Информация о модуле"
+
+msgid "Module installed and registered"
+msgstr "Module installé et enregistré"
+
+msgid "Module name"
+msgstr "Название модуля"
+
+msgid "Modules"
+msgstr "Модули"
+
+msgid "Modules Options"
+msgstr "Опции модулей"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Monitored from"
+msgstr "Наблюдение из"
+
+msgid "Monitoring"
+msgstr "Наблюдение"
+
+msgid "Monitoring Engine"
+msgstr "Ядро мониторинга"
+
+msgid "Monitoring Engine Binary"
+msgstr "Исполняемый файл ядра мониторинга"
+
+msgid "Monitoring Engine Configuration Files Export"
+msgstr "Export des fichiers de configuration du moteur de supervision"
+
+msgid "Monitoring Engine Import debug"
+msgstr "Отладка импорта в ядро мониторинга"
+
+msgid "Monitoring Engine Information"
+msgstr "Information sur le moteur de supervision"
+
+msgid "Monitoring Engine Init Script"
+msgstr "Скрипт запуска ядра мониторинга"
+
+msgid "Monitoring Engine Statistics Binary"
+msgstr "Исполняемый файл статистики ядра мониторинга"
+
+msgid "Monitoring Engine information"
+msgstr "Informations sur le moteur de supervision"
+
+msgid "Monitoring database layer"
+msgstr "Surveillance de la couche base de données"
+
+msgid "Monitoring engine"
+msgstr "Moteur de supervision"
+
+msgid "Monitoring engine config"
+msgstr "Configuration du moteur de supervision"
+
+msgid "Monitoring engine information"
+msgstr "Information sur le moteur de supervision"
+
+msgid "Monitoring system Group"
+msgstr "Groupe system de supervision"
+
+msgid "Monitoring system User"
+msgstr "Utilisateur system de supervision"
+
+msgid "Monthly"
+msgstr "Mensuelle"
+
+msgid "Monthly basis"
+msgstr "Ежемесячно"
+
+msgid "More Actions"
+msgstr "Больше действий"
+
+msgid "More actions"
+msgstr "Больше действий"
+
+msgid "More actions..."
+msgstr "Больше действий..."
+
+msgid "More detailed information"
+msgstr "Informations détaillées"
+
+msgid "Move Export Files"
+msgstr "Deplacer les fichiers générés"
+
+msgid "Move files to directory"
+msgstr "Déplacer les fichier vers le répertoire"
+
+msgid "Move host group's services to hosts"
+msgstr "Déplacer les services du groupe d'hôtes vers les hôtes"
+
+msgid "Move images"
+msgstr "Déplacer les images"
+
+msgid "Moving files"
+msgstr "Déplacement des fichiers"
+
+msgid "Multiple Broker Module"
+msgstr "Multiple module broker"
+
+msgid "Must be a number"
+msgstr "doit être un nombre"
+
+msgid "My Account"
+msgstr "Мой аккаунт"
+
+msgid "N/A"
+msgstr "N/A"
+
+msgid "NA"
+msgstr "NA"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Name already in use"
+msgstr "Nom déjà utilisé"
+
+msgid "Name already in use for this Host/Service"
+msgstr "Nom déjà utilisé pour cet hôte/service"
+
+msgid "Name is already in use"
+msgstr "Le nom est déjà utilisé"
+
+msgid "Name of the logger"
+msgstr "Nom du journal d'évènements"
+
+msgid "Never Started"
+msgstr "Jamais démarré"
+
+msgid "New Color"
+msgstr "Nouvelle couleur"
+
+msgid "New directory added :"
+msgstr "Nouveaux répertoires ajoutés :"
+
+msgid "New images added :"
+msgstr "Nouvelles images ajoutées :"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "Next Check"
+msgstr "Следующая проверка"
+
+msgid "Next Notification"
+msgstr "Следующее оповещение"
+
+msgid "Next Scheduled Active Check"
+msgstr "Следующая запланированная активная проверка"
+
+msgid "Next page"
+msgstr "Page suivante"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Comment for services."
+msgstr "Pas de commentaires pour les services."
+
+msgid "No Step"
+msgstr "Sans étape"
+
+msgid "No access"
+msgstr "Pas d'accès"
+
+msgid "No action"
+msgstr "Pas d'actions"
+
+msgid "No active poller is defined in Centreon."
+msgstr "Aucun satellite actif est défini dans Centreon."
+
+msgid "No argument found for this command"
+msgstr "Aucun argument trouvé dans cette commande"
+
+msgid "No command selected"
+msgstr "Команда не выбрана"
+
+msgid "No downtime scheduled for services"
+msgstr "Запланированные простои служб не выбраны"
+
+msgid "No modification was made."
+msgstr "Aucune modification effectuée."
+
+msgid "No poller selected"
+msgstr "Pas de satellite sélectionné"
+
+msgid "No relation set for this downtime"
+msgstr "Aucune relation faite avec ce temps d'arrêt"
+
+msgid "No statistics file defined for this poller"
+msgstr "Aucun fichier de statistiques défini pour ce collecteur"
+
+msgid "No time period selected"
+msgstr "Aucune période temporelle sélectionnée"
+
+msgid "No view available. To create a new view, please click \"Add view\" button."
+msgstr "Aucune vue disponible. Pour ajouter une vue, utiliser le bouton \"Ajouter une vue\"."
+
+msgid "No widget configured in this view. Please add a new widget with the \"Add widget\" button."
+msgstr "Aucun widget n'est configuré pour cette vue. Pour ajouter un widget, utiliser le bouton \"Ajouter widget\"."
+
+msgid "None"
+msgstr "Никакой"
+
+msgid "Normal Check Interval"
+msgstr "Интервал между проверками"
+
+msgid "Not Acknowledged"
+msgstr "Не подтверждено"
+
+msgid "Not initialized"
+msgstr "Non initialisé"
+
+msgid "Not loaded"
+msgstr "Non chargé"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Notes URL"
+msgstr "URL"
+
+msgid "Nothing here, use the \"Add\" button"
+msgstr "Не добавлено, используйте кнопку \"Добавить\""
+
+msgid "Notif"
+msgstr "Оповещение"
+
+msgid "Notification"
+msgstr "Оповещение"
+
+msgid "Notification Enabled"
+msgstr "Включение оповещения"
+
+msgid "Notification Failure Criteria"
+msgstr "Критерии оповещения при отказах"
+
+msgid "Notification Information"
+msgstr "Informations sur la notification"
+
+msgid "Notification Interval"
+msgstr "Интервал оповещения"
+
+msgid "Notification Logging Option"
+msgstr "Параметры журналирования оповещений"
+
+msgid "Notification Option"
+msgstr "Параметр оповещения"
+
+msgid "Notification Options"
+msgstr "Опции оповещения"
+
+msgid "Notification Period"
+msgstr "Период оповещения"
+
+msgid "Notification Timeout"
+msgstr "Задержка оповещения"
+
+msgid "Notification Type"
+msgstr "Тип оповещения"
+
+msgid "Notification command"
+msgstr "Commande de notification"
+
+msgid "Notification information"
+msgstr "Informations sur la notification"
+
+msgid "Notification is disabled"
+msgstr "Оповещение отключено"
+
+msgid "Notification receivers"
+msgstr "Получатели оповещений"
+
+msgid "Notifications"
+msgstr "Оповещения"
+
+msgid "Notified"
+msgstr "Notifié"
+
+msgid "Notify"
+msgstr "Оповещение"
+
+msgid "Number of entries"
+msgstr "Количество записей"
+
+msgid "Number of linked services"
+msgstr "Количество слинкованных служб"
+
+msgid "Number of values"
+msgstr "Количество значений"
+
+msgid "OID"
+msgstr "OID"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OK Alert"
+msgstr "Alerte OK"
+
+msgid "OK Alerts"
+msgstr "Alertes OK"
+
+msgid "OK Mean Time"
+msgstr "OK (Temps connu)"
+
+msgid "OK Time"
+msgstr "Temps état OK"
+
+msgid "OK: A reload signal has been sent to '"
+msgstr "OK: Une commande de rechargement a été envoyée vers '"
+
+msgid "OK: A restart signal has been sent to '"
+msgstr "OK: Une commande de redémarrage a été envoyée vers '"
+
+msgid "OK: All configuration files copied with success."
+msgstr "OK: Toutes les configurations ont été copiées avec succès."
+
+msgid "OK: All configuration will be send to '"
+msgstr "OK: Toutes les configurations ont été envoyées vers '"
+
+msgid "OK: all database poller updates are active"
+msgstr "OK: toutes les mises à jour des bases de données de vos collecteurs sont actives"
+
+msgid "OK: all pollers are running"
+msgstr "OK: tous les collecteurs sont en cours d'exécution"
+
+msgid "OK: no latency detected on your platform"
+msgstr "OK: aucune latence détectée sur votre plateforme"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Object Cache File"
+msgstr "Файл кэшированных объектов"
+
+msgid "Object Configuration Directory"
+msgstr "Каталог объектов конфигурации"
+
+msgid "Object Configuration File"
+msgstr "Файл объектов конфигурации"
+
+msgid "Object ID"
+msgstr "ID de l'objet"
+
+msgid "Object Type"
+msgstr "Тип объекта"
+
+msgid "Object name"
+msgstr "Nom de l'objet :"
+
+msgid "Object name : "
+msgstr "Nom de l'objet"
+
+msgid "Object type : "
+msgstr "Type d'objet :"
+
+msgid "Obsess Over Host"
+msgstr "Contrôle de vérification de l'hôte"
+
+msgid "Obsess Over Hosts Option"
+msgstr "Activation de l'exécution des commandes post contrôle d'hôte"
+
+msgid "Obsess Over Service"
+msgstr "Exécuter une commande post contrôle"
+
+msgid "Obsess Over Services Option"
+msgstr "Activation de l'exécution des commandes post contrôle de service"
+
+msgid "Obsessive Compulsive Host Processor Command"
+msgstr "Commande post contrôle d'hôte"
+
+msgid "Obsessive Compulsive Host Processor Timeout"
+msgstr "Temps maximum d'exécution d'une commande post contrôle d'hôte"
+
+msgid "Obsessive Compulsive Service Processor Command"
+msgstr "Commande post contrôle de service"
+
+msgid "Obsessive Compulsive Service Processor Timeout"
+msgstr "Temps maximum d'exécution d'une commande post contrôle de service"
+
+msgid "Official website"
+msgstr "Site web officiel"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Ok/Up"
+msgstr "OK/Работает"
+
+msgid "One peer retention"
+msgstr "Rétention des données pour connexion depuis serveur Central"
+
+msgid "Only one option must be set."
+msgstr "Une seule option peut être renseignée"
+
+msgid "Only services and hosts are taken in account in order to calculate this status. If you modify a template, it won't tell you the configuration had changed."
+msgstr "Seuls les modifications de configuration des hôtes et services sont prisent en compte pour calculer cet état. Si vous modifiez un modèle, aucun indicateur de modification de configuration n’apparaitra."
+
+msgid "OpenLDAP :"
+msgstr "OpenLDAP :"
+
+msgid "Optimization"
+msgstr "Optimisation"
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Order"
+msgstr "Порядок"
+
+msgid "Order sort "
+msgstr "Порядок сортировки"
+
+msgid "Order sort problems"
+msgstr "Порядок сортировки проблем"
+
+msgid "Orphaned Host Check Option"
+msgstr "Vérification des hôtes orphelins"
+
+msgid "Orphaned Service Check Option"
+msgstr "Vérification des services orphelins"
+
+msgid "Ouput"
+msgstr "Вывод"
+
+msgid "Output"
+msgstr "Вывод"
+
+msgid "Output Message"
+msgstr "Сообщение вывода"
+
+msgid "Output Transform"
+msgstr "Преобразование вывода (regexp)"
+
+msgid "Output format string (printf-style)"
+msgstr "Выходной формат строки (в формате printf)"
+
+msgid "Outputs"
+msgstr "Выводы"
+
+msgid "Overview"
+msgstr "Vue d'ensemble"
+
+msgid "PHP file included"
+msgstr "Fichier PHP inclus"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PREEXEC command"
+msgstr "Команда PREEXEC (SNMPTT)"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page refresh interval"
+msgstr "Интервал обновления страницы"
+
+msgid "Pager"
+msgstr "Телефон/Пейджер"
+
+msgid "Parallel"
+msgstr "Parallèlement"
+
+msgid "Parallel Check"
+msgstr "Contrôles parallèles"
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Parent Host Categories"
+msgstr "Родительские категории узлов сети"
+
+msgid "Parent Host Groups"
+msgstr "Родительские группы узлов сети"
+
+msgid "Parent Hosts"
+msgstr "Родительские узлы сети"
+
+msgid "Parent Template"
+msgstr "Modèles parent"
+
+msgid "Parent Templates"
+msgstr "Modèles parent"
+
+msgid "Parent relationship"
+msgstr "Относится к родительским"
+
+msgid "Passive"
+msgstr "Пассивный"
+
+msgid "Passive Check Logging Option"
+msgstr "Journalisation des états passifs"
+
+msgid "Passive Checks"
+msgstr "Пассивные проверки"
+
+msgid "Passive Checks Enabled"
+msgstr "Включение пассивных проверок"
+
+msgid "Passive Host Check Acceptance Option"
+msgstr "Contrôle passif des hôtes"
+
+msgid "Passive Host Checks Are SOFT Option"
+msgstr "Les contrôles d'hôte passifs sont de type SOFT"
+
+msgid "Passive Service Check Acceptance Option"
+msgstr "Contrôle passif des services"
+
+msgid "Passive host checking Options"
+msgstr "Options de contrôle passive des hôtes"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgid "Path to RRDTool Database For Metrics"
+msgstr "Путь к базе данных RRDTool для метрик"
+
+msgid "Path to RRDTool Database For Monitoring Engine Statistics"
+msgstr "Путь к базе данных RRDTool для статистики ядра мониторинга"
+
+msgid "Path to RRDTool Database For Status"
+msgstr "Путь к базе данных RRDTool для статусов"
+
+msgid "Peers"
+msgstr "Pairs"
+
+msgid "Pending"
+msgstr "Ожидают"
+
+msgid "People linked to this Access list"
+msgstr "Люди, связанные с списком доступа"
+
+msgid "Percent State Change"
+msgstr "Процент изменений статуса"
+
+msgid "Perfdata"
+msgstr "Данные производительности"
+
+msgid "Perfdata Options"
+msgstr "Параметры данных производительности"
+
+msgid "Perfdata file"
+msgstr "Файл данных производительности"
+
+msgid "Performance Data"
+msgstr "Данные производительности"
+
+msgid "Performance Data Management"
+msgstr "Gestion des données de performance"
+
+msgid "Performance Data Processing Option"
+msgstr "Traitement des données de performance"
+
+msgid "Performance Data Processor Command Timeout"
+msgstr "Temps maximum d'exécution d'une commande de gestion des données de performances"
+
+msgid "Performance Management"
+msgstr "Gestion des données de performance"
+
+msgid "Performance broker page work only with Centreon Broker."
+msgstr "La page de performance fonctionne uniquement avec Centreon Broker."
+
+msgid "Performance data"
+msgstr "Données de performance"
+
+msgid "Performances"
+msgstr "Производительность"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Periods"
+msgstr "Периоды"
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid "Perl library directory"
+msgstr "Répertoire des librairies Perl"
+
+msgid "Persistent"
+msgstr "Постоянный"
+
+msgid "Pick a color"
+msgstr "Choisissez une couleur"
+
+msgid "Ping"
+msgstr "Пинг"
+
+msgid "Please correct these fields"
+msgstr "Merci de corriger ces champs"
+
+msgid "Please define autologin authentication key in your profile."
+msgstr "Merci de définir une clé d’autorisation de connexion automatique dans votre profil."
+
+msgid "Please enter a comment"
+msgstr "Merci d'entrer un commentaire"
+
+msgid "Please select a user in order to view his notifications"
+msgstr "Veuillez sélectionner un utilisateur pour visualiser ses notifications"
+
+msgid "Please select an user in order to display resources"
+msgstr "Merci de sélectionner un utilisateur pour afficher les ressources"
+
+msgid "Please select one or more items"
+msgstr "Merci de sélectionner un ou plusieurs objets"
+
+msgid "Plugin Help"
+msgstr "Aide de la sonde"
+
+msgid "Plugin Test"
+msgstr "Тестирование плагина"
+
+msgid "Plugin has to be in : "
+msgstr "La sonde doit être dans :"
+
+msgid "Plugin packs"
+msgstr "Packs de sondes"
+
+msgid "Plugin test"
+msgstr "Тестирование плагина"
+
+msgid "Plugins Directory"
+msgstr "Каталог плагинов"
+
+msgid "Poller"
+msgstr "Сборщик"
+
+msgid "Poller Filter"
+msgstr "Фильтр сборщиков"
+
+msgid "Poller Name"
+msgstr "Название сборщика"
+
+msgid "Poller States"
+msgstr "Статус сборщика"
+
+msgid "Poller Statistics"
+msgstr "Статистика сборщика"
+
+msgid "Pollers"
+msgstr "Сборщики"
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Position"
+msgstr "Позиция"
+
+msgid "Posix"
+msgstr "Posix"
+
+msgid "Post Check"
+msgstr "Actions après contrôle"
+
+msgid "Post Validation"
+msgstr "Post Validation"
+
+msgid "Post execution command results"
+msgstr "Résultat de la commande post-génération"
+
+msgid "Post generation command"
+msgstr "Commande exécutée post-génération"
+
+msgid "Post-Restart command"
+msgstr "Команды после перезапуска"
+
+msgid "Pre execution commands"
+msgstr "Предварительное выполнение команд"
+
+msgid "Precached Object File"
+msgstr "Файл предкэшированных объектов"
+
+msgid "Predictive Host Dependency Checks"
+msgstr "Интеллектуальные зависимости проверок узлов сети"
+
+msgid "Predictive Service Dependency Checks"
+msgstr "Интеллектуальные зависимости проверок служб"
+
+msgid "Preexec definition"
+msgstr "Определение команды PREEXEC"
+
+msgid "Preparing environment"
+msgstr "Préparation de l'environnement"
+
+msgid "Previous"
+msgstr "Предыдущий"
+
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+msgid "Print Average"
+msgstr "Показывать среднее значение"
+
+msgid "Print Last Value"
+msgstr "Показывать последнее значение"
+
+msgid "Print Max value"
+msgstr "Показывать максимальное значение"
+
+msgid "Print Min value"
+msgstr "Показывать минимальное значение"
+
+msgid "Print Total Value"
+msgstr "Показывать общее значение"
+
+msgid "Private key file."
+msgstr "Clé privée SSH."
+
+msgid "Problem display properties"
+msgstr "Параметры отображения проблем"
+
+msgid "Problem has been acknowledged"
+msgstr "Le problème a été acquitté"
+
+msgid "Problems"
+msgstr "Проблемы"
+
+msgid "Process Perf Data"
+msgstr "Обработка данных производительности"
+
+msgid "Process information"
+msgstr "Informations sur le processus"
+
+msgid "Progress"
+msgstr "Прогресс"
+
+msgid "Project Leaders"
+msgstr "Руководители проекта"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Protocol version"
+msgstr "Версия протокола"
+
+msgid "Public"
+msgstr "Общедоступный"
+
+msgid "Public certificate"
+msgstr "Certificat public"
+
+msgid "Public views list"
+msgstr "List des vues publiques"
+
+msgid "Queued events"
+msgstr "File d'évènements"
+
+msgid "Quick Search"
+msgstr "Быстрый поиск"
+
+msgid "RPN (Reverse Polish Notation) Function"
+msgstr "Функция RPN (Обратной польской записи)"
+
+msgid "RPN Function"
+msgstr "Функция RPN"
+
+msgid "RRD file directory for metrics"
+msgstr "Каталог для файлов метрик RRD"
+
+msgid "RRD file directory for statuses"
+msgstr "Каталог для файлов статусов RRD"
+
+msgid "RRD length"
+msgstr "Durée de rétention des données dans les bases RRD (en secondes)"
+
+msgid "RRD retention"
+msgstr "Хранение RRD"
+
+msgid "RRDTool"
+msgstr "RRDTool"
+
+msgid "RRDTool Configuration"
+msgstr "Настройка RRDTool"
+
+msgid "RRDTool Properties"
+msgstr "Параметры RRDTool"
+
+msgid "RRDTool Version"
+msgstr "Версия RRDTool"
+
+msgid "RRDTool database size"
+msgstr "Размер базы данных RRD"
+
+msgid "RRDTool debug"
+msgstr "Отладка RRDTool"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Re-schedule the next check for a service"
+msgstr "Запланировать следующую проверку для службы"
+
+msgid "Re-schedule the next check for a service (Forced)"
+msgstr "Запланировать следующую проверку для службы (принудительно)"
+
+msgid "Re-schedule the next check for this service"
+msgstr "Запланировать следующую проверку для этой службы"
+
+msgid "Re-schedule the next check for this service (forced)"
+msgstr "Запланировать следующую проверку для этой службы (принудительно)"
+
+msgid "Reach Centreon Front-end"
+msgstr "Autoriser l'utilisateur à se connecter à l'interface web"
+
+msgid "Read Only"
+msgstr "Только чтение"
+
+msgid "Read/Write"
+msgstr "Чтение/запись"
+
+msgid "Real name"
+msgstr "Настоящее имя"
+
+msgid "Real-Time"
+msgstr "Реального времени"
+
+msgid "Rebuild RRD Database"
+msgstr "Пересобрать базу данных RRD"
+
+msgid "Rebuild Waiting"
+msgstr "Ожидание пересборки"
+
+msgid "Rebuild check interval in seconds"
+msgstr "Intervalle de contrôle des demandes de reconstruction des graphiques de performance"
+
+msgid "Recovery"
+msgstr "Восстановленный"
+
+msgid "Recovery Step"
+msgstr "Этап восстановления"
+
+msgid "Refresh Interval for monitoring"
+msgstr "Интервал обновления для Мониторинга"
+
+msgid "Refresh Interval for statistics"
+msgstr "Интервал обновления для Статистики"
+
+msgid "Refresh Properties"
+msgstr "Параметры обновления"
+
+msgid "Refresh interval must be numeric"
+msgstr "L'intervalle de rafraîchissement doit être un nombre"
+
+msgid "Regexp"
+msgstr "Регулярное выражение"
+
+msgid "Regular"
+msgstr "Регулярное"
+
+msgid "Regular Expression Matching Option"
+msgstr "Activation de la gestion des expressions rationnelles"
+
+msgid "Relations"
+msgstr "Отношения"
+
+msgid "Relations between Elements"
+msgstr "Отношения между элементами"
+
+msgid "Release"
+msgstr "Версия"
+
+msgid "Release notes"
+msgstr "Notes de version"
+
+msgid "Reload"
+msgstr "Перезагрузить"
+
+msgid "Reload ACL"
+msgstr "Перезагрузитиь ACL"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "Replacement"
+msgstr "Remplacement"
+
+msgid "Replication enabled"
+msgstr "Activer la réplication"
+
+msgid "Reporting"
+msgstr "Отчетность"
+
+msgid "Reporting Period"
+msgstr "Период отчета"
+
+msgid "Reporting retention duration (dashboard)"
+msgstr "Длительность хранения отчетов (Панель)"
+
+msgid "Reporting time period"
+msgstr "Période de génération des rapports"
+
+msgid "Requester"
+msgstr "Collecteur"
+
+msgid "Required"
+msgstr "Requis"
+
+msgid "Required Field"
+msgstr "Champ requis"
+
+msgid "Required field"
+msgstr "Champ requis"
+
+msgid "Required fields"
+msgstr "Champs requis"
+
+msgid "Required service"
+msgstr "Service requis"
+
+msgid "Reschedule associated services"
+msgstr "Изменение расписания для связанных служб"
+
+msgid "Reset"
+msgstr "Сброс"
+
+msgid "Reset filters"
+msgstr "Remise à zéro des filtres"
+
+msgid "Resolve"
+msgstr "Разрешение"
+
+msgid "Resource"
+msgstr "Ресурс"
+
+msgid "Resource Name"
+msgstr "Название ресурса"
+
+msgid "Resource used by one of the instances"
+msgstr "Ресурс используется одним из экземпляров"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Resources Access"
+msgstr "Доступ к ресурсам"
+
+msgid "Resources access"
+msgstr "Доступ к ресурсам"
+
+msgid "Resources access list link"
+msgstr "Liens vers les accès aux ressources"
+
+msgid "Resources storage"
+msgstr "Stockage des ressources"
+
+msgid "Restart"
+msgstr "Перезапуск"
+
+msgid "Restart Monitoring Engine"
+msgstr "Перезапуск ядра мониторинга"
+
+msgid "Restarting engine"
+msgstr "Перезапустить ядро"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Result Cache"
+msgstr "Результирующий кэш"
+
+msgid "Resulting Time Period with inclusions"
+msgstr "Période Temporelle résultante avec les inclusions"
+
+msgid "Retain Non Status Information"
+msgstr "Rétention des informations ne concernant pas le statut"
+
+msgid "Retain Status Information"
+msgstr "Сохранение информации о статусе"
+
+msgid "Retained Contact Host Attribute Mask"
+msgstr "Masque de rétention des attributs des contacts d'hôtes"
+
+msgid "Retained Contact Service Attribute Mask"
+msgstr "Masque de rétention des attributs des contacts de services"
+
+msgid "Retained Host Attribute Mask"
+msgstr "Masque de rétention des attributs des hôtes"
+
+msgid "Retained Process Host Attribute Mask"
+msgstr "Masque de rétention des attributs des processus d'hôtes"
+
+msgid "Retained Process Service Attribute Mask"
+msgstr "Masque de rétention des attributs des processus de services"
+
+msgid "Retained Service Attribute Mask"
+msgstr "Masque de rétention des attributs du service"
+
+msgid "Retention Duration for Comments"
+msgstr "Длительность хранения для комментариев"
+
+msgid "Retention Duration for Data in MySQL"
+msgstr "Длительность хранения данных в MySQL"
+
+msgid "Retention Duration for Downtimes"
+msgstr "Длительность хранения для времени простоя"
+
+msgid "Retention durations"
+msgstr "Длительности хранения информации"
+
+msgid "Retention file"
+msgstr "Fichier de rétention"
+
+msgid "Retention path"
+msgstr "Chemin des fichiers de rétention"
+
+msgid "Retry"
+msgstr "Повторить попытку"
+
+msgid "Retry Check Interval"
+msgstr "Интервал между повторными попытками проверок"
+
+msgid "Retry interval"
+msgstr "Intervalle entre 2 tentatives"
+
+msgid "Return to list"
+msgstr "Retourner à la liste"
+
+msgid "Review form after save"
+msgstr "Revoir le formulaire après la sauvegarde"
+
+msgid "Right Click here to add an autologin link directly to your bookmarks"
+msgstr "Clic droit ici afin d'ajouter un lien de connexion automatique directement dans vos marques-pages"
+
+msgid "Root password"
+msgstr "Пароль root"
+
+msgid "Rotation"
+msgstr "Обновление через..."
+
+msgid "Round the min and max"
+msgstr "Округление максимального и минимального значений"
+
+msgid "Route definition"
+msgstr "Определение маршрута"
+
+msgid "Route parameters"
+msgstr "Параметры маршрута"
+
+msgid "Rows"
+msgstr "Lignes"
+
+msgid "Rrdcached configuration : work only with Centreon Broker"
+msgstr "Настройка RRDCached : работает только с  Centreon Broker"
+
+msgid "Rules"
+msgstr "Правила"
+
+msgid "Run Optimisation test (-s)"
+msgstr "Lancer un test d'Optimisation (-s)"
+
+msgid "Run debug (-v)"
+msgstr "Lancer le débogage (-v)"
+
+msgid "Run monitoring engine debug (-v)"
+msgstr "Lancer le débogage du moteur de supervision (-v)"
+
+msgid "Running debug mode"
+msgstr "Exécution en mode débogage"
+
+msgid "SCHEDULED DOWNTIME"
+msgstr "ПЛАНОВОЕ ВРЕМЯ ПРОСТОЯ"
+
+msgid "SNMP Community"
+msgstr "Строка сообщества SNMP"
+
+msgid "SNMP Trap Generation"
+msgstr "Генерация ловушки SNMP"
+
+msgid "SNMP Traps"
+msgstr "Ловушки SNMP"
+
+msgid "SNMP information"
+msgstr "Informations SNMP"
+
+msgid "SNMPTT log file"
+msgstr "Nom du Fichier de journalisation de SNMPTT"
+
+msgid "SOFT"
+msgstr "SOFT"
+
+msgid "SQL LIKE-clause expression"
+msgstr "Expression SQL à rechercher de type LIKE"
+
+msgid "SQL debug"
+msgstr "Отладка SQL"
+
+msgid "SQL file included"
+msgstr "Fichier SQL inclus"
+
+msgid "SQL matching"
+msgstr "SQL соответствие"
+
+msgid "SSH Information"
+msgstr "Informations SSH"
+
+msgid "SSH Private key"
+msgstr "Clé privée SSH"
+
+msgid "SSH port"
+msgstr "Порт SSH"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "SSO login header"
+msgstr "Заголовок HTTP SSO"
+
+msgid "SSO mode"
+msgstr "Режим SSO"
+
+msgid "SSO only"
+msgstr "Seulement SSO"
+
+msgid "SSO trusted client addresses"
+msgstr "Доверенные клиентские адреса для SSO"
+
+msgid "Satellite configuration"
+msgstr "Configuration du collecteur"
+
+msgid "Satellites"
+msgstr "Спутники"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Scale Graph Values"
+msgstr "Значение масштаба графика"
+
+msgid "Scale of time"
+msgstr "Масштаю времени"
+
+msgid "Scan"
+msgstr "Manuelle"
+
+msgid "Schedule an immediate check of all services on this host"
+msgstr "Запланировать немедленную проверку всех служб на этом узле сети"
+
+msgid "Schedule an immediate check of all services on this host (forced)"
+msgstr "Запланировать немедленную проверку всех служб на этом узле сети (принудительно)"
+
+msgid "Schedule downtime for a host"
+msgstr "Planifier un temps d'arrêt pour un hôte"
+
+msgid "Schedule downtime for a service"
+msgstr "Planifier un temps d'arrêt pour un service"
+
+msgid "Schedule downtime for this host"
+msgstr "Запланировать время простоя для этого узла сети"
+
+msgid "Schedule downtime for this service"
+msgstr "Запланировать время простоя для этой службы"
+
+msgid "Schedule immediate check"
+msgstr "Planifier un contrôle immédiat"
+
+msgid "Schedule immediate check (Forced)"
+msgstr "Planifier un contrôle immédiat (Forcé)"
+
+msgid "Schedule the check for a host"
+msgstr "Planifier la vérification pour un hôte"
+
+msgid "Schedule the check for a host (Forced)"
+msgstr "Planifier la vérification pour un hôte (Forcé)"
+
+msgid "Scheduled downtime"
+msgstr "Запланированное время простоя"
+
+msgid "Scheduled event information"
+msgstr "Informations sur l'ordonnancement"
+
+msgid "Scheduling"
+msgstr "Planification"
+
+msgid "Scheduling options"
+msgstr "Параметры расписания"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search Filter"
+msgstr "Фильтр поиска"
+
+msgid "Search Result"
+msgstr "Результат поиска"
+
+msgid "Search group base DN"
+msgstr "Поиск группы в базе DN"
+
+msgid "Search user base DN"
+msgstr "Поиск пользователя в базе DN"
+
+msgid "Secondary Priority Hosts"
+msgstr "Hôtes secondaires"
+
+msgid "Seconds"
+msgstr "Секунды"
+
+msgid "Select Timeperiod..."
+msgstr "Выбрать период времени..."
+
+msgid "Select a connector..."
+msgstr "Sélectionner un connecteur..."
+
+msgid "Select a downtime type"
+msgstr "Выберите тип времени простоя"
+
+msgid "Selected"
+msgstr "Выбранные"
+
+msgid "Selection Mode"
+msgstr "Выбрать режим"
+
+msgid "Send signal"
+msgstr "Отправить сигнал"
+
+msgid "Sequential"
+msgstr "Séquentiellement"
+
+msgid "Serialization protocol"
+msgstr "Protocole de sérialisation"
+
+msgid "Server Information"
+msgstr "Informations sur le serveur"
+
+msgid "Server Status"
+msgstr "Статус сервера"
+
+msgid "Service"
+msgstr "Служба"
+
+msgid "Service Categories"
+msgstr "Catégories de service"
+
+msgid "Service Category Filter"
+msgstr "Фильтр категорий служб"
+
+msgid "Service Check Execution Option"
+msgstr "Contrôle actif des services"
+
+msgid "Service Check Execution Time"
+msgstr "Durée de contrôle du service"
+
+msgid "Service Check Options"
+msgstr "Параметры проверки службы"
+
+msgid "Service Check Retry Logging Option"
+msgstr "Journalisation des tests de confirmation de service"
+
+msgid "Service Check Scheduling Options"
+msgstr "Options d'ordonnancement des services"
+
+msgid "Service Check Timeout"
+msgstr "Temps maximum d'exécution d'un contrôle de service"
+
+msgid "Service Commands"
+msgstr "Commandes du service"
+
+msgid "Service Configuration"
+msgstr "Configuration du service"
+
+msgid "Service Description"
+msgstr "Описание службы"
+
+msgid "Service Description Search Key"
+msgstr "Entrez le nom d'un service"
+
+msgid "Service Extended Info"
+msgstr "Informations supplémentaires du service"
+
+msgid "Service Freshness Check Interval"
+msgstr "Intervalle de contrôle de la fraicheur du résultat du service"
+
+msgid "Service Freshness Check Option"
+msgstr "Option de contrôle de la fraicheur du résultat du service"
+
+msgid "Service Group"
+msgstr "Группа служб"
+
+msgid "Service Group Name"
+msgstr "Название группы служб"
+
+msgid "Service Groups"
+msgstr "Группы служб"
+
+msgid "Service Inter-Check Delay Method"
+msgstr "Méthode de délai inter-contrôles de services"
+
+msgid "Service Interleave Factor"
+msgstr "Facteur d'entrelacement des services"
+
+msgid "Service List"
+msgstr "Список служб"
+
+msgid "Service Notification Commands"
+msgstr "Команды оповещений служб"
+
+msgid "Service Notification Options"
+msgstr "Опции оповещений служб"
+
+msgid "Service Notification Period"
+msgstr "Период оповещений служб"
+
+msgid "Service Notifications"
+msgstr "Оповещения службы"
+
+msgid "Service Performance Data File"
+msgstr "Fichier de données de performance de service"
+
+msgid "Service Performance Data File Mode"
+msgstr "Mode du fichier de données de performance de service"
+
+msgid "Service Performance Data File Processing Command"
+msgstr "Commande de traitement du fichier des données de performance du service"
+
+msgid "Service Performance Data File Processing Interval"
+msgstr "Intervalle de traitement des données de performance de service"
+
+msgid "Service Performance Data File Template"
+msgstr "Modèle de fichier de données de performance de service"
+
+msgid "Service Performance Data Processing Command"
+msgstr "Commande de traitement des données de performance du service"
+
+msgid "Service Problems"
+msgstr "Проблемы служб"
+
+msgid "Service Scheduling Options"
+msgstr "Параметры расписания службы"
+
+msgid "Service Shortcuts"
+msgstr "Ярлыки службы"
+
+msgid "Service State"
+msgstr "Статус службы"
+
+msgid "Service Status"
+msgstr "Статус службы"
+
+msgid "Service Statuses"
+msgstr "Статусы служб"
+
+msgid "Service Template"
+msgstr "Шаблон службы"
+
+msgid "Service Template Name"
+msgstr "Название шаблона службы"
+
+msgid "Service Templates"
+msgstr "Шаблоны служб"
+
+msgid "Service Templates names"
+msgstr "Названия шаблонов служб"
+
+msgid "Service Trap Relation"
+msgstr "Связанные ловушки SNMP"
+
+msgid "Service category"
+msgstr "Категория службы"
+
+msgid "Service check latency"
+msgstr "Latence du contrôle du service"
+
+msgid "Service dependency"
+msgstr "Dépendance de service"
+
+msgid "Service escalations"
+msgstr "Эскалации служб"
+
+msgid "Service group state"
+msgstr "Статус группы служб"
+
+msgid "Service groups"
+msgstr "Groupes de services"
+
+msgid "Service is currently on Downtime"
+msgstr "Le service est actuellement en période d'arrêt"
+
+msgid "Service links (service template links)"
+msgstr "Modèles de services liés"
+
+msgid "Service list"
+msgstr "Liste des services"
+
+msgid "Service notifications"
+msgstr "Оповещения служб"
+
+msgid "Service state"
+msgstr "Etat du service"
+
+msgid "Service status"
+msgstr "Etat du service"
+
+msgid "Service template"
+msgstr "Modèle de service"
+
+msgid "ServiceGroup"
+msgstr "Группа служб"
+
+msgid "Servicegroup"
+msgstr "Группа служб"
+
+msgid "Servicegroup dependency"
+msgstr "Dépendance de groupe de services"
+
+msgid "Servicegroups / Hosts"
+msgstr "Группа служб / узлы сети"
+
+msgid "Services"
+msgstr "Службы"
+
+msgid "Services : Acknowledge"
+msgstr "Службы : Подтверждение"
+
+msgid "Services : Disable Check"
+msgstr "Службы : Выключение проверки"
+
+msgid "Services : Disable Notification"
+msgstr "Службы : Выключение оповещений"
+
+msgid "Services : Disacknowledge"
+msgstr "Службы : Снятие подтверждения"
+
+msgid "Services : Enable Check"
+msgstr "Службы : Включение проверки"
+
+msgid "Services : Enable Notification"
+msgstr "Службы : Включение оповещений"
+
+msgid "Services : Set Downtime"
+msgstr "Службы : Установить время простоя"
+
+msgid "Services Actions Access"
+msgstr "Accès aux actions sur les services"
+
+msgid "Services Actively Checked"
+msgstr "Services actuellement contrôlés"
+
+msgid "Services Comments"
+msgstr "Commentaires sur les services"
+
+msgid "Services Downtimes"
+msgstr "Temps d'arrêt des services"
+
+msgid "Services Escalation"
+msgstr "Escalades des services"
+
+msgid "Services Escalation Options"
+msgstr "Параметры эскалации для служб"
+
+msgid "Services Grid"
+msgstr "Сетка служб"
+
+msgid "Services Groups"
+msgstr "Группы служб"
+
+msgid "Services Notification Period"
+msgstr "Период оповещений служб"
+
+msgid "Services Resources"
+msgstr "Gestion des services"
+
+msgid "Services Status"
+msgstr "État des services"
+
+msgid "Services Uses"
+msgstr "Services utilisés"
+
+msgid "Services by Host"
+msgstr "Службы по узлам сети"
+
+msgid "Services by Hostgroup"
+msgstr "Службы по группам узлов сети"
+
+msgid "Services by Servicegroup"
+msgstr "Службы по группам служб"
+
+msgid "Services by host"
+msgstr "Службы по узлам сети"
+
+msgid "Services by host group"
+msgstr "Службы по группам узлов сети"
+
+msgid "Services information"
+msgstr "Информация о службах"
+
+msgid "Services informations"
+msgstr "Информации о службах"
+
+msgid "Services: Set Downtime"
+msgstr "Services: Planifier un temps d'arrêt"
+
+msgid "Sessions"
+msgstr "Сеансы"
+
+msgid "Sessions Expiration Time"
+msgstr "Время окончания срока сессий"
+
+msgid "Sessions Properties"
+msgstr "Параметры сессий"
+
+msgid "Set RRD Data Source Type to ABSOLUTE"
+msgstr "Fixer le type de source de données RRD à ABSOLUTE"
+
+msgid "Set RRD Data Source Type to COUNTER"
+msgstr "Fixer le type de source de données RRD à COUNTER"
+
+msgid "Set RRD Data Source Type to DERIVE"
+msgstr "Fixer le type de source de données RRD à DERIVE"
+
+msgid "Set RRD Data Source Type to GAUGE"
+msgstr "Fixer le type de source de données RRD à GAUGE"
+
+msgid "Set default"
+msgstr "Установить по умолчанию"
+
+msgid "Set downtime"
+msgstr "Configurer un temps d'arrêt"
+
+msgid "Set downtime for hosts services"
+msgstr "Установить время простоя для служб узлов сети"
+
+msgid "Set downtimes"
+msgstr "Configurer des temps d'arrêt"
+
+msgid "Set downtimes on services attached to hosts"
+msgstr "Установить время простоя для служб, прикрепленных к узлам сети"
+
+msgid "Set the default timezone in php.ini file"
+msgstr "Définir le fuseau horaire par défaut dans le fichier php.ini"
+
+msgid "Set this view as your default view"
+msgstr "Configurer cette vue comme celle par défaut ?"
+
+msgid "Set this view as your default view?"
+msgstr "Configurer cette vue comme celle par défaut?"
+
+msgid "Setting up basic configuration"
+msgstr "Installation de la configuration basique"
+
+msgid "Setting up configuration file"
+msgstr "Installation des fichiers de configurations"
+
+msgid "Setup"
+msgstr "Configuration"
+
+msgid "Severity"
+msgstr "Важность"
+
+msgid "Severity level"
+msgstr "Уровень важности"
+
+msgid "Severity type"
+msgstr "Тип важности"
+
+msgid "Share"
+msgstr "Partage"
+
+msgid "Share view"
+msgstr "Общий экран"
+
+msgid "Shared Resources"
+msgstr "Общие ресурсы"
+
+msgid "Shared views list"
+msgstr "Liste des vues partagées"
+
+msgid "Show Critical status"
+msgstr "Показывать статус Критический"
+
+msgid "Show Down status"
+msgstr "Показывать статус Не работает"
+
+msgid "Show OK status"
+msgstr "Показывать статус OK"
+
+msgid "Show Unknown status"
+msgstr "Показывать статус Неизвестный"
+
+msgid "Show Unreachable status"
+msgstr "Показывать статус Недоступный"
+
+msgid "Show Up status"
+msgstr "Показывать статус Работает"
+
+msgid "Show Warning status"
+msgstr "Показывать статус Предупреждение"
+
+msgid "Show/Hide edit mode"
+msgstr "Afficher/Cacher le mode édition"
+
+msgid "Shutdown Monitoring Engine"
+msgstr "Выключение ядра мониторинга"
+
+msgid "Simple poller"
+msgstr "Collecteur uniquement"
+
+msgid "Size to max"
+msgstr "Taille max"
+
+msgid "Skin Menu Selection"
+msgstr "Sélection de l'apparence des menus"
+
+msgid "Snmp Traps"
+msgstr "Traps SNMP"
+
+msgid "Snmp trap Groups"
+msgstr "Groupe de traps SNMP"
+
+msgid "Snmp trap manufacturer"
+msgstr "Constructeur de traps SNMP"
+
+msgid "Soft Service Dependencies Option"
+msgstr "Vérification des dépendances de service"
+
+msgid "Some database poller updates are not active; check your Monitoring platform"
+msgstr "Certains collecteurs ne mettent pas à jour la base de données; contrôler votre plate-forme de supervision"
+
+msgid "Some hosts child has not the same instance"
+msgstr "Certains hôtes enfants ne sont pas supervisés par le même ordonnanceur"
+
+msgid "Some hosts parent has not the same instance"
+msgstr "Certains hôtes parents ne sont pas supervisés par le même ordonnanceur"
+
+msgid "Sorry your license is not valid\n"
+msgstr "Désolé, votre licence n'est pas valide \n"
+
+msgid "Sorry, your command line does not contain any $ARGn$ macro."
+msgstr "Désolé, votre ligne de commande ne contient pas de macro $ARGn$."
+
+msgid "Sorry, your command line does not contain any $_SERVICE$ macro or $_HOST$ macro."
+msgstr "Désolé, votre ligne de commande ne contient pas de macro $_SERVICE$ ou $_HOST$."
+
+msgid "Sort by  "
+msgstr "Сортировка по"
+
+msgid "Sort by Host Name"
+msgstr "Trier par nom d'hôte"
+
+msgid "Sort by Name"
+msgstr "Сортировать по названию"
+
+msgid "Sort by Status"
+msgstr "Сортировать по статусу"
+
+msgid "Sort by host name"
+msgstr "Trier par nom d\\'hôte"
+
+msgid "Sort by last change date"
+msgstr "Trier selon la durée passée dans l'état courant"
+
+msgid "Sort by last check"
+msgstr "Сортировать по последней проверке"
+
+msgid "Sort by last hard state change date"
+msgstr "Trier selon le dernier changement d'état hard en date"
+
+msgid "Sort by plugin output"
+msgstr "Trier selon le message de sortie des sondes"
+
+msgid "Sort by retries number"
+msgstr "Trier par nombre d'essais"
+
+msgid "Sort by service description"
+msgstr "Trier par nom de service"
+
+msgid "Sort by severity"
+msgstr "Trier par criticité"
+
+msgid "Sort by status"
+msgstr "Сортировать по статусу"
+
+msgid "Sort problems by"
+msgstr "Сортировка проблем по"
+
+msgid "Sort results (ascendant)"
+msgstr "Trier les résultats (ascendant)"
+
+msgid "Sort results (descendant)"
+msgstr "Trier les résultats (descendant)"
+
+msgid "Sorting"
+msgstr "Tri"
+
+msgid "Sound for Critical status"
+msgstr "Звук для статуса Критический"
+
+msgid "Sound for Down status"
+msgstr "Звук для статуса Не работает"
+
+msgid "Sound for OK status"
+msgstr "Звук для статуса OK"
+
+msgid "Sound for Unknown status"
+msgstr "Звук для статуса Неизвестный"
+
+msgid "Sound for Unreachable status"
+msgstr "Звук для статуса Недоступный"
+
+msgid "Sound for Up status"
+msgstr "Звук для статуса Работает"
+
+msgid "Sound for Warning status"
+msgstr "Звук для статуса Предупреждение"
+
+msgid "Special Command"
+msgstr "Особая команда"
+
+msgid "Specific date"
+msgstr "Конкретная дата"
+
+msgid "Split Components"
+msgstr "Разделить компоненты"
+
+msgid "Stack"
+msgstr "Стек"
+
+msgid "Stacked"
+msgstr "Empilée"
+
+msgid "Stacking"
+msgstr "Empiler"
+
+msgid "Stalking Options"
+msgstr "Options à enregistrer"
+
+msgid "Start Hour"
+msgstr "Heure de début"
+
+msgid "Start Minute"
+msgstr "Minute de début"
+
+msgid "Start Time"
+msgstr "Début"
+
+msgid "Start script for broker daemon"
+msgstr "Стартовый скрипт Centreon Broker"
+
+msgid "Start time"
+msgstr "Heure de démarrage du programme"
+
+msgid "Started"
+msgstr "Начат с "
+
+msgid "State"
+msgstr "Statut"
+
+msgid "State Breakdowns For Host Services"
+msgstr "Статус аварий для служб узла связи"
+
+msgid "State Retention File"
+msgstr "Fichier de rétention des états"
+
+msgid "State Retention Option"
+msgstr "Rétention d'états"
+
+msgid "State Type"
+msgstr "Тип статуса"
+
+msgid "States Retention"
+msgstr "Rétention des états"
+
+msgid "Statistics"
+msgstr "Activer les statistiques"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Status Details"
+msgstr "Сведения о статусе"
+
+msgid "Status File Update Interval"
+msgstr "Интервал обновления файла статуса"
+
+msgid "Status Graph"
+msgstr "График статуса"
+
+msgid "Status Information"
+msgstr "Информация о статусе"
+
+msgid "Status Map Image"
+msgstr "Изображение на карте статусов"
+
+msgid "Status file"
+msgstr "Файл статуса"
+
+msgid "Status information"
+msgstr "Информация о статусе"
+
+msgid "Step"
+msgstr "Этап"
+
+msgid "Sticky"
+msgstr "Стикер"
+
+msgid "Stop hiding graphs of selected Services"
+msgstr "Ne plus cacher les graphiques des services sélectionnés"
+
+msgid "Stop rebuilding RRD Databases"
+msgstr "Arrêter la regénération des bases de données RRD"
+
+msgid "Storage Type"
+msgstr "Type de sauvegarde"
+
+msgid "Storage database"
+msgstr "Base de données de stockage"
+
+msgid "Storage database name"
+msgstr "Nom de la base de données de stockage"
+
+msgid "Storage folders"
+msgstr "Папки для хранения"
+
+msgid "Store LDAP password"
+msgstr "Хранение пароля LDAP"
+
+msgid "Store in performance data in data_bin"
+msgstr "Enregistrement des données de performance dans la table 'data_bin'"
+
+msgid "Store performance data in data_bin"
+msgstr "Enregistrement des données de performance dans la table 'data_bin'"
+
+msgid "String"
+msgstr "Chaine"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Submit command?"
+msgstr "Soumettre cette commande ?"
+
+msgid "Submit result"
+msgstr "Отправить результат"
+
+msgid "Submit result for a host"
+msgstr "Отправить результат для узла сети"
+
+msgid "Submit result for a service"
+msgstr "Отправить результат для службы"
+
+msgid "Submit result for this host"
+msgstr "Отправить результат для этого узла сети"
+
+msgid "Submit result for this service"
+msgstr "Отправить результат для этой службы"
+
+msgid "Sum"
+msgstr "Somme"
+
+msgid "Summary"
+msgstr "Résumé"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "Support Information"
+msgstr "Информация о техподдержке"
+
+msgid "Synchronize Media Directory"
+msgstr "Synchroniser le répertoire des images"
+
+msgid "Syslog Logging Option"
+msgstr "Journalisation syslog"
+
+msgid "System Logs"
+msgstr "Системные журналы"
+
+msgid "TCP Port"
+msgstr "Порт TCP"
+
+msgid "TCP port"
+msgstr "Порт TCP"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "Tactical Overview"
+msgstr "Тактический обзор"
+
+msgid "Temp File"
+msgstr "Временный файл"
+
+msgid "Temp directory"
+msgstr "Временный каталог"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Template Name"
+msgstr "Название шаблона"
+
+msgid "Template inheritance"
+msgstr "Наследование от шаблона"
+
+msgid "Template name is already in use"
+msgstr "Ce nom de modèle est déjà utilisé"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Temporary recovery mode"
+msgstr "Activation du fichier temporaire"
+
+msgid "Test the plugin"
+msgstr "Tester la sonde"
+
+msgid "The SQL files are located in %s"
+msgstr "Les fichiers SQL sont situés dans %s"
+
+msgid "The config name already exists"
+msgstr "Le nom utilisé existe déjà"
+
+msgid "The directory isn't valid"
+msgstr "Le répertoire n'est pas valide"
+
+msgid "The end time must be greater than the start time."
+msgstr "La date de fin doit être plus grande que la date de début."
+
+msgid "The entire process should take around ten minutes."
+msgstr "Le processus complet devrait prendre environ dix minutes."
+
+msgid "The form has not been submitted since 15 minutes. Please retry to resubmit"
+msgstr "Le formulaire n'a pas été enovyé depuis 15 minutes. Essayer de renvoyer celui-ci"
+
+msgid "The given license file is not valid"
+msgstr "Le fichier de licence n'est pas valide"
+
+msgid "The installation is now finished. To get further information regarding Centreon please visit the following links"
+msgstr "L'installation est maintenant terminée. Pour plus d'informations concernant Centreon utiliser les liens suivants"
+
+msgid "The license has been successfully installed"
+msgstr "La licence a été installée avec succès"
+
+msgid "The list of pollers is <a href=\"./main.php?p=60901\">here</a>."
+msgstr "La liste des collecteur est disponible <a href=\"./main.php?p=60901\">ici</a>."
+
+msgid "The name of block configuration"
+msgstr "Nom de l'objet configuré"
+
+msgid "The name of the poller is mandatory"
+msgstr "Le nom du collecteur est obligatoire"
+
+msgid "The port must be numeric"
+msgstr "La port doit être numérique"
+
+msgid "The related host no longer exists in Centreon configuration. Please reload the configuration."
+msgstr "L'hôte n'existe pas dans la configuration Centreon. s'il vous plaît recharger la configuration."
+
+msgid "The rrdcached configuration must have a option."
+msgstr "La configuration du module RRDCached doit avoir une option"
+
+msgid "The same OID element already exists"
+msgstr "Le même OID existe déjà"
+
+msgid "The selected user didn't see any resources"
+msgstr "L'utilisateur sélectionné ne voit aucune ressource"
+
+msgid "The selected user is not enable."
+msgstr "L'utilisateur sélectionné n'est pas activé."
+
+msgid "The type of block configuration"
+msgstr "Le type du bloc de configuration"
+
+msgid "The wizard is corrupted."
+msgstr "L'assistant est endommagé."
+
+msgid "The wizard is not correctly initialized."
+msgstr "L'assistant n'est pas initialisé correctement."
+
+msgid "Thickness"
+msgstr "Толщина"
+
+msgid "This Month"
+msgstr "Этот месяц"
+
+msgid "This Service is flapping"
+msgstr "Le statut du service bagote"
+
+msgid "This Week"
+msgstr "Эта неделя"
+
+msgid "This Year"
+msgstr "Этот год"
+
+msgid "This description is in conflict with another one that is already defined in the selected relation(s)"
+msgstr "Cette description est en conflit avec une autre description qui est déjà définie dans la(les) relation(s) sélectionnée(s)"
+
+msgid "This directive can be used multiple times, see nagios documentation."
+msgstr "Cette directive peut être utilisée plusieurs fois, se reporter à la documentation de nagios."
+
+msgid "This host is never checked"
+msgstr "Cet hôte n'est jamais vérifié"
+
+msgid "This host is only checked in passive mode"
+msgstr "L'hôte est contrôlé uniquement en mode passif"
+
+msgid "This host no longer exists in Centreon configuration. Please reload the configuration."
+msgstr "Cet hôte n'existe pas dans la configuration Centreon. s'il vous plaît recharger la configuration."
+
+msgid "This installer will help you setup your database and your monitoring configuration."
+msgstr "Cet installeur vous aidera à paramétrer votre base de données et la configuration de votre supervision."
+
+msgid "This is a contact template."
+msgstr "Ceci est un modèle de contact."
+
+msgid "This option must be disable in order to avoid latency problem."
+msgstr "Cette option doit être désactiver pour prévenir les problèmes liés à la latence."
+
+msgid "This option must be enabled for Centreon Dashboard module."
+msgstr "Cette option doit être activée pour le module module de Tableau de bord Centreon "
+
+msgid "This service is neither active nor passive"
+msgstr "Ce service n'est ni actif ni passif"
+
+msgid "This service is only checked in passive mode"
+msgstr "Le service est contrôlé uniquement en mode passif"
+
+msgid "This user is a simple user."
+msgstr "Cet utilisateur est un simple utilisateur."
+
+msgid "This user is an administrator."
+msgstr "Cet utilisateur est un administrateur."
+
+msgid "This value must be a numerical value."
+msgstr "La valeur doit être numérique."
+
+msgid "This view name is required"
+msgstr "Le nom de la vue est obligatoire"
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time Period Name"
+msgstr "Название периода времени"
+
+msgid "Time Periods"
+msgstr "Периоды времени"
+
+msgid "Time Range"
+msgstr "Временной диапазон"
+
+msgid "Time Range exceptions"
+msgstr "Исключения периода времени"
+
+msgid "Time Unit"
+msgstr "Unité de temps de référence"
+
+msgid "Time Zone"
+msgstr "Временная зона"
+
+msgid "Time period"
+msgstr "Période de temps"
+
+msgid "Timeout"
+msgstr "Задержка"
+
+msgid "Timeout value for Centcore commands"
+msgstr "Время ожидания для команд СentСore"
+
+msgid "Timeouts"
+msgstr "Temps maximums d'exécution"
+
+msgid "Timeperiod"
+msgstr "Période de temps"
+
+msgid "Timeperiod Alias"
+msgstr "Alias de la période temporelle"
+
+msgid "Timeperiod Name"
+msgstr "Nom de la période temporelle"
+
+msgid "Timerange Overlaps"
+msgstr "Les périodes temporelles se superposent"
+
+msgid "Timezone"
+msgstr "Fuseau horaire"
+
+msgid "Timezone / Location"
+msgstr "Временная зона / Местонахождение"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Title Properties"
+msgstr "Параметры названий"
+
+msgid "To"
+msgstr "Au"
+
+msgid "Today"
+msgstr "Aujourd'hui"
+
+msgid "Today's Host log"
+msgstr "Log du jour de l'hôte"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Top Priority Hosts"
+msgstr "Hôtes prioritaires"
+
+msgid "Topology"
+msgstr "Топология"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Total Time"
+msgstr "Общее время"
+
+msgid "Tracert"
+msgstr "Tracert"
+
+msgid "Transaction commit timeout"
+msgstr "Temps d'exécution maximum des \"commit\" de transaction"
+
+msgid "Translate Passive Host Checks Option"
+msgstr "Option de traduction des contrôles d'hôte passif"
+
+msgid "Transparency"
+msgstr "Прозрачность"
+
+msgid "Trap description"
+msgstr "Описание ловушки SNMP"
+
+msgid "Trap name"
+msgstr "Название ловушки SNMP"
+
+msgid "Traps"
+msgstr "Ловушки SNMP"
+
+msgid "Tree Focus"
+msgstr "Focus sur l'arborescence"
+
+msgid "Tries"
+msgstr "Попытки"
+
+msgid "Troubleshooter"
+msgstr "Dépannage"
+
+msgid "True Regular Expression Matching Option"
+msgstr "Activation de la gestion systématique des expressions rationnelles"
+
+msgid "Trusted CA's certificate"
+msgstr "Certificat CA de confiance"
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "Tuning"
+msgstr "Optimisation"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "UI notifications"
+msgstr "Оповещения в интерфейсе Centreon Web"
+
+msgid "UNDETERMINED"
+msgstr "НЕ ОПРЕДЕЛЕНО"
+
+msgid "UNDETERMINED Alerts"
+msgstr "Alertes UNDETERMINED"
+
+msgid "UNDETERMINED Mean Time"
+msgstr "INDÉTERMINÉ (Temps connu)"
+
+msgid "UNDETERMINED Time"
+msgstr "Temps état INDÉTERMINÉ"
+
+msgid "UNIX Socket path"
+msgstr "Путь к сокету Unix"
+
+msgid "UNKNOWN"
+msgstr "НЕИЗВЕСТНЫЙ"
+
+msgid "UNKNOWN Alerts"
+msgstr "Alertes UNKNOWN"
+
+msgid "UNKNOWN Mean Time"
+msgstr "UNKNOWN (Temps connu)"
+
+msgid "UNKNOWN Time"
+msgstr "Temps état UNKNOWN"
+
+msgid "UNREACHABLE"
+msgstr "НЕДОСТУПНЫЙ"
+
+msgid "UP"
+msgstr "РАБОТАЕТ"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL Notes"
+msgstr "Lien d'information"
+
+msgid "Unable to install module"
+msgstr "Impossible d'installer le module"
+
+msgid "Undetermined"
+msgstr "Не определено"
+
+msgid "Undetermined Time"
+msgstr "Temps état Indterminé"
+
+msgid "Unhandled Problems"
+msgstr "Неизвестные проблемы"
+
+msgid "Uninstall Module"
+msgstr "Удалить модуль"
+
+msgid "Unit"
+msgstr "Unité"
+
+msgid "Unit Properties"
+msgstr "Параметры единиц"
+
+msgid "Unix socket"
+msgstr "Socket Unix"
+
+msgid "Unknown"
+msgstr "Неизвестный"
+
+msgid "Unknown Alert"
+msgstr "Alerte Inconnu"
+
+msgid "Unknown Mean Time"
+msgstr "INCONNU (Temps connu)"
+
+msgid "Unlock Services"
+msgstr "Déverrouiller les services"
+
+msgid "Unreachable"
+msgstr "Недоступный"
+
+msgid "Unreachable Alert"
+msgstr "Alerte Injoignable"
+
+msgid "Unreachable Alerts"
+msgstr "Alertes Injoignable"
+
+msgid "Unreachable Mean Time"
+msgstr "Injoignable (Temps connu)"
+
+msgid "Unreachable Time"
+msgstr "Temps état Injoignable"
+
+msgid "Unset Timerange"
+msgstr "Périodes temporelles indéfinies"
+
+msgid "Up"
+msgstr "Работает"
+
+msgid "Up Alert"
+msgstr "Alerte Disponible"
+
+msgid "Up Alerts"
+msgstr "Alertes Disponible"
+
+msgid "Up Mean Time"
+msgstr "Disponible (Temps connu)"
+
+msgid "Up Time"
+msgstr "Temps état disponible"
+
+msgid "Update informations"
+msgstr "Mettre à jour les informations"
+
+msgid "Update mode"
+msgstr "Mode de mise à jour"
+
+msgid "Upgrade"
+msgstr "Mise à jour"
+
+msgid "Upgrade Information"
+msgstr "Information sur la mise à juour"
+
+msgid "Upgrade finished"
+msgstr "Mise à jour terminée"
+
+msgid "Upper Limit"
+msgstr "Верхнее ограничение"
+
+msgid "Use Retained Program State Option"
+msgstr "Rétention du statut du programme"
+
+msgid "Use Retained Scheduling Info Option"
+msgstr "Rétention des données d'ordonnancement"
+
+msgid "Use SSL connection"
+msgstr "Utiliser une connexion SSL"
+
+msgid "Use TLS connection"
+msgstr "Utiliser une connexion TLS"
+
+msgid "Use embedded Perl implicitly"
+msgstr "Utilisation implicite de l'interpréteur Perl intégré"
+
+msgid "Use large installation tweaks"
+msgstr "Activation des optimisations pour les installations de forte volumétrie"
+
+msgid "Use service DNS"
+msgstr "Использовать службы DNS"
+
+msgid "Use setpgid"
+msgstr "Utiliser setpgid"
+
+msgid "Used by command"
+msgstr "Использует команду"
+
+msgid "User"
+msgstr "Пользователи"
+
+msgid "User Group List"
+msgstr "Liste des groupes utilisateurs"
+
+msgid "User List"
+msgstr "Liste des utilisateurs"
+
+msgid "User Settings"
+msgstr "Paramètres utilisateurs"
+
+msgid "User displayname attribute"
+msgstr "Атрибуты отображаемого имени пользователя"
+
+msgid "User email attribute"
+msgstr "Атрибуты электронной почты пользователя"
+
+msgid "User filter"
+msgstr "Фильтр по пользователям"
+
+msgid "User firstname attribute"
+msgstr "Атрибуты имени пользователя"
+
+msgid "User group attribute"
+msgstr "Атрибуты группы пользователей"
+
+msgid "User kicked"
+msgstr "Utilisateur déconnecté"
+
+msgid "User lastname attribute"
+msgstr "Атрибуты фамилии пользователя"
+
+msgid "User pager attribute"
+msgstr "Атрибуты телефона/пейджера пользователя"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Users Access"
+msgstr "Gestion des accès utilisateurs"
+
+msgid "Using a Template Model allows you to have multi-level Template connections"
+msgstr "Vous pouvez combiner plusieurs modèles pour en générer un nouveau"
+
+msgid "Using a Template allows you to have multi-level Template connection"
+msgstr "Vous pouvez combiner plusieurs modèles pour en générer un nouveau"
+
+msgid "Using a Template exempts you to fill required fields"
+msgstr "Utiliser un modèle permet d'éviter de remplir les champs requis"
+
+msgid "Utils database"
+msgstr "Base de données du broker"
+
+msgid "Utils database name"
+msgstr "Nom de la base de données temps réel"
+
+msgid "VRML Image"
+msgstr "Изображение VRML"
+
+msgid "Valid Email"
+msgstr "Действительный e-mail"
+
+msgid "Valid for an upgrade"
+msgstr "Valide pour une mise à jour"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Value must be numeric"
+msgstr "La valeur doit être numérique"
+
+msgid "Values"
+msgstr "Значения"
+
+msgid "Vendor Name"
+msgstr "Название производителя"
+
+msgid "Verification Check"
+msgstr "Vérification du contrôle"
+
+msgid "Verification Check (Forced)"
+msgstr "Vérification du contrôle (Forcé)"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Vertical Label"
+msgstr "Вертикальная метка"
+
+msgid "View"
+msgstr "Visualiser"
+
+msgid "View Data Processing"
+msgstr "Visualiser le traitement des données"
+
+msgid "View Group"
+msgstr "Visualiser un groupe"
+
+msgid "View Image"
+msgstr "Voir l'image"
+
+msgid "View Resource"
+msgstr "Visualiser une ressource"
+
+msgid "View Vendor"
+msgstr "Visualiser un constructeur"
+
+msgid "View a  host category"
+msgstr "Visualiser une catégorie d'hôte"
+
+msgid "View a Centreon-Broker Configuration"
+msgstr "Voir une configuration Centreon-Broker"
+
+msgid "View a Command"
+msgstr "Visualiser une commande"
+
+msgid "View a Connector"
+msgstr "Visualiser un connecteur"
+
+msgid "View a Contact Group"
+msgstr "Visualiser un groupe de contact"
+
+msgid "View a Data Source Template"
+msgstr "Visualiser un modèle de source de données"
+
+msgid "View a Dependency"
+msgstr "Visualiser une dépendance"
+
+msgid "View a Graph Template"
+msgstr "Visualiser un modèle de graphique"
+
+msgid "View a Group"
+msgstr "Visualiser un groupe"
+
+msgid "View a Host"
+msgstr "Visualiser un hôte"
+
+msgid "View a Host Extended Info"
+msgstr "Visualiser les es informations supplémentaires de l'hôte"
+
+msgid "View a Host Group"
+msgstr "Visualiser un groupe d'hôtes"
+
+msgid "View a Host Template"
+msgstr "Visualiser un modèle d'hôte"
+
+msgid "View a Meta Service"
+msgstr "Visualiser un Méta-Service"
+
+msgid "View a Meta Service indicator"
+msgstr "Visualiser un indicateur de Méta-Service"
+
+msgid "View a Monitoring Engine Configuration File"
+msgstr "Visualiser le fichier de configuration du moteur de supervision"
+
+msgid "View a Service"
+msgstr "Visualiser un service"
+
+msgid "View a Service Category"
+msgstr "Visualiser une catégorie de service"
+
+msgid "View a Service Group"
+msgstr "Visualiser un groupe de services"
+
+msgid "View a Service Template Model"
+msgstr "Visualiser un modèle de service"
+
+msgid "View a Time Period"
+msgstr "Visualiser une période de temps"
+
+msgid "View a Trap definition"
+msgstr "View une définition de Trap"
+
+msgid "View a User"
+msgstr "Visualiser un utilisateur"
+
+msgid "View a Virtual Metric"
+msgstr "Voir une Métrique Virtuelle"
+
+msgid "View a downtime"
+msgstr "Visualiser un temps d'arrêt"
+
+msgid "View a poller Configuration"
+msgstr "Afficher la configuration d'un collecteur"
+
+msgid "View an ACL"
+msgstr "Visualiser une ACL"
+
+msgid "View an Action"
+msgstr "Visualiser une action"
+
+msgid "View an Escalation"
+msgstr "Visualiser une escalade"
+
+msgid "View an Extended Info"
+msgstr "Visualiser une information supplémentaire"
+
+msgid "View command definition"
+msgstr "Voir la définition de la commande"
+
+msgid "View comments of hosts"
+msgstr "Visualiser les commentaires des hôtes"
+
+msgid "View contact notifications"
+msgstr "Показать оповещения для контактов"
+
+msgid "View downtimes of hosts"
+msgstr "Просмотр времени простоя для узлов сети"
+
+msgid "View graphs for host %s"
+msgstr "Прсмотр графиков узла сети %s"
+
+msgid "View host status page"
+msgstr "Просмотр страницы статуса узла сети"
+
+msgid "View logs for host %s"
+msgstr "Просмотр журналов узла сети %s"
+
+msgid "View logs for service %s"
+msgstr "Просмотр журналов службы %s"
+
+msgid "View macros"
+msgstr "Просмотреть макросы"
+
+msgid "View relations"
+msgstr "Просмотреть отношения"
+
+msgid "View report for host %s"
+msgstr "Просмотр отчетов узла сети %s"
+
+msgid "View report for service %s"
+msgstr "Просмотр отчетов службы %s"
+
+msgid "View status of all services on host %s"
+msgstr "Просмотр статуса всех служб узла сети %s"
+
+msgid "Viewers"
+msgstr "Personnes ayant accès en visualisation"
+
+msgid "Viewers group"
+msgstr "Groupes ayant accès en visualisation"
+
+msgid "Views"
+msgstr "Vues"
+
+msgid "Views Restrictions"
+msgstr "Restrictions d'accès aux vues"
+
+msgid "Virtual metrics"
+msgstr "Métriques/courbes virtuelles"
+
+msgid "Virtuals"
+msgstr "Виртуальные метрики"
+
+msgid "Visible page"
+msgstr "Pages visibles"
+
+msgid "Visualisation"
+msgstr "Визуализация"
+
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+msgid "WARNING Alerts"
+msgstr "Alertes WARNING"
+
+msgid "WARNING Mean Time"
+msgstr "WARNING (Temps connu)"
+
+msgid "WARNING Time"
+msgstr "Temps état WARNING"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Warning Alert"
+msgstr "Alerte Warning"
+
+msgid "Warning Area color"
+msgstr "Couleur de la surface Warning"
+
+msgid "Warning Level"
+msgstr "Уровень \"Предупреждение\""
+
+msgid "Warning Mean Time"
+msgstr "WARNING (Temps connu)"
+
+msgid "Warning Threshold"
+msgstr "Niveau d'alerte"
+
+msgid "Warning: this value can be dangerous, use -1 if you have any doubt."
+msgstr "Attention : le changement de cette valeur peut avoir des conséquences importantes. Utiliser '-1' si vous avez le moindre doute"
+
+msgid "Watermark Properties"
+msgstr "Параметры водяного знака"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Weekly"
+msgstr "Еженедельно"
+
+msgid "Weekly basis"
+msgstr "Еженедельно"
+
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+msgid "Welcome to Centreon Broker configuration"
+msgstr "Bienvenu dans la configuration de Centreon Broker"
+
+msgid "Welcome to Centreon Setup"
+msgstr "Bienvenue dans le processus d'installation de Centreon"
+
+msgid "Widget Information"
+msgstr "Informations sur le Widget"
+
+msgid "Widget Preferences for %s"
+msgstr "Préférences du Widget pour %s"
+
+msgid "Widget Title"
+msgstr "Titre du Widget"
+
+msgid "Widgets"
+msgstr "Виджеты"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Wizard"
+msgstr "Помошник настройки"
+
+msgid "WizardAjax"
+msgstr "Assistant de configuration"
+
+msgid "Would you like to install this widget?"
+msgstr "Souhaitez-vous installer ce widget?"
+
+msgid "Would you like to upgrade this widget?"
+msgstr "Souhaitez-vous monter en version ce widget?"
+
+msgid "Write"
+msgstr "Écriture"
+
+msgid "Write metrics"
+msgstr "Générer les graphiques de performance"
+
+msgid "Write status"
+msgstr "Générer les graphiques de statut"
+
+msgid "Write thread id"
+msgstr "Ecrite l'identifiant du processus"
+
+msgid "Write timestamp"
+msgstr "Ecrire l'horodatage (timestamp)"
+
+msgid "Y/m/d"
+msgstr "д/м/г"
+
+msgid "Y/m/d - H:i:s"
+msgstr "d/m/Y - H:i:s"
+
+msgid "Y/m/d G:i"
+msgstr "d/m/Y G:i"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yesterday"
+msgstr "Вчера"
+
+msgid "You are about to upgrade Centreon."
+msgstr "Вы собираетесь обновить Centreon."
+
+msgid "You are not allowed to access this contact"
+msgstr "Вам запрещен доступ к этому контакту"
+
+msgid "You are not allowed to access this contact group"
+msgstr "Вам запрещен доступ к этой группе контактов"
+
+msgid "You are not allowed to access this host"
+msgstr "Вам запрещен доступ к этому узлу сети"
+
+msgid "You are not allowed to access this host category"
+msgstr "Вам запрещен доступ к этой категории узлов сети"
+
+msgid "You are not allowed to access this host group"
+msgstr "Вам запрещен доступ к этой группе узлов сети"
+
+msgid "You are not allowed to access this meta service"
+msgstr "Вам запрещен доступ к этой метаслужбе"
+
+msgid "You are not allowed to access this monitoring instance"
+msgstr "Вам запрещен доступ к этому экземпляру мониторинга"
+
+msgid "You are not allowed to access this object configuration"
+msgstr "Вам запрещен доступ к этой конфигурации объекта"
+
+msgid "You are not allowed to access this service"
+msgstr "Вам запрещен доступ к этой службе"
+
+msgid "You are not allowed to access this service category"
+msgstr "Вам запрещен доступ к этой категории служб"
+
+msgid "You are not allowed to access this service group"
+msgstr "Вам запрещен доступ к этой группе служб"
+
+msgid "You are not allowed to reach this page"
+msgstr "Вам запрещен доступ к этой странице"
+
+msgid "You are not in an access group"
+msgstr "Вы не в группе доступа"
+
+msgid "You can see the full list by visiting the Centreon's Github"
+msgstr "Вы сможете увидеть полный список участников посетив страницу проекта Centreon на Github"
+
+msgid "You cannot override reserved macros"
+msgstr "Вы не можете переопределить зарезервированные макросы"
+
+msgid "You have to keep at least one contact to access to Centreon"
+msgstr "Вы должны иметь по крайней мере, один контакт для доступа к Centreon"
+
+msgid "You may refer to the line that causes problem in order to find out more about the issue."
+msgstr "Вы можете обратиться к линии, которая вызывает проблемы, чтобы узнать больше об этом вопросе."
+
+msgid "You must either fill all the arguments or leave them all empty"
+msgstr "Вы должны либо заполнить все аргументы или оставить их все пустые"
+
+msgid "You must set a poller for generate configuration."
+msgstr "Вы должны выбрать сборщик для генерации конфигурации."
+
+msgid "You must specify a password"
+msgstr "Необходимо указать пароль"
+
+msgid "You must specify a username"
+msgstr "Необходимо указать имя пользователя"
+
+msgid "You seem to be having trouble with your upgrade."
+msgstr "У вас, кажется, возникли проблемы с обновлением."
+
+msgid "Your command has been sent"
+msgstr "Ваша команда была отправлена"
+
+msgid "Your credentials are incorrect."
+msgstr "Ваши учетные данные неверны."
+
+msgid "Your license doesn't include any Administrator"
+msgstr "Ваша лицензия не включает в себя Администратора"
+
+msgid "Your license doesn't match any Zend ID of your machine"
+msgstr "Votre licence ne correspond à aucun Zend ID de ce serveur"
+
+msgid "Your license has expired"
+msgstr "Истек срок действия лицензии"
+
+msgid "Your license is not valid for this product"
+msgstr "Ваша лицензия не действительна для этого продукта"
+
+msgid "Your session is expired."
+msgstr "Ваша сессия с истекшим сроком действия."
+
+msgid "_Module_ is not a legal expression"
+msgstr "_Module_ n'est pas une expression autorisée"
+
+msgid "bytes"
+msgstr "байты"
+
+msgid "comment"
+msgstr "комментарий"
+
+msgid "create or load"
+msgstr "создать или загрузить"
+
+msgid "d/m/Y H:i"
+msgstr "d/m/Y H:i"
+
+msgid "d/m/Y H:i:s"
+msgstr "d/m/Y H:i:s"
+
+msgid "days"
+msgstr "дни"
+
+msgid "default"
+msgstr "по умолчанию"
+
+msgid "error"
+msgstr "ошибка"
+
+msgid "graph on"
+msgstr "graphique de l'hôte"
+
+msgid "here"
+msgstr "здесь"
+
+msgid "host"
+msgstr "узел сети"
+
+msgid "hours"
+msgstr "часы"
+
+msgid "impossible to validate, one or more field is incorrect"
+msgstr "impossible de valider, un ou plusieurs champs sont incorrects"
+
+msgid "it's required"
+msgstr "Requis"
+
+msgid "minutes"
+msgstr "минуты"
+
+msgid "movement"
+msgstr "mouvement"
+
+msgid "notify"
+msgstr "оповещение"
+
+msgid "on host"
+msgstr "на узле сети"
+
+msgid "or"
+msgstr "или"
+
+msgid "persistent"
+msgstr "Ré-insérer lors d'un redémarrage du moteur de supervision"
+
+msgid "s"
+msgstr "s"
+
+msgid "seconds"
+msgstr "секунды"
+
+msgid "service"
+msgstr "служба"
+
+msgid "snmpttconvertmib Directory + Binary"
+msgstr "Chemin complet de l'exécutable snmpttconvertmib"
+
+msgid "sticky"
+msgstr "Acquittement persistant en cas de changement de statut non-OK"
+
+msgid "to"
+msgstr "до"
+
+msgid "topology_name"
+msgstr "название_топологии"
