@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-05 10:39+0300\n"
+"PO-Revision-Date: 2017-05-05 16:48+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -77,28 +77,28 @@ msgid "ACKNOWLEDGED"
 msgstr "ПОДТВЕРЖДЕННЫЙ"
 
 msgid "ACL"
-msgstr "ACL"
+msgstr "Список контроля доступа"
 
 msgid "ACL Actions"
-msgstr "Groupe d'accès aux actions"
+msgstr "Действия списка контроля доступа"
 
 msgid "ACL Definition"
-msgstr "Nom de l'ACL"
+msgstr "Определение списка контроля доступа"
 
 msgid "ACL Group"
-msgstr "Groupe de contrôle d'accès"
+msgstr "Группа списка контроля доступа"
 
 msgid "ACL Menu"
-msgstr "Groupe d'accès aux menus"
+msgstr "Меню списка контроля доступа"
 
 msgid "ACL Resource"
-msgstr "Groupe d'accès aux ressources"
+msgstr "Ресурсы списка контроля доступа"
 
 msgid "ACL Resource Groups"
-msgstr "Groupe d'accès aux ressources"
+msgstr "Группы ресурсов списка контроля доступа"
 
 msgid "ACL reloaded"
-msgstr "ACL rechargées"
+msgstr "Список контроля доступа перезагружен"
 
 msgid "ALL"
 msgstr "Все"
@@ -116,7 +116,7 @@ msgid "Access"
 msgstr "Доступ"
 
 msgid "Access Groups"
-msgstr "Группы Доступа"
+msgstr "Группы доступа"
 
 msgid "Access List"
 msgstr "Список доступа"
@@ -371,7 +371,7 @@ msgid "Add a widget"
 msgstr "Добавление виджета"
 
 msgid "Add an ACL"
-msgstr "Добавление ACL"
+msgstr "Добавление списка контроля доступа"
 
 msgid "Add an Action"
 msgstr "Добавление действия"
@@ -1976,52 +1976,52 @@ msgid "Engine Status"
 msgstr "Статус ядра"
 
 msgid "Engine configuration"
-msgstr "Configuration du moteur de collecte"
+msgstr "Конфигурация ядра"
 
 msgid "Entry Time"
-msgstr "Date de saisie"
+msgstr "Время входа"
 
 msgid "Entry time"
-msgstr "Date de génération"
+msgstr "Время входа"
 
 msgid "Error in getting stats filename"
 msgstr "Erreur dans la récupération du nom de fichier des stats"
 
 msgid "Error in hour definition"
-msgstr "Erreur dans la définition de l'heure"
+msgstr "Ошибка определения часа"
 
 msgid "Error messages"
 msgstr "Сообщения об ошибках"
 
 msgid "Error while getting the local requester."
-msgstr "Erreur durant la récupération du poller central"
+msgstr "Ошибка при получении локального запроса."
 
 msgid "Error while inserting central-broker configuration"
-msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker Master"
+msgstr "Ошибка при добавлении модуля central-broker"
 
 msgid "Error while inserting central-module configuration"
-msgstr "Erreur durant l'insertion des configurations de central-module"
+msgstr "Ошибка при добавлении модуля central-module"
 
 msgid "Error while inserting central-rrd configuration"
-msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker RRD"
+msgstr "Ошибка при добавлении модуля central-rrd"
 
 msgid "Error while inserting poller-module configuration"
-msgstr "Erreur durant l'insertion de la configuration du module Centreon Broker du collecteur"
+msgstr "Ошибка при добавлении модуля poller-module"
 
 msgid "Error while saving configuration."
-msgstr "Erreur durant l'enregistrement de la configuration."
+msgstr "Ошибка при сохранении конфигурации."
 
 msgid "Error: Cannot Execute this command due to a path security problem."
-msgstr "Erreur: Impossible d'exécuter cette commande en raison d'un problème de sécurité sur le chemin."
+msgstr "Ошибка: Не удается выполнить эту команду из-за проблемы безопасности пути к файлу."
 
 msgid "Errors"
 msgstr "Ошибки"
 
 msgid "Escalated Hosts"
-msgstr "Hôtes escaladés"
+msgstr "Эскалированные узлы сети"
 
 msgid "Escalated Services"
-msgstr "Services escaladés"
+msgstr "Эскалированные службы"
 
 msgid "Escalation"
 msgstr "Эскалация"
@@ -2030,13 +2030,13 @@ msgid "Escalation Name"
 msgstr "Название эскалации"
 
 msgid "Escalation Period"
-msgstr "Période d'escalade"
+msgstr "Период времени эскалаций"
 
 msgid "Escalations"
-msgstr "Escalades"
+msgstr "Эскалации"
 
 msgid "Escalations View"
-msgstr "Visualisation des escalades"
+msgstr "Просмотреть эскалации"
 
 msgid "Event"
 msgstr "Событие"
@@ -2069,16 +2069,16 @@ msgid "Event broker information"
 msgstr "Informations sur le module"
 
 msgid "Event processing speed"
-msgstr "Vitesse de traitement des évènements"
+msgstr "Скорость обработки событий"
 
 msgid "Event queue max size"
-msgstr "Taille maximale de la queue d'évènements"
+msgstr "Максимальный размер очереди событий"
 
 msgid "Example"
 msgstr "Пример"
 
 msgid "Exception List"
-msgstr "Liste d'exceptions"
+msgstr "Список исключений"
 
 msgid "Exceptions"
 msgstr "Исключения"
@@ -2087,19 +2087,19 @@ msgid "Exclude hosts from selected host groups"
 msgstr "Исключить узлы сети из выбранных групп узлов"
 
 msgid "Excluded Timerange"
-msgstr "Périodes temporelles exclues"
+msgstr "Исключенные периоды времени"
 
 msgid "Execute special command"
 msgstr "Выполнить особую команду"
 
 msgid "Executing command"
-msgstr "Exécution de la commande"
+msgstr "Выполнение команды"
 
 msgid "Execution Failure Criteria"
 msgstr "Критерии выполнения при отказах"
 
 msgid "Execution Time"
-msgstr "Temps d'exécution"
+msgstr "Время выполнения"
 
 msgid "Execution interval"
 msgstr "Интервал выполнения"
@@ -2129,22 +2129,22 @@ msgid "Export XML"
 msgstr "Экспорт в XML"
 
 msgid "Export configuration files"
-msgstr "Exporter les fichiers de configuration"
+msgstr "Экспортировать файлы конфигурации"
 
 msgid "Export in CSV format"
-msgstr "Exporter au format CSV"
+msgstr "Экспорт в формат CSV"
 
 msgid "Export in XML too"
-msgstr "Exporter également en XML"
+msgstr "Экспорт в формат XML"
 
 msgid "Extended Information"
-msgstr "Informations additionnelles"
+msgstr "Расширенная информация"
 
 msgid "Extended Settings"
-msgstr "Options avancées"
+msgstr "Расширенные настройки"
 
 msgid "Extended information"
-msgstr "Informations supplémentaires"
+msgstr "Расширенная информация"
 
 msgid "Extended status information"
 msgstr "Расширенная информация о статусе"
@@ -2177,16 +2177,16 @@ msgid "Failed to execute command"
 msgstr "Impossible d'exécuter la commande"
 
 msgid "Failover"
-msgstr "Failover"
+msgstr "Отказоустойчивость"
 
 msgid "Failover name"
 msgstr "Nom du processus de bascule (failover)"
 
 msgid "Field Name"
-msgstr "Nom du champ"
+msgstr "Название поля"
 
 msgid "Field Value"
-msgstr "Valeur du champ"
+msgstr "Значение поля"
 
 msgid "File"
 msgstr "Файл"
@@ -2195,7 +2195,7 @@ msgid "File (.mib)"
 msgstr "Файл (.mib)"
 
 msgid "File for Centreon Broker statistics"
-msgstr "Localisation du fichier de statistiques de Centreon Broker"
+msgstr "Местонахождение файла статистики Centreon Broker"
 
 msgid "File max size"
 msgstr "Макс. размер файла"
@@ -2210,13 +2210,13 @@ msgid "File read offset"
 msgstr "Indice de lecture du fichier"
 
 msgid "File read path"
-msgstr "Chemin du fichier en cours de lecture"
+msgstr "Путь чтения файла"
 
 msgid "File write offset"
 msgstr "Indice d'écriture du fichier"
 
 msgid "File write path"
-msgstr "Chemin du fichier en cours d'écriture"
+msgstr "Путь записи файла"
 
 msgid "Files"
 msgstr "Файлы"
@@ -2240,13 +2240,13 @@ msgid "Filters"
 msgstr "Фильтры"
 
 msgid "Final release"
-msgstr "Version finale"
+msgstr "Финальная версия"
 
 msgid "Finish"
-msgstr "Terminer"
+msgstr "Завершить"
 
 msgid "First Notification"
-msgstr "Première notification"
+msgstr "Первое уведомление"
 
 msgid "First name"
 msgstr "Имя"
@@ -2255,7 +2255,7 @@ msgid "First notification delay"
 msgstr "Задержка перед первым оповещением"
 
 msgid "First of month"
-msgstr "Premier du mois"
+msgstr "Первый месяц"
 
 msgid "First page"
 msgstr "Первая страница"
