@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-03 07:58+0300\n"
+"PO-Revision-Date: 2017-05-05 10:39+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -5718,31 +5718,31 @@ msgid "This installer will help you setup your database and your monitoring conf
 msgstr "Cet installeur vous aidera à paramétrer votre base de données et la configuration de votre supervision."
 
 msgid "This is a contact template."
-msgstr "Ceci est un modèle de contact."
+msgstr "Это шаблон контакта."
 
 msgid "This option must be disable in order to avoid latency problem."
-msgstr "Cette option doit être désactiver pour prévenir les problèmes liés à la latence."
+msgstr "Этот параметр должен быть отключен, чтобы избежать проблем с задержкой."
 
 msgid "This option must be enabled for Centreon Dashboard module."
-msgstr "Cette option doit être activée pour le module module de Tableau de bord Centreon "
+msgstr "Этот параметр должен быть включен для модуля Centreon Dashboard."
 
 msgid "This service is neither active nor passive"
-msgstr "Ce service n'est ni actif ni passif"
+msgstr "Эта служба не является ни активной, ни пассивной."
 
 msgid "This service is only checked in passive mode"
-msgstr "Le service est contrôlé uniquement en mode passif"
+msgstr "Эта служба проверяется только в пассивном режиме."
 
 msgid "This user is a simple user."
-msgstr "Cet utilisateur est un simple utilisateur."
+msgstr "Этот пользователь является простым пользователем."
 
 msgid "This user is an administrator."
-msgstr "Cet utilisateur est un administrateur."
+msgstr "Этот пользователь является администратором."
 
 msgid "This value must be a numerical value."
-msgstr "La valeur doit être numérique."
+msgstr "Это значение должно быть числовым."
 
 msgid "This view name is required"
-msgstr "Le nom de la vue est obligatoire"
+msgstr "Требуется указать название экрана"
 
 msgid "Thursday"
 msgstr "Четверг"
@@ -5778,7 +5778,7 @@ msgid "Timeout value for Centcore commands"
 msgstr "Время ожидания для команд СentСore"
 
 msgid "Timeouts"
-msgstr "Temps maximums d'exécution"
+msgstr "Максимальное время выполнения"
 
 msgid "Timeperiod"
 msgstr "Période de temps"
@@ -5793,13 +5793,13 @@ msgid "Timerange Overlaps"
 msgstr "Les périodes temporelles se superposent"
 
 msgid "Timezone"
-msgstr "Fuseau horaire"
+msgstr "Временная зона"
 
 msgid "Timezone / Location"
 msgstr "Временная зона / Местонахождение"
 
 msgid "Title"
-msgstr "Titre"
+msgstr "Название"
 
 msgid "Title Properties"
 msgstr "Параметры названий"
@@ -5808,16 +5808,16 @@ msgid "To"
 msgstr "Au"
 
 msgid "Today"
-msgstr "Aujourd'hui"
+msgstr "Сегодня"
 
 msgid "Today's Host log"
 msgstr "Log du jour de l'hôte"
 
 msgid "Tools"
-msgstr "Outils"
+msgstr "Инструментарий"
 
 msgid "Top Priority Hosts"
-msgstr "Hôtes prioritaires"
+msgstr "Приоритетные узлы сети"
 
 msgid "Topology"
 msgstr "Топология"
@@ -5829,7 +5829,7 @@ msgid "Total Time"
 msgstr "Общее время"
 
 msgid "Tracert"
-msgstr "Tracert"
+msgstr "Команда tracert"
 
 msgid "Transaction commit timeout"
 msgstr "Temps d'exécution maximum des \"commit\" de transaction"
@@ -5868,7 +5868,7 @@ msgid "Tuesday"
 msgstr "Вторник"
 
 msgid "Tuning"
-msgstr "Optimisation"
+msgstr "Оптимизация"
 
 msgid "Type"
 msgstr "Тип"
@@ -5898,7 +5898,7 @@ msgid "UNKNOWN Alerts"
 msgstr "Alertes UNKNOWN"
 
 msgid "UNKNOWN Mean Time"
-msgstr "UNKNOWN (Temps connu)"
+msgstr "НЕИЗВЕСТНЫЙ (Среднее время)"
 
 msgid "UNKNOWN Time"
 msgstr "Temps état UNKNOWN"
@@ -5907,7 +5907,7 @@ msgid "UNREACHABLE"
 msgstr "НЕДОСТУПНЫЙ"
 
 msgid "UP"
-msgstr "РАБОТАЕТ"
+msgstr "ДОСТУПЕН"
 
 msgid "URL"
 msgstr "URL"
@@ -5916,7 +5916,7 @@ msgid "URL Notes"
 msgstr "Lien d'information"
 
 msgid "Unable to install module"
-msgstr "Impossible d'installer le module"
+msgstr "Не удалось установить модуль"
 
 msgid "Undetermined"
 msgstr "Не определено"
@@ -5925,19 +5925,19 @@ msgid "Undetermined Time"
 msgstr "Temps état Indterminé"
 
 msgid "Unhandled Problems"
-msgstr "Неизвестные проблемы"
+msgstr "Неподтвержденные проблемы"
 
 msgid "Uninstall Module"
 msgstr "Удалить модуль"
 
 msgid "Unit"
-msgstr "Unité"
+msgstr "Ед. изм"
 
 msgid "Unit Properties"
 msgstr "Параметры единиц"
 
 msgid "Unix socket"
-msgstr "Socket Unix"
+msgstr "Сокет Unix"
 
 msgid "Unknown"
 msgstr "Неизвестный"
@@ -5946,58 +5946,58 @@ msgid "Unknown Alert"
 msgstr "Alerte Inconnu"
 
 msgid "Unknown Mean Time"
-msgstr "INCONNU (Temps connu)"
+msgstr "Неизвестный (Среднее время)"
 
 msgid "Unlock Services"
-msgstr "Déverrouiller les services"
+msgstr "Разблокировать службы"
 
 msgid "Unreachable"
 msgstr "Недоступный"
 
 msgid "Unreachable Alert"
-msgstr "Alerte Injoignable"
+msgstr "Оповещение о недоступности"
 
 msgid "Unreachable Alerts"
-msgstr "Alertes Injoignable"
+msgstr "Оповещения о недоступности"
 
 msgid "Unreachable Mean Time"
-msgstr "Injoignable (Temps connu)"
+msgstr "Недоступно (Среднее время)"
 
 msgid "Unreachable Time"
-msgstr "Temps état Injoignable"
+msgstr "Время недоступности"
 
 msgid "Unset Timerange"
 msgstr "Périodes temporelles indéfinies"
 
 msgid "Up"
-msgstr "Работает"
+msgstr "Доступный"
 
 msgid "Up Alert"
-msgstr "Alerte Disponible"
+msgstr "Оповещение о доступности"
 
 msgid "Up Alerts"
-msgstr "Alertes Disponible"
+msgstr "Оповещения о доступности"
 
 msgid "Up Mean Time"
-msgstr "Disponible (Temps connu)"
+msgstr "Доступно (Среднее время)"
 
 msgid "Up Time"
-msgstr "Temps état disponible"
+msgstr "Время доступности"
 
 msgid "Update informations"
-msgstr "Mettre à jour les informations"
+msgstr "Обновить информацию"
 
 msgid "Update mode"
-msgstr "Mode de mise à jour"
+msgstr "Режим обновления"
 
 msgid "Upgrade"
-msgstr "Mise à jour"
+msgstr "Обновление"
 
 msgid "Upgrade Information"
-msgstr "Information sur la mise à juour"
+msgstr "Информация об обновлении"
 
 msgid "Upgrade finished"
-msgstr "Mise à jour terminée"
+msgstr "Обновление завершено"
 
 msgid "Upper Limit"
 msgstr "Верхнее ограничение"
@@ -6009,16 +6009,16 @@ msgid "Use Retained Scheduling Info Option"
 msgstr "Rétention des données d'ordonnancement"
 
 msgid "Use SSL connection"
-msgstr "Utiliser une connexion SSL"
+msgstr "Использовать SSL соединение"
 
 msgid "Use TLS connection"
-msgstr "Utiliser une connexion TLS"
+msgstr "Использовать TLS соединение"
 
 msgid "Use embedded Perl implicitly"
-msgstr "Utilisation implicite de l'interpréteur Perl intégré"
+msgstr "Неявное использование встроенного интерпретатора Perl"
 
 msgid "Use large installation tweaks"
-msgstr "Activation des optimisations pour les installations de forte volumétrie"
+msgstr "Использовать оптимизацию для больших вариантов установки"
 
 msgid "Use service DNS"
 msgstr "Использовать службы DNS"
@@ -6033,13 +6033,13 @@ msgid "User"
 msgstr "Пользователи"
 
 msgid "User Group List"
-msgstr "Liste des groupes utilisateurs"
+msgstr "Список групп пользователей"
 
 msgid "User List"
-msgstr "Liste des utilisateurs"
+msgstr "Список пользователей"
 
 msgid "User Settings"
-msgstr "Paramètres utilisateurs"
+msgstr "Параметры пользователя"
 
 msgid "User displayname attribute"
 msgstr "Атрибуты отображаемого имени пользователя"
@@ -6057,7 +6057,7 @@ msgid "User group attribute"
 msgstr "Атрибуты группы пользователей"
 
 msgid "User kicked"
-msgstr "Utilisateur déconnecté"
+msgstr "Пользователь отключен"
 
 msgid "User lastname attribute"
 msgstr "Атрибуты фамилии пользователя"
@@ -6078,7 +6078,7 @@ msgid "Using a Template allows you to have multi-level Template connection"
 msgstr "Vous pouvez combiner plusieurs modèles pour en générer un nouveau"
 
 msgid "Using a Template exempts you to fill required fields"
-msgstr "Utiliser un modèle permet d'éviter de remplir les champs requis"
+msgstr "Использование шаблона освобождает Вас от заполнения обязательных полей"
 
 msgid "Utils database"
 msgstr "Base de données du broker"
@@ -6090,7 +6090,7 @@ msgid "VRML Image"
 msgstr "Изображение VRML"
 
 msgid "Valid Email"
-msgstr "Действительный e-mail"
+msgstr "Подтвержденный e-mail"
 
 msgid "Valid for an upgrade"
 msgstr "Valide pour une mise à jour"
@@ -6099,7 +6099,7 @@ msgid "Value"
 msgstr "Значение"
 
 msgid "Value must be numeric"
-msgstr "La valeur doit être numérique"
+msgstr "Значение должно быть числовым"
 
 msgid "Values"
 msgstr "Значения"
@@ -6108,10 +6108,10 @@ msgid "Vendor Name"
 msgstr "Название производителя"
 
 msgid "Verification Check"
-msgstr "Vérification du contrôle"
+msgstr "Проверка достоверности"
 
 msgid "Verification Check (Forced)"
-msgstr "Vérification du contrôle (Forcé)"
+msgstr "Проверка достоверности (форсированная)"
 
 msgid "Version"
 msgstr "Версия"
@@ -6216,22 +6216,22 @@ msgid "View a poller Configuration"
 msgstr "Afficher la configuration d'un collecteur"
 
 msgid "View an ACL"
-msgstr "Visualiser une ACL"
+msgstr "Просмотреть ACL"
 
 msgid "View an Action"
-msgstr "Visualiser une action"
+msgstr "Просмотреть действия"
 
 msgid "View an Escalation"
-msgstr "Visualiser une escalade"
+msgstr "Просмотреть эскалации"
 
 msgid "View an Extended Info"
-msgstr "Visualiser une information supplémentaire"
+msgstr "Просмотреть расширенную информацию"
 
 msgid "View command definition"
 msgstr "Voir la définition de la commande"
 
 msgid "View comments of hosts"
-msgstr "Visualiser les commentaires des hôtes"
+msgstr "Просмотреть комментарии для узлов сети"
 
 msgid "View contact notifications"
 msgstr "Показать оповещения для контактов"
@@ -6279,7 +6279,7 @@ msgid "Views Restrictions"
 msgstr "Restrictions d'accès aux vues"
 
 msgid "Virtual metrics"
-msgstr "Métriques/courbes virtuelles"
+msgstr "Виртуальные метрики"
 
 msgid "Virtuals"
 msgstr "Виртуальные метрики"
@@ -6297,7 +6297,7 @@ msgid "WARNING Alerts"
 msgstr "Alertes WARNING"
 
 msgid "WARNING Mean Time"
-msgstr "WARNING (Temps connu)"
+msgstr "ПРЕДУПРЕЖДЕНИЕ (Среднее время)"
 
 msgid "WARNING Time"
 msgstr "Temps état WARNING"
@@ -6315,13 +6315,13 @@ msgid "Warning Level"
 msgstr "Уровень \"Предупреждение\""
 
 msgid "Warning Mean Time"
-msgstr "WARNING (Temps connu)"
+msgstr "ПРЕДУПРЕЖДЕНИЕ (Среднее время)"
 
 msgid "Warning Threshold"
-msgstr "Niveau d'alerte"
+msgstr "Порог предупреждения"
 
 msgid "Warning: this value can be dangerous, use -1 if you have any doubt."
-msgstr "Attention : le changement de cette valeur peut avoir des conséquences importantes. Utiliser '-1' si vous avez le moindre doute"
+msgstr "Внимание: изменение этого значения может иметь серьезные последствия. Используйте '-1', если у вас есть какие-либо сомнения"
 
 msgid "Watermark Properties"
 msgstr "Параметры водяного знака"
@@ -6339,19 +6339,19 @@ msgid "Welcome"
 msgstr "Добро пожаловать"
 
 msgid "Welcome to Centreon Broker configuration"
-msgstr "Bienvenu dans la configuration de Centreon Broker"
+msgstr "Добро пожаловать в программу настройки Centreon Broker"
 
 msgid "Welcome to Centreon Setup"
-msgstr "Bienvenue dans le processus d'installation de Centreon"
+msgstr "Добро пожаловать в программу установки Centreon"
 
 msgid "Widget Information"
-msgstr "Informations sur le Widget"
+msgstr "Информация о виджетах"
 
 msgid "Widget Preferences for %s"
-msgstr "Préférences du Widget pour %s"
+msgstr "Настройки виджетов для %s"
 
 msgid "Widget Title"
-msgstr "Titre du Widget"
+msgstr "Название виджета"
 
 msgid "Widgets"
 msgstr "Виджеты"
@@ -6372,7 +6372,7 @@ msgid "Would you like to upgrade this widget?"
 msgstr "Souhaitez-vous monter en version ce widget?"
 
 msgid "Write"
-msgstr "Écriture"
+msgstr "Написать"
 
 msgid "Write metrics"
 msgstr "Générer les graphiques de performance"
@@ -6387,7 +6387,7 @@ msgid "Write timestamp"
 msgstr "Ecrire l'horodatage (timestamp)"
 
 msgid "Y/m/d"
-msgstr "д/м/г"
+msgstr "Y/m/d"
 
 msgid "Y/m/d - H:i:s"
 msgstr "d/m/Y - H:i:s"
@@ -6480,7 +6480,7 @@ msgid "Your license doesn't include any Administrator"
 msgstr "Ваша лицензия не включает в себя Администратора"
 
 msgid "Your license doesn't match any Zend ID of your machine"
-msgstr "Votre licence ne correspond à aucun Zend ID de ce serveur"
+msgstr "Ваша лицензия не соответствует Zend ID для Вашего сервера"
 
 msgid "Your license has expired"
 msgstr "Истек срок действия лицензии"
@@ -6492,7 +6492,7 @@ msgid "Your session is expired."
 msgstr "Ваша сессия с истекшим сроком действия."
 
 msgid "_Module_ is not a legal expression"
-msgstr "_Module_ n'est pas une expression autorisée"
+msgstr "_Module_ не является правильным выражением"
 
 msgid "bytes"
 msgstr "байты"
@@ -6555,7 +6555,7 @@ msgid "persistent"
 msgstr "Ré-insérer lors d'un redémarrage du moteur de supervision"
 
 msgid "s"
-msgstr "s"
+msgstr "с"
 
 msgid "seconds"
 msgstr "секунды"
