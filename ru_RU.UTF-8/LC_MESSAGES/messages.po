@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-05 16:48+0300\n"
+"PO-Revision-Date: 2017-05-07 01:02+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -4713,10 +4713,10 @@ msgid "Retention durations"
 msgstr "Длительности хранения информации"
 
 msgid "Retention file"
-msgstr "Fichier de rétention"
+msgstr "Файл хранения"
 
 msgid "Retention path"
-msgstr "Chemin des fichiers de rétention"
+msgstr "Путь к файлу хранения"
 
 msgid "Retry"
 msgstr "Повторить попытку"
@@ -4725,16 +4725,16 @@ msgid "Retry Check Interval"
 msgstr "Интервал между повторными попытками проверок"
 
 msgid "Retry interval"
-msgstr "Intervalle entre 2 tentatives"
+msgstr "Интервал повтора"
 
 msgid "Return to list"
-msgstr "Retourner à la liste"
+msgstr "Вернуться к списку"
 
 msgid "Review form after save"
 msgstr "Revoir le formulaire après la sauvegarde"
 
 msgid "Right Click here to add an autologin link directly to your bookmarks"
-msgstr "Clic droit ici afin d'ajouter un lien de connexion automatique directement dans vos marques-pages"
+msgstr "Щелкните здесь, чтобы добавить ссылку для автоматического входа в ваши закладки"
 
 msgid "Root password"
 msgstr "Пароль root"
@@ -4752,7 +4752,7 @@ msgid "Route parameters"
 msgstr "Параметры маршрута"
 
 msgid "Rows"
-msgstr "Lignes"
+msgstr "Линии"
 
 msgid "Rrdcached configuration : work only with Centreon Broker"
 msgstr "Настройка RRDCached : работает только с  Centreon Broker"
@@ -4761,16 +4761,16 @@ msgid "Rules"
 msgstr "Правила"
 
 msgid "Run Optimisation test (-s)"
-msgstr "Lancer un test d'Optimisation (-s)"
+msgstr "Запустить тест оптимизации (-s)"
 
 msgid "Run debug (-v)"
-msgstr "Lancer le débogage (-v)"
+msgstr "Запуск отладки (-v)"
 
 msgid "Run monitoring engine debug (-v)"
-msgstr "Lancer le débogage du moteur de supervision (-v)"
+msgstr "Запуск отладки ядра мониторинга (-v)"
 
 msgid "Running debug mode"
-msgstr "Exécution en mode débogage"
+msgstr "Выполнение режима отладки"
 
 msgid "SCHEDULED DOWNTIME"
 msgstr "ПЛАНОВОЕ ВРЕМЯ ПРОСТОЯ"
@@ -4785,31 +4785,31 @@ msgid "SNMP Traps"
 msgstr "Ловушки SNMP"
 
 msgid "SNMP information"
-msgstr "Informations SNMP"
+msgstr "Информация SNMP"
 
 msgid "SNMPTT log file"
-msgstr "Nom du Fichier de journalisation de SNMPTT"
+msgstr "Файл журнала SNMPTT"
 
 msgid "SOFT"
 msgstr "SOFT"
 
 msgid "SQL LIKE-clause expression"
-msgstr "Expression SQL à rechercher de type LIKE"
+msgstr "SQL выражение с условием LIKE"
 
 msgid "SQL debug"
 msgstr "Отладка SQL"
 
 msgid "SQL file included"
-msgstr "Fichier SQL inclus"
+msgstr "Включен SQL-файл"
 
 msgid "SQL matching"
 msgstr "SQL соответствие"
 
 msgid "SSH Information"
-msgstr "Informations SSH"
+msgstr "Информация SSH"
 
 msgid "SSH Private key"
-msgstr "Clé privée SSH"
+msgstr "Закрытый ключ SSH"
 
 msgid "SSH port"
 msgstr "Порт SSH"
@@ -4824,13 +4824,13 @@ msgid "SSO mode"
 msgstr "Режим SSO"
 
 msgid "SSO only"
-msgstr "Seulement SSO"
+msgstr "Только SSO"
 
 msgid "SSO trusted client addresses"
 msgstr "Доверенные клиентские адреса для SSO"
 
 msgid "Satellite configuration"
-msgstr "Configuration du collecteur"
+msgstr "Конфигурация спутника"
 
 msgid "Satellites"
 msgstr "Спутники"
@@ -4857,10 +4857,10 @@ msgid "Schedule an immediate check of all services on this host (forced)"
 msgstr "Запланировать немедленную проверку всех служб на этом узле сети (принудительно)"
 
 msgid "Schedule downtime for a host"
-msgstr "Planifier un temps d'arrêt pour un hôte"
+msgstr "Запланировать время простоя для узла сети"
 
 msgid "Schedule downtime for a service"
-msgstr "Planifier un temps d'arrêt pour un service"
+msgstr "Запланировать время простоя для службы"
 
 msgid "Schedule downtime for this host"
 msgstr "Запланировать время простоя для этого узла сети"
@@ -4869,16 +4869,16 @@ msgid "Schedule downtime for this service"
 msgstr "Запланировать время простоя для этой службы"
 
 msgid "Schedule immediate check"
-msgstr "Planifier un contrôle immédiat"
+msgstr "Запланировать немедленную проверку"
 
 msgid "Schedule immediate check (Forced)"
-msgstr "Planifier un contrôle immédiat (Forcé)"
+msgstr "Запланировать немедленную проверку (форсированную)"
 
 msgid "Schedule the check for a host"
-msgstr "Planifier la vérification pour un hôte"
+msgstr "Запланировать проверку для узла сети"
 
 msgid "Schedule the check for a host (Forced)"
-msgstr "Planifier la vérification pour un hôte (Forcé)"
+msgstr "Запланировать проверку для узла сети (форсированную)"
 
 msgid "Scheduled downtime"
 msgstr "Запланированное время простоя"
@@ -4887,10 +4887,10 @@ msgid "Scheduled event information"
 msgstr "Informations sur l'ordonnancement"
 
 msgid "Scheduling"
-msgstr "Planification"
+msgstr "Планирование"
 
 msgid "Scheduling options"
-msgstr "Параметры расписания"
+msgstr "Параметры планирования расписания"
 
 msgid "Search"
 msgstr "Поиск"
@@ -4908,7 +4908,7 @@ msgid "Search user base DN"
 msgstr "Поиск пользователя в базе DN"
 
 msgid "Secondary Priority Hosts"
-msgstr "Hôtes secondaires"
+msgstr "Вторичные приоритетные узлы сети"
 
 msgid "Seconds"
 msgstr "Секунды"
@@ -4917,7 +4917,7 @@ msgid "Select Timeperiod..."
 msgstr "Выбрать период времени..."
 
 msgid "Select a connector..."
-msgstr "Sélectionner un connecteur..."
+msgstr "Выбрать соединение..."
 
 msgid "Select a downtime type"
 msgstr "Выберите тип времени простоя"
@@ -4932,13 +4932,13 @@ msgid "Send signal"
 msgstr "Отправить сигнал"
 
 msgid "Sequential"
-msgstr "Séquentiellement"
+msgstr "Последовательный"
 
 msgid "Serialization protocol"
-msgstr "Protocole de sérialisation"
+msgstr "Протокол сериализации"
 
 msgid "Server Information"
-msgstr "Informations sur le serveur"
+msgstr "Информация о сервере"
 
 msgid "Server Status"
 msgstr "Статус сервера"
@@ -4947,16 +4947,16 @@ msgid "Service"
 msgstr "Служба"
 
 msgid "Service Categories"
-msgstr "Catégories de service"
+msgstr "Категории служб"
 
 msgid "Service Category Filter"
 msgstr "Фильтр категорий служб"
 
 msgid "Service Check Execution Option"
-msgstr "Contrôle actif des services"
+msgstr "Опции выполнения проверки службы"
 
 msgid "Service Check Execution Time"
-msgstr "Durée de contrôle du service"
+msgstr "Время выполнения проверки службы"
 
 msgid "Service Check Options"
 msgstr "Параметры проверки службы"
@@ -4965,16 +4965,16 @@ msgid "Service Check Retry Logging Option"
 msgstr "Journalisation des tests de confirmation de service"
 
 msgid "Service Check Scheduling Options"
-msgstr "Options d'ordonnancement des services"
+msgstr "Опции планирования проверки службы"
 
 msgid "Service Check Timeout"
 msgstr "Temps maximum d'exécution d'un contrôle de service"
 
 msgid "Service Commands"
-msgstr "Commandes du service"
+msgstr "Команды службы"
 
 msgid "Service Configuration"
-msgstr "Configuration du service"
+msgstr "Конфигурация службы"
 
 msgid "Service Description"
 msgstr "Описание службы"
@@ -4983,7 +4983,7 @@ msgid "Service Description Search Key"
 msgstr "Entrez le nom d'un service"
 
 msgid "Service Extended Info"
-msgstr "Informations supplémentaires du service"
+msgstr "Расширенная информация о службе"
 
 msgid "Service Freshness Check Interval"
 msgstr "Intervalle de contrôle de la fraicheur du résultat du service"
@@ -5022,10 +5022,10 @@ msgid "Service Notifications"
 msgstr "Оповещения службы"
 
 msgid "Service Performance Data File"
-msgstr "Fichier de données de performance de service"
+msgstr "Файл данных производительности службы"
 
 msgid "Service Performance Data File Mode"
-msgstr "Mode du fichier de données de performance de service"
+msgstr "Режим файла данных производительности службы"
 
 msgid "Service Performance Data File Processing Command"
 msgstr "Commande de traitement du fichier des données de performance du service"
@@ -5034,7 +5034,7 @@ msgid "Service Performance Data File Processing Interval"
 msgstr "Intervalle de traitement des données de performance de service"
 
 msgid "Service Performance Data File Template"
-msgstr "Modèle de fichier de données de performance de service"
+msgstr "Шаблон файла данных производительности службы"
 
 msgid "Service Performance Data Processing Command"
 msgstr "Commande de traitement des données de performance du service"
@@ -5148,10 +5148,10 @@ msgid "Services : Set Downtime"
 msgstr "Службы : Установить время простоя"
 
 msgid "Services Actions Access"
-msgstr "Accès aux actions sur les services"
+msgstr "Доступ к действиям служб"
 
 msgid "Services Actively Checked"
-msgstr "Services actuellement contrôlés"
+msgstr "Проверяемые службы"
 
 msgid "Services Comments"
 msgstr "Комментарии служб"
@@ -5160,7 +5160,7 @@ msgid "Services Downtimes"
 msgstr "Время простоев служб"
 
 msgid "Services Escalation"
-msgstr "Escalades des services"
+msgstr "Эскалации служб"
 
 msgid "Services Escalation Options"
 msgstr "Параметры эскалации для служб"
@@ -5178,10 +5178,10 @@ msgid "Services Resources"
 msgstr "Ресурсы служб"
 
 msgid "Services Status"
-msgstr "État des services"
+msgstr "Состояние служб"
 
 msgid "Services Uses"
-msgstr "Services utilisés"
+msgstr "Используемые службы"
 
 msgid "Services by Host"
 msgstr "Службы по узлам сети"
@@ -5205,7 +5205,7 @@ msgid "Services informations"
 msgstr "Информации о службах"
 
 msgid "Services: Set Downtime"
-msgstr "Services: Planifier un temps d'arrêt"
+msgstr "Службы: Установить время простоя"
 
 msgid "Sessions"
 msgstr "Сеансы"
@@ -5253,10 +5253,10 @@ msgid "Set this view as your default view?"
 msgstr "Установить этот вид, как ваш вид по умолчанию?"
 
 msgid "Setting up basic configuration"
-msgstr "Installation de la configuration basique"
+msgstr "Настройка базовой конфигурации"
 
 msgid "Setting up configuration file"
-msgstr "Installation des fichiers de configurations"
+msgstr "Настройка файла конфигурации"
 
 msgid "Setup"
 msgstr "Конфигурация"
@@ -5310,7 +5310,7 @@ msgid "Shutdown Monitoring Engine"
 msgstr "Выключение ядра мониторинга"
 
 msgid "Simple poller"
-msgstr "Collecteur uniquement"
+msgstr "Простой сборщик"
 
 msgid "Size to max"
 msgstr "Максимальный размер"
@@ -5319,40 +5319,40 @@ msgid "Skin Menu Selection"
 msgstr "Выберите внешний вид меню"
 
 msgid "Snmp Traps"
-msgstr "Traps SNMP"
+msgstr "Ловушки SNMP"
 
 msgid "Snmp trap Groups"
-msgstr "Groupe de traps SNMP"
+msgstr "Группы ловушек SNMP"
 
 msgid "Snmp trap manufacturer"
-msgstr "Constructeur de traps SNMP"
+msgstr "Ловушки SNMP производителей"
 
 msgid "Soft Service Dependencies Option"
 msgstr "Vérification des dépendances de service"
 
 msgid "Some database poller updates are not active; check your Monitoring platform"
-msgstr "Certains collecteurs ne mettent pas à jour la base de données; contrôler votre plate-forme de supervision"
+msgstr "Некоторые обновления сборщика(-ов) базы данных неактивны; Проверьте свою платформу мониторинга"
 
 msgid "Some hosts child has not the same instance"
-msgstr "Certains hôtes enfants ne sont pas supervisés par le même ordonnanceur"
+msgstr "У некоторых дочерних узлов сети разные экземпляры сборщиков"
 
 msgid "Some hosts parent has not the same instance"
-msgstr "Certains hôtes parents ne sont pas supervisés par le même ordonnanceur"
+msgstr "У некоторых родительских узлов сети разные экземпляры сборщиков"
 
 msgid "Sorry your license is not valid\n"
-msgstr "Désolé, votre licence n'est pas valide \n"
+msgstr "К сожалению, ваша лицензия недействительна \n"
 
 msgid "Sorry, your command line does not contain any $ARGn$ macro."
-msgstr "Désolé, votre ligne de commande ne contient pas de macro $ARGn$."
+msgstr "К сожалению, Ваша команда не содержит никаких макросов $ARGn$."
 
 msgid "Sorry, your command line does not contain any $_SERVICE$ macro or $_HOST$ macro."
-msgstr "Désolé, votre ligne de commande ne contient pas de macro $_SERVICE$ ou $_HOST$."
+msgstr "К сожалению, Ваша команда не содержит никаких макросов $_SERVICE$ или $_HOST$."
 
 msgid "Sort by  "
 msgstr "Сортировка по"
 
 msgid "Sort by Host Name"
-msgstr "Trier par nom d'hôte"
+msgstr "Сортировать по названию узла сети"
 
 msgid "Sort by Name"
 msgstr "Сортировать по названию"
@@ -5361,10 +5361,10 @@ msgid "Sort by Status"
 msgstr "Сортировать по статусу"
 
 msgid "Sort by host name"
-msgstr "Trier par nom d\\'hôte"
+msgstr "Сортировать по названию узла сети"
 
 msgid "Sort by last change date"
-msgstr "Trier selon la durée passée dans l'état courant"
+msgstr "Сортировать по последнему изменению данных"
 
 msgid "Sort by last check"
 msgstr "Сортировать по последней проверке"
@@ -5373,16 +5373,16 @@ msgid "Sort by last hard state change date"
 msgstr "Trier selon le dernier changement d'état hard en date"
 
 msgid "Sort by plugin output"
-msgstr "Trier selon le message de sortie des sondes"
+msgstr "Сортировать по выводу плагина"
 
 msgid "Sort by retries number"
-msgstr "Trier par nombre d'essais"
+msgstr "Сортировать по числу попыток"
 
 msgid "Sort by service description"
-msgstr "Trier par nom de service"
+msgstr "Сортировать по описанию службы"
 
 msgid "Sort by severity"
-msgstr "Trier par criticité"
+msgstr "Сортировать по важности"
 
 msgid "Sort by status"
 msgstr "Сортировать по статусу"
@@ -5391,13 +5391,13 @@ msgid "Sort problems by"
 msgstr "Сортировка проблем по"
 
 msgid "Sort results (ascendant)"
-msgstr "Trier les résultats (ascendant)"
+msgstr "Сортировать результаты (по возрастанию)"
 
 msgid "Sort results (descendant)"
-msgstr "Trier les résultats (descendant)"
+msgstr "Сортировать результаты (по убыванию)"
 
 msgid "Sorting"
-msgstr "Tri"
+msgstr "Сортировка"
 
 msgid "Sound for Critical status"
 msgstr "Звук для статуса Критический"
@@ -5442,43 +5442,43 @@ msgid "Stalking Options"
 msgstr "Options à enregistrer"
 
 msgid "Start Hour"
-msgstr "Heure de début"
+msgstr "Час начала"
 
 msgid "Start Minute"
-msgstr "Minute de début"
+msgstr "Минута начала"
 
 msgid "Start Time"
-msgstr "Début"
+msgstr "Время начала"
 
 msgid "Start script for broker daemon"
 msgstr "Стартовый скрипт Centreon Broker"
 
 msgid "Start time"
-msgstr "Heure de démarrage du programme"
+msgstr "Время начала программы"
 
 msgid "Started"
 msgstr "Начат с "
 
 msgid "State"
-msgstr "Statut"
+msgstr "Состояние"
 
 msgid "State Breakdowns For Host Services"
-msgstr "Статус аварий для служб узла связи"
+msgstr "Состояние аварий для служб узла связи"
 
 msgid "State Retention File"
-msgstr "Fichier de rétention des états"
+msgstr "Файл хранения состояния"
 
 msgid "State Retention Option"
-msgstr "Rétention d'états"
+msgstr "Опции хранения состояния"
 
 msgid "State Type"
 msgstr "Тип статуса"
 
 msgid "States Retention"
-msgstr "Rétention des états"
+msgstr "Хранение состояния"
 
 msgid "Statistics"
-msgstr "Activer les statistiques"
+msgstr "Включение статистики"
 
 msgid "Status"
 msgstr "Статус"
@@ -5511,19 +5511,19 @@ msgid "Sticky"
 msgstr "Стикер"
 
 msgid "Stop hiding graphs of selected Services"
-msgstr "Ne plus cacher les graphiques des services sélectionnés"
+msgstr "Прекратить скрывать графики выбранных служб"
 
 msgid "Stop rebuilding RRD Databases"
-msgstr "Arrêter la regénération des bases de données RRD"
+msgstr "Остановить сборку базы данных RRD"
 
 msgid "Storage Type"
-msgstr "Type de sauvegarde"
+msgstr "Тип хранения"
 
 msgid "Storage database"
-msgstr "Base de données de stockage"
+msgstr "База данных для хранения"
 
 msgid "Storage database name"
-msgstr "Nom de la base de données de stockage"
+msgstr "Название базы данных для хранения"
 
 msgid "Storage folders"
 msgstr "Папки для хранения"
@@ -5532,19 +5532,19 @@ msgid "Store LDAP password"
 msgstr "Хранение пароля LDAP"
 
 msgid "Store in performance data in data_bin"
-msgstr "Enregistrement des données de performance dans la table 'data_bin'"
+msgstr "Сохранять данные производительности в таблицу 'data_bin'"
 
 msgid "Store performance data in data_bin"
-msgstr "Enregistrement des données de performance dans la table 'data_bin'"
+msgstr "Сохранять данные производительности в таблицу 'data_bin'"
 
 msgid "String"
-msgstr "Chaine"
+msgstr "Строка"
 
 msgid "Submit"
 msgstr "Отправить"
 
 msgid "Submit command?"
-msgstr "Soumettre cette commande ?"
+msgstr "Отправить команду ?"
 
 msgid "Submit result"
 msgstr "Отправить результат"
@@ -5562,10 +5562,10 @@ msgid "Submit result for this service"
 msgstr "Отправить результат для этой службы"
 
 msgid "Sum"
-msgstr "Somme"
+msgstr "Сумма"
 
 msgid "Summary"
-msgstr "Résumé"
+msgstr "Сводка"
 
 msgid "Sunday"
 msgstr "Воскресенье"
@@ -5574,10 +5574,10 @@ msgid "Support Information"
 msgstr "Информация о техподдержке"
 
 msgid "Synchronize Media Directory"
-msgstr "Synchroniser le répertoire des images"
+msgstr "Синхронизировать каталог изображений"
 
 msgid "Syslog Logging Option"
-msgstr "Journalisation syslog"
+msgstr "Параметры журналирования Syslog"
 
 msgid "System Logs"
 msgstr "Системные журналы"
@@ -5619,16 +5619,16 @@ msgid "Temporary recovery mode"
 msgstr "Activation du fichier temporaire"
 
 msgid "Test the plugin"
-msgstr "Tester la sonde"
+msgstr "Проверить плагин"
 
 msgid "The SQL files are located in %s"
-msgstr "Les fichiers SQL sont situés dans %s"
+msgstr "Файлы SQL расположены в %s"
 
 msgid "The config name already exists"
-msgstr "Le nom utilisé existe déjà"
+msgstr "Название конфигурации уже существует"
 
 msgid "The directory isn't valid"
-msgstr "Le répertoire n'est pas valide"
+msgstr "Недопустимый каталог"
 
 msgid "The end time must be greater than the start time."
 msgstr "La date de fin doit être plus grande que la date de début."
