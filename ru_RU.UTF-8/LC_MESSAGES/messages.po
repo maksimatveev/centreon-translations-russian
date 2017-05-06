@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-07 01:31+0300\n"
+"PO-Revision-Date: 2017-05-07 02:30+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -21,6 +21,9 @@ msgstr "Обязательные поля"
 
 msgid "$HOSTADDRESS$"
 msgstr "$HOSTADDRESS$"
+
+msgid "*The timezone used is configured on your user settings"
+msgstr "*Le fuseau horaire utilisé est celui configuré dans vos paramètres utilisateur"
 
 msgid "1 Column"
 msgstr "1 столбец"
@@ -991,6 +994,9 @@ msgstr "Выберите источник для графика"
 msgid "Circular Definition"
 msgstr "Définition circulaire"
 
+msgid "Cleanup check interval"
+msgstr "Intervalle de contrôle de la purge"
+
 msgid "Clear arguments"
 msgstr "Очистить аргументы"
 
@@ -1309,8 +1315,14 @@ msgstr "Créer une vue"
 msgid "Create new view "
 msgstr "Créer une nouvelle vue"
 
+msgid "Create wiki page"
+msgstr "Créer une page"
+
 msgid "Creating database user"
 msgstr "Création de l'utilisation accédant aux bases de données"
+
+msgid "Creation time"
+msgstr "Date de création"
 
 msgid "Critical"
 msgstr "Критический"
@@ -1420,11 +1432,23 @@ msgstr "Source de données déjà utilisée pour cet Hôte/Service"
 msgid "Data Sources"
 msgstr "Sources de données"
 
+msgid "Data free"
+msgstr "Espace libre"
+
+msgid "Data size"
+msgstr "Taille des données"
+
 msgid "Data source type"
 msgstr "Type de source de données"
 
+msgid "Database Engine"
+msgstr "Moteur de la base de données"
+
 msgid "Database Host Address (default: localhost)"
 msgstr "Adresse de l'hôte de la base de données (par défaut : localhost)"
+
+msgid "Database Informations"
+msgstr "Informations de la base de données"
 
 msgid "Database Port (default: 3306)"
 msgstr "Port d'accès à la base de données (par défaut : 3306)"
@@ -1707,6 +1731,9 @@ msgstr "Afficher les statistiques des collecteurs dans le bandeau"
 
 msgid "Display all Services fo this host"
 msgstr "Afficher tous les services de cet hôte"
+
+msgid "Display comment on chart"
+msgstr "Afficher les commentaires sur le graphique"
 
 msgid "Display details"
 msgstr "Показать детально"
@@ -2443,6 +2470,9 @@ msgstr "H:i:s"
 msgid "HARD"
 msgstr "HARD"
 
+msgid "HTTP"
+msgstr "HTTP"
+
 msgid "HTTP Action Link"
 msgstr "Lien HTTP externe"
 
@@ -2764,6 +2794,9 @@ msgstr "Ресурсы узлов сети"
 msgid "Hosts Status"
 msgstr "État des hôtes"
 
+msgid "Hosts Templates"
+msgstr "Modèles d'hôtes"
+
 msgid "Hosts group state"
 msgstr "Статус группы узлов сети"
 
@@ -2854,6 +2887,9 @@ msgstr "Impossible de changer le serveur à cause d'une relation avec d'autres h
 msgid "Impossible to validate, one or more field is incorrect"
 msgstr "Impossible de valider, un ou plusieurs champs sont incorrects"
 
+msgid "In Downtime"
+msgstr "Temps d'arrêt démarré"
+
 msgid "In Scheduled Downtime?"
 msgstr "В запланированном времени простоя?"
 
@@ -2883,6 +2919,9 @@ msgstr "Включения"
 
 msgid "Incremental"
 msgstr "Incrémentale"
+
+msgid "Index size"
+msgstr "Taille de index"
 
 msgid "Indicators"
 msgstr "Indicateurs (KPI)"
@@ -2979,6 +3018,30 @@ msgstr "Отключить пользователя"
 
 msgid "Knowledge Base"
 msgstr "Base de connaissance"
+
+msgid "Knowledge base Database host"
+msgstr "Adresse de la base de données"
+
+msgid "Knowledge base Database password"
+msgstr "Mot de passe de l'utilisateur ayant accès à la base de données"
+
+msgid "Knowledge base Database prefix"
+msgstr "Préfix des tables de la base de données"
+
+msgid "Knowledge base database name"
+msgstr "Nom de la base de données de connaissance"
+
+msgid "Knowledge base database user"
+msgstr "Compte d'accès à la base de données"
+
+msgid "Knowledge base url"
+msgstr "URL d'accès à la base de connaissance"
+
+msgid "Knowledge wiki account (with delete right)"
+msgstr "Compte d'administration de la base de connaissance possédant les droits de suppression."
+
+msgid "Knowledge wiki account password"
+msgstr "Mot de passe du compte d'administration"
 
 msgid "LDAP"
 msgstr "LDAP"
@@ -3380,6 +3443,9 @@ msgstr "Нижнее ограничение"
 msgid "MACRO Expression"
 msgstr "Valeur de la ressource"
 
+msgid "MB"
+msgstr "MB"
+
 msgid "MIBs"
 msgstr "Файлы MIB"
 
@@ -3418,6 +3484,9 @@ msgstr "Options générales"
 
 msgid "Management"
 msgstr "Administration"
+
+msgid "Mandatory field"
+msgstr "Champ obligatoire"
 
 msgid "Mandatory field for ACL purpose."
 msgstr "Ce champs est obligatoire pour l'utilisation des ACL"
@@ -4052,6 +4121,9 @@ msgstr "Файл объектов конфигурации"
 msgid "Object ID"
 msgstr "ID de l'objet"
 
+msgid "Object Name"
+msgstr "Nom de l'objet"
+
 msgid "Object Type"
 msgstr "Тип объекта"
 
@@ -4063,6 +4135,9 @@ msgstr "Nom de l'objet"
 
 msgid "Object type : "
 msgstr "Type d'objet :"
+
+msgid "Objets"
+msgstr "Objets"
 
 msgid "Obsess Over Host"
 msgstr "Contrôle de vérification de l'hôte"
@@ -4098,6 +4173,9 @@ msgid "Ok/Up"
 msgstr "OK/Работает"
 
 msgid "One peer retention"
+msgstr "Rétention des données pour connexion depuis serveur Central"
+
+msgid "One peer retention mode"
 msgstr "Rétention des données pour connexion depuis serveur Central"
 
 msgid "Only one option must be set."
@@ -4457,8 +4535,14 @@ msgstr "Certificat public"
 msgid "Public views list"
 msgstr "List des vues publiques"
 
+msgid "Queue file"
+msgstr "File d'évènements"
+
 msgid "Queued events"
 msgstr "File d'évènements"
+
+msgid "Queued file enabled"
+msgstr "File d'évènements activée"
 
 msgid "Quick Search"
 msgstr "Быстрый поиск"
@@ -4816,6 +4900,9 @@ msgstr "Порт SSH"
 
 msgid "SSL"
 msgstr "SSL"
+
+msgid "SSO blacklist client addresses"
+msgstr "Adresses des clients de bloqués"
 
 msgid "SSO login header"
 msgstr "Заголовок HTTP SSO"
@@ -5789,6 +5876,12 @@ msgstr "Alias de la période temporelle"
 msgid "Timeperiod Name"
 msgstr "Nom de la période temporelle"
 
+msgid "Timeperiod templates"
+msgstr "Modèle de période temporelle"
+
+msgid "Timeperiods"
+msgstr "Périodes de temps"
+
 msgid "Timerange Overlaps"
 msgstr "Les périodes temporelles se superposent"
 
@@ -6387,13 +6480,19 @@ msgid "Write timestamp"
 msgstr "Ecrire l'horodatage (timestamp)"
 
 msgid "Y/m/d"
-msgstr "Y/m/d"
+msgstr "d/m/Y"
 
 msgid "Y/m/d - H:i:s"
 msgstr "d/m/Y - H:i:s"
 
 msgid "Y/m/d G:i"
 msgstr "d/m/Y G:i"
+
+msgid "Y/m/d H:i"
+msgstr "d/m/Y H:i"
+
+msgid "Y/m/d H:i:s"
+msgstr "d/m/Y - H:i:s"
 
 msgid "Yes"
 msgstr "Да"
@@ -6504,10 +6603,10 @@ msgid "create or load"
 msgstr "создать или загрузить"
 
 msgid "d/m/Y H:i"
-msgstr "d/m/Y H:i"
+msgstr "d/m/Y - H:i"
 
 msgid "d/m/Y H:i:s"
-msgstr "d/m/Y H:i:s"
+msgstr "d/m/Y - H:i:s"
 
 msgid "days"
 msgstr "дни"
@@ -6535,6 +6634,9 @@ msgstr "impossible de valider, un ou plusieurs champs sont incorrects"
 
 msgid "it's required"
 msgstr "Requis"
+
+msgid "m/d/Y (H:i:s)"
+msgstr "d/m/Y - H:i:s"
 
 msgid "minutes"
 msgstr "минуты"
