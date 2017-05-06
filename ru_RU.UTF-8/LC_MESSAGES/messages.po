@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-07 01:02+0300\n"
+"PO-Revision-Date: 2017-05-07 01:27+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -2645,7 +2645,7 @@ msgid "Host commands and shortcuts"
 msgstr "Команды и ярлыки узла сети"
 
 msgid "Host dependency"
-msgstr "Dépendance d'hôte"
+msgstr "Зависимости узлов сети"
 
 msgid "Host escalations"
 msgstr "Эскалации узлов сети"
@@ -2699,13 +2699,13 @@ msgid "Hostgroup Relations"
 msgstr "Отношения групп узлов сети"
 
 msgid "Hostgroup dependency"
-msgstr "Dépendance de groupe d'hôtes"
+msgstr "Зависимости групп узлов сети"
 
 msgid "Hostgroups / Hosts"
-msgstr "Groupes d'hôtes / Hôtes"
+msgstr "Группы узлов сети / Узлы сети"
 
 msgid "Hostgroups Escalation"
-msgstr "Escalades des groupes d'hôtes"
+msgstr "Эскалации групп узлов сети"
 
 msgid "Hostgroups Summary"
 msgstr "Сводка по группам узлов сети"
@@ -2816,7 +2816,7 @@ msgid "Images Directory"
 msgstr "Каталог изображений"
 
 msgid "Impacted Resources"
-msgstr "Ressources impactées"
+msgstr "Ретинированные ресурсы"
 
 msgid "Implied Contact Groups"
 msgstr "Предлагаемые группы контактов"
@@ -3534,7 +3534,7 @@ msgid "Meta service"
 msgstr "Метаслужба"
 
 msgid "Meta-service dependency"
-msgstr "Dépendance de méta-services"
+msgstr "Зависимости метаслужб"
 
 msgid "Metaservices"
 msgstr "Метаслужбы"
@@ -3789,7 +3789,7 @@ msgid "More detailed information"
 msgstr "Informations détaillées"
 
 msgid "Move Export Files"
-msgstr "Deplacer les fichiers générés"
+msgstr "Переместить файлы экспорта"
 
 msgid "Move files to directory"
 msgstr "Déplacer les fichier vers le répertoire"
@@ -4515,7 +4515,7 @@ msgid "Re-schedule the next check for this service (forced)"
 msgstr "Запланировать следующую проверку для этой службы (принудительно)"
 
 msgid "Reach Centreon Front-end"
-msgstr "Autoriser l'utilisateur à se connecter à l'interface web"
+msgstr "Разрешить пользователю подключаться к веб-интерфейсу"
 
 msgid "Read Only"
 msgstr "Только чтение"
@@ -5118,7 +5118,7 @@ msgid "Servicegroup"
 msgstr "Группа служб"
 
 msgid "Servicegroup dependency"
-msgstr "Зависимости группы служб"
+msgstr "Зависимости групп служб"
 
 msgid "Servicegroups / Hosts"
 msgstr "Группа служб / узлы сети"
