@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-07 02:30+0300\n"
+"PO-Revision-Date: 2017-05-07 07:44+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon team\n"
 "MIME-Version: 1.0\n"
@@ -2492,7 +2492,7 @@ msgid "Help"
 msgstr "Помощь"
 
 msgid "Help Desk"
-msgstr "Centre des services"
+msgstr "Служба поддержки"
 
 msgid "Here is a self-explanatory image."
 msgstr "Здесь вы можете увидеть поясняющее изображение"
@@ -2504,7 +2504,7 @@ msgid "Hidden Graph And Legend"
 msgstr "Скрыть график и легенду условных обозначений"
 
 msgid "Hide graphs of selected Services"
-msgstr "Cacher les graphiques des services sélectionnés"
+msgstr "Скрыть графики выбранных служб"
 
 msgid "High Flap Threshold"
 msgstr "Верхний порог изменяемости состояния"
@@ -2516,7 +2516,7 @@ msgid "High Service Flap Threshold"
 msgstr "Seuil haut de détection de bagotage des statuts de service"
 
 msgid "Highly detailed information"
-msgstr "Informations très détaillées"
+msgstr "Более подробная информация"
 
 msgid "History"
 msgstr "История"
@@ -2543,19 +2543,19 @@ msgid "Host Category Name"
 msgstr "Название категории узлов сети"
 
 msgid "Host Check Execution Option"
-msgstr "Contrôle actif des hôtes"
+msgstr "Опции выполнения проверки узла сети"
 
 msgid "Host Check Execution Time"
-msgstr "Durée de contrôle de l'hôte"
+msgstr "Время выполнения проверки узла сети"
 
 msgid "Host Check Options"
 msgstr "Параметры проверки узла сети"
 
 msgid "Host Check Properties"
-msgstr "Propriétés du contrôle de l'hôte"
+msgstr "Настройки проверки узла сети"
 
 msgid "Host Check Scheduling Options"
-msgstr "Options d'ordonnancement des hôtes"
+msgstr "Опции планирования проверки узла сети"
 
 msgid "Host Check Timeout"
 msgstr "Temps maximum d'exécution d'un contrôle d'hôte"
@@ -2651,7 +2651,7 @@ msgid "Host Templates"
 msgstr "Шаблоны узла сети"
 
 msgid "Host Templates name"
-msgstr "Nom des modèles d'hôtes"
+msgstr "Название шаблонов узла сети"
 
 msgid "Host Uses"
 msgstr "Hôtes utilisés"
@@ -2666,7 +2666,7 @@ msgid "Host category"
 msgstr "Категория узла сети"
 
 msgid "Host check latency"
-msgstr "Latence du contrôle de l'hôte"
+msgstr "Задержка проверки узла сети"
 
 msgid "Host check options"
 msgstr "Параметры проверки узла сети"
@@ -2681,10 +2681,10 @@ msgid "Host escalations"
 msgstr "Эскалации узлов сети"
 
 msgid "Host is currently on downtime"
-msgstr "L'hôte est actuellement en période d'arrêt"
+msgstr "Узлы сети в состоянии времени простоя"
 
 msgid "Host links (host template links)"
-msgstr "Liés aux modèles d'hôtes"
+msgstr "Ссылки на узлы сети (шаблоны узлов сети)"
 
 msgid "Host list"
 msgstr "Список узлов сети"
@@ -2693,7 +2693,7 @@ msgid "Host name"
 msgstr "Название узла сети"
 
 msgid "Host name is already in use"
-msgstr "Le nom de l'hôte existe déjà"
+msgstr "Название узла сети уже используется"
 
 msgid "Host notifications"
 msgstr "Оповещения узла сети"
@@ -2717,7 +2717,7 @@ msgid "HostGroup"
 msgstr "Группа узлов сети"
 
 msgid "HostGroup or Host Required"
-msgstr "Groupe d'hôtes ou hôte requis"
+msgstr "Требуется группа узлов сети/Узел сети"
 
 msgid "HostGroups"
 msgstr "Группы узла сети"
@@ -2768,7 +2768,7 @@ msgid "Hosts : Set Downtime"
 msgstr "Узлы сети : Установить время простоя"
 
 msgid "Hosts Actions Access"
-msgstr "Accès aux actions sur les hôtes"
+msgstr "Доступ к действиям узлов сети"
 
 msgid "Hosts Actively Checked"
 msgstr "Hôtes actuellement contrôlés"
@@ -2786,16 +2786,16 @@ msgid "Hosts Groups"
 msgstr "Группы узлов сети"
 
 msgid "Hosts Groups Shared"
-msgstr "Groupes d'hôtes partagés"
+msgstr "Общие группы узлов сети"
 
 msgid "Hosts Resources"
 msgstr "Ресурсы узлов сети"
 
 msgid "Hosts Status"
-msgstr "État des hôtes"
+msgstr "Статусы узлов сети"
 
 msgid "Hosts Templates"
-msgstr "Modèles d'hôtes"
+msgstr "Шаблоны узлов сети"
 
 msgid "Hosts group state"
 msgstr "Статус группы узлов сети"
@@ -2810,7 +2810,7 @@ msgid "Hours"
 msgstr "Часы"
 
 msgid "Hover on timeline to see more information"
-msgstr "Survoler la chronologie pour obtenir plus d'informations"
+msgstr "Наведите курсор мыши на временную шкалу для получения дополнительной информации"
 
 msgid "IP"
 msgstr "IP"
@@ -2825,10 +2825,10 @@ msgid "Icon"
 msgstr "Иконка"
 
 msgid "Illegal Macro Output Characters"
-msgstr "Charactères illégaux dans la valeur des macros"
+msgstr "Недопустимые символы в названии макроса"
 
 msgid "Illegal Object Name Characters"
-msgstr "Caractères illégaux dans le nom de l'objet"
+msgstr "Недопустимые символы в названии объекта"
 
 msgid "Image"
 msgstr "Изображение"
@@ -2864,28 +2864,28 @@ msgid "Implied Server"
 msgstr "Предлагаемый сервер"
 
 msgid "Implied page"
-msgstr "Pages Impliquées"
+msgstr "Подразумеваемая страница"
 
 msgid "Import"
-msgstr "Importer"
+msgstr "Импорт"
 
 msgid "Import SNMP traps from MIB file"
 msgstr "Импорт ловушек SNMP из файла MIB"
 
 msgid "Import from LDAP servers"
-msgstr "Importer à partir d'un serveur LDAP"
+msgstr "Импорт из сервров LDAP"
 
 msgid "Import users manually"
-msgstr "Importer les utilisateurs manuellement"
+msgstr "Импортировать пользователей вручную"
 
 msgid "Impossible"
-msgstr "Impossible"
+msgstr "Невозможно"
 
 msgid "Impossible to change server due to parentship with other hosts"
-msgstr "Impossible de changer le serveur à cause d'une relation avec d'autres hôtes"
+msgstr "Невозможно изменить сервер из-за взаимных отношений с другими узлами сети"
 
 msgid "Impossible to validate, one or more field is incorrect"
-msgstr "Impossible de valider, un ou plusieurs champs sont incorrects"
+msgstr "Невозможно проверить, одно или несколько полей неверны"
 
 msgid "In Downtime"
 msgstr "Temps d'arrêt démarré"
@@ -5697,7 +5697,7 @@ msgid "Template inheritance"
 msgstr "Наследование от шаблона"
 
 msgid "Template name is already in use"
-msgstr "Ce nom de modèle est déjà utilisé"
+msgstr "Название шаблона уже используется"
 
 msgid "Templates"
 msgstr "Шаблоны"
@@ -5718,58 +5718,58 @@ msgid "The directory isn't valid"
 msgstr "Недопустимый каталог"
 
 msgid "The end time must be greater than the start time."
-msgstr "La date de fin doit être plus grande que la date de début."
+msgstr "Время окончания должно быть больше времени начала."
 
 msgid "The entire process should take around ten minutes."
-msgstr "Le processus complet devrait prendre environ dix minutes."
+msgstr "Весь процесс займет около десяти минут."
 
 msgid "The form has not been submitted since 15 minutes. Please retry to resubmit"
-msgstr "Le formulaire n'a pas été enovyé depuis 15 minutes. Essayer de renvoyer celui-ci"
+msgstr "Форма не была отправлена в течении 15 минут. Повторите попытку"
 
 msgid "The given license file is not valid"
-msgstr "Le fichier de licence n'est pas valide"
+msgstr "Недопустимый файл лицензии."
 
 msgid "The installation is now finished. To get further information regarding Centreon please visit the following links"
-msgstr "L'installation est maintenant terminée. Pour plus d'informations concernant Centreon utiliser les liens suivants"
+msgstr "Установка завершена. Чтобы получить дополнительную информацию о Centreon, пожалуйста, посетите следующие ссылки"
 
 msgid "The license has been successfully installed"
-msgstr "La licence a été installée avec succès"
+msgstr "Лицензия была успешно установлена"
 
 msgid "The list of pollers is <a href=\"./main.php?p=60901\">here</a>."
-msgstr "La liste des collecteur est disponible <a href=\"./main.php?p=60901\">ici</a>."
+msgstr "Список сборщиков находится <a href=\"./main.php?p=60901\">здесь</a>."
 
 msgid "The name of block configuration"
 msgstr "Nom de l'objet configuré"
 
 msgid "The name of the poller is mandatory"
-msgstr "Le nom du collecteur est obligatoire"
+msgstr "Название сборщика обязательно"
 
 msgid "The port must be numeric"
-msgstr "La port doit être numérique"
+msgstr "Порт должен быть числовым"
 
 msgid "The related host no longer exists in Centreon configuration. Please reload the configuration."
-msgstr "L'hôte n'existe pas dans la configuration Centreon. s'il vous plaît recharger la configuration."
+msgstr "Связанный узел сети больше не существует в конфигурации Centreon. Перезагрузите конфигурацию."
 
 msgid "The rrdcached configuration must have a option."
-msgstr "La configuration du module RRDCached doit avoir une option"
+msgstr "Конфигурация rrdcached должна иметь опцию."
 
 msgid "The same OID element already exists"
-msgstr "Le même OID existe déjà"
+msgstr "Элемент OID уже существует"
 
 msgid "The selected user didn't see any resources"
-msgstr "L'utilisateur sélectionné ne voit aucune ressource"
+msgstr "Выбранный пользователь не видит каких-либо ресурсов"
 
 msgid "The selected user is not enable."
-msgstr "L'utilisateur sélectionné n'est pas activé."
+msgstr "Выбранный пользователь не активирован."
 
 msgid "The type of block configuration"
 msgstr "Le type du bloc de configuration"
 
 msgid "The wizard is corrupted."
-msgstr "L'assistant est endommagé."
+msgstr "Мастер настройки поврежден."
 
 msgid "The wizard is not correctly initialized."
-msgstr "L'assistant n'est pas initialisé correctement."
+msgstr "Мастер настройки инициализирован неправильно."
 
 msgid "Thickness"
 msgstr "Толщина"
@@ -5778,7 +5778,7 @@ msgid "This Month"
 msgstr "Этот месяц"
 
 msgid "This Service is flapping"
-msgstr "Le statut du service bagote"
+msgstr "Эта служба нестабильная"
 
 msgid "This Week"
 msgstr "Эта неделя"
@@ -5787,22 +5787,22 @@ msgid "This Year"
 msgstr "Этот год"
 
 msgid "This description is in conflict with another one that is already defined in the selected relation(s)"
-msgstr "Cette description est en conflit avec une autre description qui est déjà définie dans la(les) relation(s) sélectionnée(s)"
+msgstr "Это описание находится в конфликте с другим, которое уже определено в выбранном отношении (-ях)"
 
 msgid "This directive can be used multiple times, see nagios documentation."
-msgstr "Cette directive peut être utilisée plusieurs fois, se reporter à la documentation de nagios."
+msgstr "Эта директива может использоваться многократно, см. Документацию Nagios."
 
 msgid "This host is never checked"
-msgstr "Cet hôte n'est jamais vérifié"
+msgstr "Этот узел сети никогда не проверяется"
 
 msgid "This host is only checked in passive mode"
-msgstr "L'hôte est contrôlé uniquement en mode passif"
+msgstr "Этот узел сети проверяется только в пассивном режиме"
 
 msgid "This host no longer exists in Centreon configuration. Please reload the configuration."
-msgstr "Cet hôte n'existe pas dans la configuration Centreon. s'il vous plaît recharger la configuration."
+msgstr "Этот узел сети больше не существует в конфигурации Centreon. Перезагрузите конфигурацию."
 
 msgid "This installer will help you setup your database and your monitoring configuration."
-msgstr "Cet installeur vous aidera à paramétrer votre base de données et la configuration de votre supervision."
+msgstr "Этот установщик поможет Вам настроить базу данных и конфигурацию мониторинга."
 
 msgid "This is a contact template."
 msgstr "Это шаблон контакта."
@@ -5856,7 +5856,7 @@ msgid "Time Zone"
 msgstr "Временная зона"
 
 msgid "Time period"
-msgstr "Période de temps"
+msgstr "Временной период"
 
 msgid "Timeout"
 msgstr "Задержка"
@@ -5868,19 +5868,19 @@ msgid "Timeouts"
 msgstr "Максимальное время выполнения"
 
 msgid "Timeperiod"
-msgstr "Période de temps"
+msgstr "Временной период"
 
 msgid "Timeperiod Alias"
-msgstr "Alias de la période temporelle"
+msgstr "Псевдоним временного периода"
 
 msgid "Timeperiod Name"
-msgstr "Nom de la période temporelle"
+msgstr "Название временного периода"
 
 msgid "Timeperiod templates"
-msgstr "Modèle de période temporelle"
+msgstr "Шаблоны временного периода"
 
 msgid "Timeperiods"
-msgstr "Périodes de temps"
+msgstr "Временные периоды"
 
 msgid "Timerange Overlaps"
 msgstr "Les périodes temporelles se superposent"
@@ -5925,7 +5925,7 @@ msgid "Tracert"
 msgstr "Команда tracert"
 
 msgid "Transaction commit timeout"
-msgstr "Temps d'exécution maximum des \"commit\" de transaction"
+msgstr "Время ожидания закрепления транзакции"
 
 msgid "Translate Passive Host Checks Option"
 msgstr "Option de traduction des contrôles d'hôte passif"
@@ -5955,7 +5955,7 @@ msgid "True Regular Expression Matching Option"
 msgstr "Activation de la gestion systématique des expressions rationnelles"
 
 msgid "Trusted CA's certificate"
-msgstr "Certificat CA de confiance"
+msgstr "Сертификат доверенного центра сертификации"
 
 msgid "Tuesday"
 msgstr "Вторник"
@@ -6006,7 +6006,7 @@ msgid "URL"
 msgstr "URL"
 
 msgid "URL Notes"
-msgstr "Lien d'information"
+msgstr "Информация о URL"
 
 msgid "Unable to install module"
 msgstr "Не удалось установить модуль"
@@ -6015,7 +6015,7 @@ msgid "Undetermined"
 msgstr "Не определено"
 
 msgid "Undetermined Time"
-msgstr "Temps état Indterminé"
+msgstr "Неопределенное время"
 
 msgid "Unhandled Problems"
 msgstr "Неподтвержденные проблемы"
@@ -6036,7 +6036,7 @@ msgid "Unknown"
 msgstr "Неизвестный"
 
 msgid "Unknown Alert"
-msgstr "Alerte Inconnu"
+msgstr "Оповещение о неизвестном статусе"
 
 msgid "Unknown Mean Time"
 msgstr "Неизвестный (Среднее время)"
@@ -6162,7 +6162,7 @@ msgid "Users"
 msgstr "Пользователи"
 
 msgid "Users Access"
-msgstr "Gestion des accès utilisateurs"
+msgstr "Список контроля доступа пользователей"
 
 msgid "Using a Template Model allows you to have multi-level Template connections"
 msgstr "Vous pouvez combiner plusieurs modèles pour en générer un nouveau"
@@ -6186,7 +6186,7 @@ msgid "Valid Email"
 msgstr "Подтвержденный e-mail"
 
 msgid "Valid for an upgrade"
-msgstr "Valide pour une mise à jour"
+msgstr "Действительно для обновления"
 
 msgid "Value"
 msgstr "Значение"
@@ -6360,16 +6360,16 @@ msgid "View status of all services on host %s"
 msgstr "Просмотр статуса всех служб узла сети %s"
 
 msgid "Viewers"
-msgstr "Personnes ayant accès en visualisation"
+msgstr "Наблюдатели"
 
 msgid "Viewers group"
-msgstr "Groupes ayant accès en visualisation"
+msgstr "Группа наблюдателей"
 
 msgid "Views"
-msgstr "Vues"
+msgstr "Просмотры"
 
 msgid "Views Restrictions"
-msgstr "Restrictions d'accès aux vues"
+msgstr "Ограничения просмотров"
 
 msgid "Virtual metrics"
 msgstr "Виртуальные метрики"
@@ -6378,7 +6378,7 @@ msgid "Virtuals"
 msgstr "Виртуальные метрики"
 
 msgid "Visible page"
-msgstr "Pages visibles"
+msgstr "Видимая страница"
 
 msgid "Visualisation"
 msgstr "Визуализация"
@@ -6387,7 +6387,7 @@ msgid "WARNING"
 msgstr "ПРЕДУПРЕЖДЕНИЕ"
 
 msgid "WARNING Alerts"
-msgstr "Alertes WARNING"
+msgstr "Оповещения ПРЕДУПРЕЖДЕНИЕ"
 
 msgid "WARNING Mean Time"
 msgstr "ПРЕДУПРЕЖДЕНИЕ (Среднее время)"
@@ -6399,10 +6399,10 @@ msgid "Warning"
 msgstr "Предупреждение"
 
 msgid "Warning Alert"
-msgstr "Alerte Warning"
+msgstr "Оповещение \"Предупреждение\""
 
 msgid "Warning Area color"
-msgstr "Couleur de la surface Warning"
+msgstr "Цвет области \"Предупреждение\""
 
 msgid "Warning Level"
 msgstr "Уровень \"Предупреждение\""
@@ -6453,16 +6453,16 @@ msgid "Width"
 msgstr "Ширина"
 
 msgid "Wizard"
-msgstr "Помошник настройки"
+msgstr "Помощник настройки"
 
 msgid "WizardAjax"
-msgstr "Assistant de configuration"
+msgstr "Помощник настройки"
 
 msgid "Would you like to install this widget?"
-msgstr "Souhaitez-vous installer ce widget?"
+msgstr "Вы хотите установить этот виджет?"
 
 msgid "Would you like to upgrade this widget?"
-msgstr "Souhaitez-vous monter en version ce widget?"
+msgstr "Вы хотите обновить этот виджет?"
 
 msgid "Write"
 msgstr "Написать"
@@ -6630,10 +6630,10 @@ msgid "hours"
 msgstr "часы"
 
 msgid "impossible to validate, one or more field is incorrect"
-msgstr "impossible de valider, un ou plusieurs champs sont incorrects"
+msgstr "невозможно проверить, одно или несколько полей неверны"
 
 msgid "it's required"
-msgstr "Requis"
+msgstr "Это необходимо"
 
 msgid "m/d/Y (H:i:s)"
 msgstr "d/m/Y - H:i:s"
