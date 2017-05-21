@@ -3,9 +3,9 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-07 07:44+0300\n"
+"PO-Revision-Date: 2017-05-21 10:19+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
-"Language-Team: Centreon team\n"
+"Language-Team: Centreon Team\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -428,7 +428,7 @@ msgid "Additional daemon"
 msgstr "Дополнительный демон (процесс)"
 
 msgid "Additional freshness latency"
-msgstr "Latence additionnelle du contrôle de fraicheur"
+msgstr "Дополнительная актуальность задержки"
 
 msgid "Address"
 msgstr "Адрес"
@@ -932,7 +932,7 @@ msgid "Check Duration"
 msgstr "Длительность проверки"
 
 msgid "Check Freshness"
-msgstr "Contrôler la fraicheur du résultat"
+msgstr "Проверка актуальности"
 
 msgid "Check Options"
 msgstr "Опции проверки"
@@ -1640,10 +1640,10 @@ msgid "Disable Check"
 msgstr "Отключить проверку"
 
 msgid "Disable Event Handler"
-msgstr "Désactiver le gestionnaire d'évènements"
+msgstr "Отключить обработку событий"
 
 msgid "Disable Flap Detection"
-msgstr "Désactiver la détection de bagotage des statuts"
+msgstr "Отключить определение волатильности состояния"
 
 msgid "Disable Host Notifications"
 msgstr "Отключить оповещения для узла сети"
@@ -1844,10 +1844,10 @@ msgid "Enable Check"
 msgstr "Включить проверку"
 
 msgid "Enable Event Handler"
-msgstr "Activer le gestionnaire d'évènements"
+msgstr "Включить обработку событий"
 
 msgid "Enable Flap Detection"
-msgstr "Activer la détection de bagotage des statuts"
+msgstr "Включить определение волатильности состояния"
 
 msgid "Enable Host Notifications"
 msgstr "Включить оповещения для узла сети"
@@ -1883,7 +1883,7 @@ msgid "Enable TLS encryption"
 msgstr "Включить шифрование TLS"
 
 msgid "Enable Timezone management"
-msgstr "Activer la gestion des décalages horaire"
+msgstr "Включить управление временными зонами"
 
 msgid "Enable all service checks on this host"
 msgstr "Включить все проверки служб на этом узле сети"
@@ -1892,7 +1892,7 @@ msgid "Enable all service notifications on this host"
 msgstr "Включить все оповещения служб для этого узла сети"
 
 msgid "Enable embedded Perl"
-msgstr "Utilisation de l'interpréteur Perl intégré"
+msgstr "Включить встроенный интерпретатор Perl"
 
 msgid "Enable environment macros"
 msgstr "Activer les macros d'environnement"
@@ -1901,7 +1901,7 @@ msgid "Enable logging pid information"
 msgstr "Activer l'enregistrement des informations du pid"
 
 msgid "Enable negotiation"
-msgstr "Activer la négociation du protocole"
+msgstr "Включить согласование"
 
 msgid "Enable routing"
 msgstr "Включить маршрутизацию"
@@ -1910,40 +1910,40 @@ msgid "Enable shell"
 msgstr "Включение shell"
 
 msgid "Enable/Disable Checks for a host"
-msgstr "Activer/Désactiver les vérifications pour un hôte"
+msgstr "Вкл/Выкл проверки для узла сети"
 
 msgid "Enable/Disable Checks for a service"
-msgstr "Включать/Выключать проверки для службы"
+msgstr "Вкл/Выкл проверки для службы"
 
 msgid "Enable/Disable Checks services of a host"
-msgstr "Activer/Désactiver les contrôles des services de l'hôte"
+msgstr "Вкл/Выкл проверки служб для узла сети"
 
 msgid "Enable/Disable Event Handler for a host"
-msgstr "Activer/Désactiver le gestionnaire d'événements pour un hôte"
+msgstr "Вкл/Выкл обработку событий для узла сети"
 
 msgid "Enable/Disable Event Handler for a service"
-msgstr "Activer/Désactiver le gestionnaire d'événements pour un service"
+msgstr "Вкл/Выкл обработку событий для службы"
 
 msgid "Enable/Disable Event Handlers"
-msgstr "Включать/Выключать обработчики событий"
+msgstr "Вкл/Выкл обработку событий"
 
 msgid "Enable/Disable Flap Detection"
-msgstr "Включать/Выключать определение частого изменения статуса"
+msgstr "Вкл/Выкл определение волатильности состояния"
 
 msgid "Enable/Disable Flap Detection for a host"
-msgstr "Activer/Désactiver la détection de bagotage pour un hôte"
+msgstr "Вкл/Выкл определение волатильности состояния для узла сети"
 
 msgid "Enable/Disable Flap Detection of a service"
-msgstr "Activer/Désactiver la détection de bagotage d'un service"
+msgstr "Вкл/Выкл определение волатильности состояния для службы"
 
 msgid "Enable/Disable Notifications for a host"
-msgstr "Включить/Выключить оповещения для узла сети"
+msgstr "Вкл/Выкл оповещения для узла сети"
 
 msgid "Enable/Disable Notifications for a service"
-msgstr "Включать/Выключать оповещения для службы"
+msgstr "Вкл/Выкл оповещения для службы"
 
 msgid "Enable/Disable Notifications services of a host"
-msgstr "Включить/Выключить оповещения для служб на узле сети"
+msgstr "Вкл/Выкл оповещения для служб на узле сети"
 
 msgid "Enable/Disable Obsessive host checks"
 msgstr "Activer/Désactiver la commande post contrôle des hôtes"
@@ -1952,28 +1952,28 @@ msgid "Enable/Disable Obsessive service checks"
 msgstr "Activer/Désactiver la commande post contrôle des services"
 
 msgid "Enable/Disable Performance Data"
-msgstr "Activer/Désactiver les données de performance"
+msgstr "Вкл/Выкл данные производительности"
 
 msgid "Enable/Disable audit logs"
-msgstr "Activer/Désactiver les journaux d'audit"
+msgstr "Вкл/Выкл журналы аудита"
 
 msgid "Enable/Disable host checks"
-msgstr "Включать/Выключать проверки узла сети"
+msgstr "Вкл/Выкл проверки узла сети"
 
 msgid "Enable/Disable notifications"
-msgstr "Включать/Выключать оповещения"
+msgstr "Вкл/Выкл оповещения"
 
 msgid "Enable/Disable passive checks of a service"
-msgstr "Включение/Выключение пассивной проверки службы"
+msgstr "Вкл/Выкл пассивной проверки службы"
 
 msgid "Enable/Disable passive host checks"
-msgstr "Включать/Выключать пассивные проверки узла сети"
+msgstr "Вкл/Выкл пассивные проверки узла сети"
 
 msgid "Enable/Disable passive service checks"
-msgstr "Включать/Выключать пассивные проверки служб"
+msgstr "Вкл/Выкл пассивные проверки служб"
 
 msgid "Enable/Disable service checks"
-msgstr "Включать/Выключать проверки служб"
+msgstr "Вкл/Выкл проверки служб"
 
 msgid "Enabled"
 msgstr "Включено"
@@ -1991,7 +1991,7 @@ msgid "End Minute"
 msgstr "Конец минуты"
 
 msgid "End Time"
-msgstr "Fin"
+msgstr "Конец времени"
 
 msgid "End date"
 msgstr "Конец даты"
@@ -2012,7 +2012,7 @@ msgid "Entry time"
 msgstr "Время входа"
 
 msgid "Error in getting stats filename"
-msgstr "Erreur dans la récupération du nom de fichier des stats"
+msgstr "Ошибка в имени файла статистики"
 
 msgid "Error in hour definition"
 msgstr "Ошибка определения часа"
@@ -2072,7 +2072,7 @@ msgid "Event Handler"
 msgstr "Обработчик событий"
 
 msgid "Event Handler Enabled"
-msgstr "Включение обработчика событий"
+msgstr "Включение обработки событий"
 
 msgid "Event Handler Logging Option"
 msgstr "Параметры журналирования обработчика событий"
@@ -2201,7 +2201,7 @@ msgid "External Commands"
 msgstr "Внешние команды"
 
 msgid "Failed to execute command"
-msgstr "Impossible d'exécuter la commande"
+msgstr "Ошибка выполнения команды"
 
 msgid "Failover"
 msgstr "Отказоустойчивость"
@@ -2291,22 +2291,22 @@ msgid "Fixed"
 msgstr "Фиксированный"
 
 msgid "Flap Detection"
-msgstr "Обнаружение частых изменений статуса"
+msgstr "Обнаружение волатильности состояния"
 
 msgid "Flap Detection Enabled"
-msgstr "Включить обнаружение изменяемости состояния"
+msgstr "Включить обнаружение волатильности состояния"
 
 msgid "Flap Detection Option"
-msgstr "Опции обнаружения изменяемости состояния"
+msgstr "Параметры обнаружения волатильности состояния"
 
 msgid "Flapping"
-msgstr "Изменчивый"
+msgstr "Волатильный"
 
 msgid "Flapping Options"
-msgstr "Параметры изменчивости состояния узла сети"
+msgstr "Параметры волатильности состояния"
 
 msgid "Flapping options"
-msgstr "Опции изменяемости состояния"
+msgstr "Параметры волатильности состояния"
 
 msgid "Flexible"
 msgstr "Гибкий"
@@ -2345,10 +2345,10 @@ msgid "Freshness"
 msgstr "Свежесть"
 
 msgid "Freshness Control options"
-msgstr "Опции контроля свежести"
+msgstr "Опции контроля актуальности"
 
 msgid "Freshness Threshold"
-msgstr "Порог свежести"
+msgstr "Порог актуальности"
 
 msgid "Friday"
 msgstr "Пятница"
@@ -2507,13 +2507,13 @@ msgid "Hide graphs of selected Services"
 msgstr "Скрыть графики выбранных служб"
 
 msgid "High Flap Threshold"
-msgstr "Верхний порог изменяемости состояния"
+msgstr "Верхний порог волатильности состояния"
 
 msgid "High Host Flap Threshold"
-msgstr "Seuil haut dedétection de bagotage des statuts d'hôte"
+msgstr "Верхний порог волатильности состояния узла сети"
 
 msgid "High Service Flap Threshold"
-msgstr "Seuil haut de détection de bagotage des statuts de service"
+msgstr "Верхний порог волатильности состояния службы"
 
 msgid "Highly detailed information"
 msgstr "Более подробная информация"
@@ -2993,10 +2993,10 @@ msgid "Invert"
 msgstr "Инвертировать"
 
 msgid "Is This Host Flapping?"
-msgstr "Часто изменяется статус узла сети?"
+msgstr "Часто изменяется состояние узла сети?"
 
 msgid "Is This Service Flapping?"
-msgstr "Часто изменяется статус службы?"
+msgstr "Часто изменяется состояние службы?"
 
 msgid "Is Volatile"
 msgstr "Непостоянная?"
@@ -3429,13 +3429,13 @@ msgid "Lotus Domino :"
 msgstr "Lotus Domino :"
 
 msgid "Low Flap Threshold"
-msgstr "Нижний порог изменяемости состояния"
+msgstr "Нижний порог волатильности состояния"
 
 msgid "Low Host Flap Threshold"
-msgstr "Seuil bas de détection de bagotage des statuts d'hôte"
+msgstr "Нижний порог волатильности состояния узла сети"
 
 msgid "Low Service Flap Threshold"
-msgstr "Seuil bas de détection de bagotage des statuts de service"
+msgstr "Нижний порог волатильности состояния службы"
 
 msgid "Lower Limit"
 msgstr "Нижнее ограничение"
@@ -5778,7 +5778,7 @@ msgid "This Month"
 msgstr "Этот месяц"
 
 msgid "This Service is flapping"
-msgstr "Эта служба нестабильная"
+msgstr "Эта служба волатильная"
 
 msgid "This Week"
 msgstr "Эта неделя"
