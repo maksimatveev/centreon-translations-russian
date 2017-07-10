@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-07-10 18:14+0300\n"
+"PO-Revision-Date: 2017-07-10 18:30+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon Team\n"
 "MIME-Version: 1.0\n"
@@ -2483,7 +2483,7 @@ msgid "Hard Only"
 msgstr "Только жесткий тип состояния"
 
 msgid "Hard State Duration"
-msgstr "Длительность жесткого типа состояния"
+msgstr "Длит. жесткого типа состояния"
 
 msgid "Height"
 msgstr "Высота"
@@ -3137,7 +3137,7 @@ msgid "Last 7 Days"
 msgstr "За последние 7 дней"
 
 msgid "Last Check"
-msgstr "Последняя проверка"
+msgstr "Посл. проверка"
 
 msgid "Last Check Type"
 msgstr "Тип последней проверки"
@@ -3167,16 +3167,16 @@ msgid "Last check"
 msgstr "Dernier contrôle"
 
 msgid "Last connection attempt"
-msgstr "Dernier essai de connxion"
+msgstr "Последняя попытка подключения"
 
 msgid "Last connection success"
-msgstr "Dernière connexion réalisée"
+msgstr "Последнее успешное соединение"
 
 msgid "Last critical time"
 msgstr "Dernière fois dans un état critique"
 
 msgid "Last event at"
-msgstr "Dernier évènement à"
+msgstr "Последнее событие в"
 
 msgid "Last month"
 msgstr "За последний месяц"
@@ -4536,7 +4536,7 @@ msgid "Public views list"
 msgstr "List des vues publiques"
 
 msgid "Queue file"
-msgstr "File d'évènements"
+msgstr "Файлов в очереди"
 
 msgid "Queued events"
 msgstr "File d'évènements"
@@ -5559,7 +5559,7 @@ msgid "State Retention Option"
 msgstr "Опции хранения состояния"
 
 msgid "State Type"
-msgstr "Тип статуса"
+msgstr "Тип состояния"
 
 msgid "States Retention"
 msgstr "Хранение состояния"
@@ -5568,10 +5568,10 @@ msgid "Statistics"
 msgstr "Включение статистики"
 
 msgid "Status"
-msgstr "Статус"
+msgstr "Состояние"
 
 msgid "Status Details"
-msgstr "Сведения о статусе"
+msgstr "Сведения о состоянии"
 
 msgid "Status File Update Interval"
 msgstr "Интервал обновления файла статуса"
@@ -5580,7 +5580,7 @@ msgid "Status Graph"
 msgstr "График статуса"
 
 msgid "Status Information"
-msgstr "Информация о статусе"
+msgstr "Информация о состоянии"
 
 msgid "Status Map Image"
 msgstr "Изображение на карте статусов"
