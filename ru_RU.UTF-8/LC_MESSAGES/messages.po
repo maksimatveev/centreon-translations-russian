@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-05-21 10:19+0300\n"
+"PO-Revision-Date: 2017-07-10 18:14+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon Team\n"
 "MIME-Version: 1.0\n"
@@ -749,7 +749,7 @@ msgid "By Service Group"
 msgstr "По группе службы"
 
 msgid "By Status"
-msgstr "По статусу"
+msgstr "По состоянию"
 
 msgid "CRITICAL"
 msgstr "КРИТИЧЕСКИЙ"
@@ -1355,7 +1355,7 @@ msgid "Current Notification Number"
 msgstr "Число текущих оповещений"
 
 msgid "Current State Duration"
-msgstr "Длительность текущего статуса"
+msgstr "Длительность текущего состояния"
 
 msgid "Currently installing database... please do not interrupt this process.<br/><br/>"
 msgstr "Installation des bases de données en cours... ne pas interrompre le processus.<br/><br/>"
@@ -1520,7 +1520,7 @@ msgid "Default Severity"
 msgstr "Важность по умолчанию"
 
 msgid "Default Status"
-msgstr "Статус по умолчанию"
+msgstr "Состояние по умолчанию"
 
 msgid "Default acknowledgement settings"
 msgstr "Параметры подтверждений по умолчанию"
@@ -1718,7 +1718,7 @@ msgid "Display Poller Listing"
 msgstr "Afficher la liste des collecteurs"
 
 msgid "Display Status"
-msgstr "Показать статус"
+msgstr "Показать состояние"
 
 msgid "Display Template"
 msgstr "Utiliser le modèle"
@@ -2174,7 +2174,7 @@ msgid "Extended information"
 msgstr "Расширенная информация"
 
 msgid "Extended status information"
-msgstr "Расширенная информация о статусе"
+msgstr "Расширенная информация о состоянии"
 
 msgid "Extensions"
 msgstr "Расширения"
@@ -2480,10 +2480,10 @@ msgid "HTTP Link"
 msgstr "Ссылка HTTP"
 
 msgid "Hard Only"
-msgstr "Только жесткий статус"
+msgstr "Только жесткий тип состояния"
 
 msgid "Hard State Duration"
-msgstr "Длительность жесткого статуса"
+msgstr "Длительность жесткого типа состояния"
 
 msgid "Height"
 msgstr "Высота"
@@ -2639,7 +2639,7 @@ msgid "Host Shortcuts"
 msgstr "Ярлыки узла сети"
 
 msgid "Host Status"
-msgstr "Статус узла сети"
+msgstr "Состояние узла сети"
 
 msgid "Host Template"
 msgstr "Шаблон узла сети"
@@ -2699,10 +2699,10 @@ msgid "Host notifications"
 msgstr "Оповещения узла сети"
 
 msgid "Host state"
-msgstr "Статус узла сети"
+msgstr "Состояние узла сети"
 
 msgid "Host status"
-msgstr "Статус узла сети"
+msgstr "Состояние узла сети"
 
 msgid "Host template"
 msgstr "Шаблон узла сети"
@@ -2792,13 +2792,13 @@ msgid "Hosts Resources"
 msgstr "Ресурсы узлов сети"
 
 msgid "Hosts Status"
-msgstr "Статусы узлов сети"
+msgstr "Состояния узлов сети"
 
 msgid "Hosts Templates"
 msgstr "Шаблоны узлов сети"
 
 msgid "Hosts group state"
-msgstr "Статус группы узлов сети"
+msgstr "Состояние группы узлов сети"
 
 msgid "Hosts: Set Downtime"
 msgstr "Узел сети: установить время простоя"
@@ -3152,10 +3152,10 @@ msgid "Last Service Notification"
 msgstr "Последнее оповещение для службы"
 
 msgid "Last State Change"
-msgstr "Последнее изменение статуса"
+msgstr "Последнее изменение состояния"
 
 msgid "Last Status Change"
-msgstr "Последнее изменение статуса"
+msgstr "Последнее изменение состояния"
 
 msgid "Last Update"
 msgstr "Последнее обновление"
@@ -3594,7 +3594,7 @@ msgid "Meta Service Names"
 msgstr "Названия метаслужб"
 
 msgid "Meta Service State"
-msgstr "Статус метаслужбы"
+msgstr "Состояние метаслужбы"
 
 msgid "Meta Services"
 msgstr "Метаслужбы"
@@ -4323,7 +4323,7 @@ msgid "People linked to this Access list"
 msgstr "Люди, связанные с списком доступа"
 
 msgid "Percent State Change"
-msgstr "Процент изменений статуса"
+msgstr "Процент изменений состояния"
 
 msgid "Perfdata"
 msgstr "Данные производительности"
@@ -4425,7 +4425,7 @@ msgid "Poller Name"
 msgstr "Название сборщика"
 
 msgid "Poller States"
-msgstr "Статус сборщика"
+msgstr "Состояние сборщика"
 
 msgid "Poller Statistics"
 msgstr "Статистика сборщика"
@@ -4764,7 +4764,7 @@ msgid "Retain Non Status Information"
 msgstr "Rétention des informations ne concernant pas le statut"
 
 msgid "Retain Status Information"
-msgstr "Сохранение информации о статусе"
+msgstr "Сохранение информации о состоянии"
 
 msgid "Retained Contact Host Attribute Mask"
 msgstr "Masque de rétention des attributs des contacts d'hôtes"
@@ -5136,13 +5136,13 @@ msgid "Service Shortcuts"
 msgstr "Ярлыки службы"
 
 msgid "Service State"
-msgstr "Статус службы"
+msgstr "Состояние службы"
 
 msgid "Service Status"
-msgstr "Статус службы"
+msgstr "Состояние службы"
 
 msgid "Service Statuses"
-msgstr "Статусы служб"
+msgstr "Состояния служб"
 
 msgid "Service Template"
 msgstr "Шаблон службы"
@@ -5172,7 +5172,7 @@ msgid "Service escalations"
 msgstr "Эскалации служб"
 
 msgid "Service group state"
-msgstr "Статус группы служб"
+msgstr "Состояние группы служб"
 
 msgid "Service groups"
 msgstr "Группы служб"
@@ -5370,25 +5370,25 @@ msgid "Shared views list"
 msgstr "Список общих экранов"
 
 msgid "Show Critical status"
-msgstr "Показывать статус Критический"
+msgstr "Показывать состояние Критический"
 
 msgid "Show Down status"
-msgstr "Показывать статус Не работает"
+msgstr "Показывать состояние Не работает"
 
 msgid "Show OK status"
-msgstr "Показывать статус OK"
+msgstr "Показывать состояние OK"
 
 msgid "Show Unknown status"
-msgstr "Показывать статус Неизвестный"
+msgstr "Показывать состояние Неизвестный"
 
 msgid "Show Unreachable status"
-msgstr "Показывать статус Недоступный"
+msgstr "Показывать состояние Недоступный"
 
 msgid "Show Up status"
-msgstr "Показывать статус Работает"
+msgstr "Показывать состояние Работает"
 
 msgid "Show Warning status"
-msgstr "Показывать статус Предупреждение"
+msgstr "Показывать состояние Предупреждение"
 
 msgid "Show/Hide edit mode"
 msgstr "Показать/скрыть режим редактирования"
@@ -5445,7 +5445,7 @@ msgid "Sort by Name"
 msgstr "Сортировать по названию"
 
 msgid "Sort by Status"
-msgstr "Сортировать по статусу"
+msgstr "Сортировать по состоянию"
 
 msgid "Sort by host name"
 msgstr "Сортировать по названию узла сети"
@@ -6333,7 +6333,7 @@ msgid "View downtimes of hosts"
 msgstr "Просмотр времени простоя для узлов сети"
 
 msgid "View graphs for host %s"
-msgstr "Прсмотр графиков узла сети %s"
+msgstr "Просмотр графиков узла сети %s"
 
 msgid "View host status page"
 msgstr "Просмотр страницы статуса узла сети"
