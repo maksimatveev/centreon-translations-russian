@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Centreon web 3.x\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-12-15 16:32+0000\n"
-"PO-Revision-Date: 2017-07-10 18:30+0300\n"
+"PO-Revision-Date: 2017-10-16 10:03+0300\n"
 "Last-Translator: Maksim Matveev <m.matveev@hotmail.com>\n"
 "Language-Team: Centreon Team\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,7 @@ msgid "$HOSTADDRESS$"
 msgstr "$HOSTADDRESS$"
 
 msgid "*The timezone used is configured on your user settings"
-msgstr "*Le fuseau horaire utilisé est celui configuré dans vos paramètres utilisateur"
+msgstr "*Используемый часовой пояс изменяется в настройках вашей учетной записи пользователя"
 
 msgid "1 Column"
 msgstr "1 столбец"
@@ -401,7 +401,7 @@ msgid "Add view"
 msgstr "Добавить экран"
 
 msgid "Add viewer / viewer group"
-msgstr "Ajouter utilisateurs / groupes d'utilisateurs"
+msgstr "Добавить пользователя / группу пользователя"
 
 msgid "Add widget"
 msgstr "Добавить виджет"
@@ -719,7 +719,7 @@ msgid "Broker need options to be loaded"
 msgstr "Параметры Centreon Broker должны быть загружены"
 
 msgid "Buffering timeout"
-msgstr "Temps avant activation du processus de basculement (failover)"
+msgstr "Тайм-аут активации процесса восстановления после сбоя"
 
 msgid "Bug Tracker"
 msgstr "Багтрекер"
@@ -941,7 +941,7 @@ msgid "Check Period"
 msgstr "Период проверки"
 
 msgid "Check Result Reaper Frequency"
-msgstr "Fréquence de consolidation des résultats de contrôle"
+msgstr "Частота консолидации результатов проверки"
 
 msgid "Check User View"
 msgstr "Vérifier la vue de l'utilisateur"
@@ -974,7 +974,7 @@ msgid "Child Hosts"
 msgstr "Дочерние узлы сети"
 
 msgid "Child processes fork twice"
-msgstr "Création de deux processus enfants pour chaque contrôle"
+msgstr "Создание двух дочерних процессов для каждого элемента управления"
 
 msgid "Choose a configuration template:"
 msgstr "Выберите шаблон конфигурации:"
@@ -992,10 +992,10 @@ msgid "Choose the source to graph"
 msgstr "Выберите источник для графика"
 
 msgid "Circular Definition"
-msgstr "Définition circulaire"
+msgstr "Круговое определение"
 
 msgid "Cleanup check interval"
-msgstr "Intervalle de contrôle de la purge"
+msgstr "Интервал проверки очистки"
 
 msgid "Clear arguments"
 msgstr "Очистить аргументы"
@@ -1037,13 +1037,13 @@ msgid "Command inheritance"
 msgstr "Наследование от команды проверки"
 
 msgid "Command sent"
-msgstr "Commande envoyée"
+msgstr "Команда отправлена"
 
 msgid "Commands"
 msgstr "Команды"
 
 msgid "Commands definitions can contain Macros but they have to be valid."
-msgstr "Les définitions de commandes peuvent contenir des macros mais ces dernières doivent être valides."
+msgstr "Определения команд могут содержать макросы, но макросы должны быть действительными."
 
 msgid "Commands in buffer"
 msgstr "Команды в буфере"
@@ -1172,7 +1172,7 @@ msgid "Confirm user password"
 msgstr "Подтвердить пароль пользователя"
 
 msgid "Congratulations, you have successfully upgraded to Centreon version <b>%s</b>."
-msgstr "Félicitations, vous avez mis à jour avec succès Centreon en version <b>%s</b>."
+msgstr "Поздравляем, вы успешно обновились до версии Centreon <b>%s</b>."
 
 msgid "Connect"
 msgstr "Подключиться"
@@ -1295,34 +1295,34 @@ msgid "Could not find storage database. Session probably expired."
 msgstr "Не удалось найти базу данных хранилища. Вероятно, сессия истекла."
 
 msgid "Could not find utils database. Session probably expired."
-msgstr "Impossible de trouver la base de données du broker. La session a probablement expirée"
+msgstr "Не удалось найти базу данных Centreon Broker. Сессия, вероятно, истекла."
 
 msgid "Could not write into centcore.cmd. Please check file permissions."
-msgstr "Impossible d'écrire dans le fichier centcore.cmd. Vérifier les permissions sur ce fichier."
+msgstr "Не удалось записать в файл centcore.cmd. Проверьте права доступа для этого файла."
 
 msgid "Could not write to Centreon Broker's configuration file '%s' for monitoring engine '%s'. Please add writing permissions for the webserver's user"
-msgstr "Le fichier '%s' de configuration de Centreon Broker n'est pas accessible en écriture pour le moteur de supervision '%s'. Merci de le chemin du répertoire ou de le créer"
+msgstr "Не удалось написать конфигурационный файл Centreon Broker '%s' для ядра мониторинга '%s'. Пожалуйста, добавьте права доступа на запись для пользователя веб-сервера"
 
 msgid "Could not write to file '%s' for monitoring engine '%s'. Please add writing permissions for the webserver's user"
-msgstr "Impossible d'écrire dans le fichier '%s' du moteur de supervision '%s'. Merci de vérifier les permissions d'écriture pour l'utilisateur du serveur Wev"
+msgstr "Не удалось записать в файл '%s' для ядра мониторинга '%s'. Пожалуйста, добавьте права доступа на запись для пользователя веб-сервера"
 
 msgid "Create Services linked to the Template too"
 msgstr "Также создать связанные службы из шаблона"
 
 msgid "Create a view"
-msgstr "Créer une vue"
+msgstr "Создать представление"
 
 msgid "Create new view "
-msgstr "Créer une nouvelle vue"
+msgstr "Создать новое представление"
 
 msgid "Create wiki page"
-msgstr "Créer une page"
+msgstr "Создать вики-страницу"
 
 msgid "Creating database user"
-msgstr "Création de l'utilisation accédant aux bases de données"
+msgstr "Создать пользователя для доступа к базе данных"
 
 msgid "Creation time"
-msgstr "Date de création"
+msgstr "Дата создания"
 
 msgid "Critical"
 msgstr "Критический"
@@ -1331,22 +1331,22 @@ msgid "Critical Alert"
 msgstr "Alerte Critique"
 
 msgid "Critical Area color"
-msgstr "Couleur de la surface Critique"
+msgstr "Цвет области КРИТИЧЕСКИЙ"
 
 msgid "Critical Level"
 msgstr "Уровень \"Критический\""
 
 msgid "Critical Mean Time"
-msgstr "Critique (Temps connu)"
+msgstr "Среднее время КРИТИЧЕСКИЙ"
 
 msgid "Critical Threshold"
-msgstr "Niveau critique"
+msgstr "Niveau critique "
 
 msgid "Criticality"
-msgstr "Criticité"
+msgstr "Критичность"
 
 msgid "Current Activation"
-msgstr "Activation actuelle"
+msgstr "Текущая активация"
 
 msgid "Current Attempt"
 msgstr "Текущая попытка"
@@ -1358,10 +1358,10 @@ msgid "Current State Duration"
 msgstr "Длительность текущего состояния"
 
 msgid "Currently installing database... please do not interrupt this process.<br/><br/>"
-msgstr "Installation des bases de données en cours... ne pas interrompre le processus.<br/><br/>"
+msgstr "В настоящее время устанавливается и настраивается база данных... Пожалуйста, не прерывайте этот процесс.<br/><br/>"
 
 msgid "Curve"
-msgstr "Courbes"
+msgstr "Кривые"
 
 msgid "Curves"
 msgstr "Кривые графиков"
@@ -1376,22 +1376,22 @@ msgid "Custom macros"
 msgstr "Пользовательские макросы"
 
 msgid "DB host"
-msgstr "Adresse de la base de données"
+msgstr "Адрес (хост) базы данных"
 
 msgid "DB name"
-msgstr "Nom de la base de données"
+msgstr "Название базы данных"
 
 msgid "DB password"
-msgstr "Mot de passe de l'utilisateur"
+msgstr "Пароль доступа к базе данных"
 
 msgid "DB port"
-msgstr "Port de connexion à la base de données"
+msgstr "Порт доступа к базе данных"
 
 msgid "DB type"
-msgstr "Type de base de données"
+msgstr "Тип базы данных"
 
 msgid "DB user"
-msgstr "Utilisateur pour se connecter à la base de données"
+msgstr "Пользователь базы данных"
 
 msgid "DEF Type"
 msgstr "Тип DEF"
@@ -1400,10 +1400,10 @@ msgid "DOWN"
 msgstr "НЕ РАБОТАЕТ"
 
 msgid "Daemon core dumps"
-msgstr "Activer la possibilité de réaliser un 'core dump' (non compatible avec Centreon Engine)"
+msgstr "Включить возможность реализации дампа ядра мониторинга (несовместимо с Centreon Engine)"
 
 msgid "Daily"
-msgstr "Quotidienne"
+msgstr "Ежедневно"
 
 msgid "Dashboard"
 msgstr "Информационная панель"
@@ -1412,7 +1412,7 @@ msgid "Dashboard Integration Properties"
 msgstr "Propriétés d'intégration du tableau de bord"
 
 msgid "Data"
-msgstr "Données"
+msgstr "Данные"
 
 msgid "Data Count"
 msgstr "Количество данных"
@@ -1427,52 +1427,52 @@ msgid "Data Source Type"
 msgstr "Тип источника данных"
 
 msgid "Data Source already in use for this Host/Service"
-msgstr "Source de données déjà utilisée pour cet Hôte/Service"
+msgstr "Источник данных, уже используется для этого узла сети/службы"
 
 msgid "Data Sources"
-msgstr "Sources de données"
+msgstr "Источник данных"
 
 msgid "Data free"
-msgstr "Espace libre"
+msgstr "Без данных"
 
 msgid "Data size"
-msgstr "Taille des données"
+msgstr "Размер данных"
 
 msgid "Data source type"
-msgstr "Type de source de données"
+msgstr "Тип источника данных"
 
 msgid "Database Engine"
-msgstr "Moteur de la base de données"
+msgstr "Ядро базы данных"
 
 msgid "Database Host Address (default: localhost)"
-msgstr "Adresse de l'hôte de la base de données (par défaut : localhost)"
+msgstr "Адрес узла базы данных (по умолчанию: localhost)"
 
 msgid "Database Informations"
-msgstr "Informations de la base de données"
+msgstr "Информация о базе данных"
 
 msgid "Database Port (default: 3306)"
-msgstr "Port d'accès à la base de données (par défaut : 3306)"
+msgstr "Порт доступа к базе данных (по умолчанию: 3306)"
 
 msgid "Database generation"
-msgstr "Génération de la base de données"
+msgstr "Создание базы данных"
 
 msgid "Database information"
-msgstr "Information de la base de données"
+msgstr "Информация о базе данных"
 
 msgid "Database user name"
-msgstr "Nom de l'utilisateur ayant accès à la base de données"
+msgstr "Имя пользователя, имеющего доступ к базе данных"
 
 msgid "Database user password"
-msgstr "Mot de passe de l'utilisateur de la base de données"
+msgstr "Пароль пользователя, имеющего доступ к базе данных"
 
 msgid "Databases"
 msgstr "Базы данных"
 
 msgid "Date"
-msgstr "Date"
+msgstr "Дата"
 
 msgid "Date Format"
-msgstr "Format de date"
+msgstr "Формат даты"
 
 msgid "Day"
 msgstr "День"
@@ -1484,22 +1484,22 @@ msgid "Debug"
 msgstr "Отладка"
 
 msgid "Debug Configuration"
-msgstr "Configuration de débogage"
+msgstr "Конфигурация отладки"
 
 msgid "Debug Level"
-msgstr "уровень отладки"
+msgstr "Уровень отладки"
 
 msgid "Debug Properties"
-msgstr "Propriétés du débogage"
+msgstr "Свойства отладки"
 
 msgid "Debug Verbosity"
-msgstr "Niveau de détail du débogage"
+msgstr "Уровень детализации отладки"
 
 msgid "Debug file (Directory + File)"
-msgstr "Fichier de débogage (répertoire + fichier)"
+msgstr "Отладочный файл (Каталог + Файл)"
 
 msgid "Debug file Maximum Size"
-msgstr "Taille maximale du fichier de débogage"
+msgstr "Максимальный размер файла отладки"
 
 msgid "Debug messages"
 msgstr "Сообщения отладки"
@@ -1553,10 +1553,10 @@ msgid "Dependencies"
 msgstr "Зависимости"
 
 msgid "Dependencies Management"
-msgstr "Gestion des dépendances"
+msgstr "Управление зависимостями"
 
 msgid "Dependency check up"
-msgstr "Vérification des dépendances"
+msgstr "Проверка зависимостей"
 
 msgid "Dependent Host Groups Name"
 msgstr "Названия зависимых групп узлов сети"
@@ -1577,25 +1577,25 @@ msgid "Deploy Service"
 msgstr "Развернуть службы"
 
 msgid "Descending"
-msgstr "Décroissant"
+msgstr "Нисходящий"
 
 msgid "Describe arguments"
-msgstr "Décrire les arguments"
+msgstr "Описать аргументы"
 
 msgid "Describe macros"
-msgstr "Décrire les marcros"
+msgstr "Описать макросы"
 
 msgid "Description"
 msgstr "Описание"
 
 msgid "Destination directory"
-msgstr "Répertoire de destination"
+msgstr "Каталог назначения"
 
 msgid "Detach"
 msgstr "Détacher"
 
 msgid "Detach host group services"
-msgstr "Détacher les services du groupe d'hôtes"
+msgstr "Отсоединить службы от принимающей группы узлов сети"
 
 msgid "Detailed Graph"
 msgstr "Подробный график"
